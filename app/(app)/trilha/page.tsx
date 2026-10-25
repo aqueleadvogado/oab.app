@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { Card, CardBody } from "@/components/ui/card";
@@ -37,11 +38,16 @@ export default async function TrilhaPage() {
             A autenticação está funcionando. O conteúdo das aulas, os blocos
             interativos, o cronômetro e a revisão espaçada chegam na Fase 2.
           </p>
-          <form action="/auth/logout" method="POST">
-            <Button variant="secondary" type="submit">
-              Sair
+          <div className="flex gap-3 flex-wrap">
+            <Button asChild>
+              <Link href="/conta">Minha conta</Link>
             </Button>
-          </form>
+            <form action="/auth/logout" method="POST">
+              <Button variant="secondary" type="submit">
+                Sair
+              </Button>
+            </form>
+          </div>
         </CardBody>
       </Card>
     </main>
