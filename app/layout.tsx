@@ -5,6 +5,7 @@ import {
   JetBrains_Mono,
 } from "next/font/google";
 import "./globals.css";
+import { PwaRegister } from "@/components/pwa-register";
 
 const display = Bricolage_Grotesque({
   variable: "--font-display",
@@ -52,6 +53,11 @@ export const metadata: Metadata = {
     description:
       "Estude para o Exame de Ordem em blocos curtos, com cor, cronômetro e revisão automática.",
   },
+  appleWebApp: {
+    capable: true,
+    title: "OAB em Blocos",
+    statusBarStyle: "default",
+  },
 };
 
 export const viewport: Viewport = {
@@ -72,6 +78,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="bg-paper text-ink min-h-full flex flex-col font-body">
         {children}
+        <PwaRegister />
       </body>
     </html>
   );
