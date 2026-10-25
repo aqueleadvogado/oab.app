@@ -1,0 +1,62 @@
+[
+  {
+    "topico_slug": "prescricao-decadencia",
+    "titulo": "Prescrição e decadência: o que a FGV cobra sem dó",
+    "resumo": "Diferenciar prescrição (fulmina a pretensão, art. 189) de decadência (fulmina o direito), dominar os prazos do art. 206 (sobretudo o §3º — 3 anos para reparação civil) e as regras de suspensão/interrupção. Inclui pegadinhas como renúncia prévia (vedada pelo art. 191) e incapaz absoluto (art. 198, I).",
+    "duracao_min": 15,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Prescrição** (art. 189): violado o direito, nasce a pretensão, que se extingue pela prescrição nos prazos dos arts. 205 e 206. Fulmina a **pretensão** (direito de exigir em juízo), não o direito material.\n\n**Decadência**: fulmina o **próprio direito potestativo**. Em regra NÃO se suspende, impede ou interrompe (art. 207), salvo disposição legal.\n\n### Prazo geral\n- Prescrição: **10 anos** (art. 205), quando a lei não fixar prazo menor.\n\n### Prazos específicos do art. 206 (os campeões de prova)\n- **§1º — 1 ano**: hospedeiros, tabeliães, peritos de SA, credores contra sócios/liquidantes.\n- **§2º — 2 anos**: prestações alimentares vencidas.\n- **§3º — 3 anos**: aluguéis, rendas, juros/dividendos, enriquecimento sem causa, **reparação civil**, títulos de crédito, seguro de responsabilidade civil obrigatório.\n- **§4º — 4 anos**: tutela (contado da aprovação das contas).\n- **§5º — 5 anos**: dívidas líquidas em instrumento público/particular, honorários de profissional liberal, sucumbência do vencedor contra o vencido.\n\n### Decadência — regras-chave\n- Art. 207: regras de prescrição NÃO se aplicam (salvo lei em contrário).\n- Art. 208: aplica-se apenas o art. 195 e o art. 198, I (incapazes absolutos).\n- Art. 209: **nula** a renúncia à decadência legal.\n- Art. 210: decadência **legal** → juiz conhece de ofício.\n- Art. 211: decadência **convencional** → juiz NÃO pode suprir a alegação.\n\n### Suspensão (não corre a prescrição) — arts. 197 a 199\n- Entre cônjuges na constância; ascendentes/descendentes no poder familiar; tutelados/curatelados vs. tutor/curador.\n- Contra absolutamente incapazes (art. 3º, por remissão do art. 198, I).\n- Ausentes em serviço público da União/Estados/Municípios e militares em tempo de guerra.\n- Pendendo condição suspensiva, prazo não vencido ou ação de evicção.\n\n### Interrupção — art. 202\n- **Somente uma vez**. Hipóteses: despacho que ordena citação, protesto judicial, protesto cambial, apresentação de título em inventário/concurso, ato judicial que constitua em mora, ato inequívoco (ainda que extrajudicial) de reconhecimento da dívida pelo devedor."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**\"REPARAR em 3 anos, COBRAR em 5\"** — os dois prazos mais pedidos:\n- **Reparação civil** = 3 anos (art. 206, §3º, V).\n- **Dívida líquida em instrumento** = 5 anos (art. 206, §5º, I).\n\n**\"1-2-3-4-5\"** para o art. 206:\n- 1 = hospedeiro/perito/tabelião;\n- 2 = alimentos vencidos;\n- 3 = aluguel, reparação, enriquecimento, título de crédito;\n- 4 = tutela;\n- 5 = dívida líquida e honorários de profissional liberal.\n\n**Prescrição x Decadência (regra do bolso)**:\n- Pediu **indenização / cobrança de dívida** → PRESCRIÇÃO (ação condenatória).\n- Pediu **anular, desconstituir, extinguir contrato** → DECADÊNCIA (ação constitutiva negativa).\n\n**\"NUNca antes\"** — renúncia à prescrição só vale **depois** de consumada (art. 191). Renúncia prévia é inválida.\n\n**\"Absoluto não corre\"** — contra incapaz absoluto (art. 3º), prescrição NÃO corre (art. 198, I) e também não corre decadência legal (art. 208)."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha clássica\n\n### 1) Reparação civil = 3 anos (e não 5 nem 10)\nA FGV adora enunciar acidente de trânsito, dano moral, defeito de obra e colocar como alternativas \"5 anos (CDC)\" ou \"10 anos (prazo geral)\". A resposta de Direito Civil puro é **3 anos** (art. 206, §3º, V). Só vai para 5 anos se houver relação de consumo e o enunciado mencionar CDC.\n\n### 2) Renúncia prévia à prescrição é inválida\nArt. 191: só vale a renúncia **depois** que a prescrição se consumar e **sem prejuízo de terceiro**. Cláusula contratual que renuncia à prescrição antes do prazo correr é nula.\n\n### 3) Interrupção ocorre uma única vez\nArt. 202, caput: \"somente poderá ocorrer uma vez\". Depois de interrompida, o prazo recomeça a correr integralmente da data do ato interruptivo ou do último ato do processo.\n\n### 4) Decadência legal x convencional\n- **Legal**: juiz reconhece de ofício (art. 210) e a renúncia é nula (art. 209).\n- **Convencional** (fixada por contrato): juiz NÃO pode suprir a alegação (art. 211); a parte precisa alegar.\n\n### 5) Prescrição não corre contra absolutamente incapaz\nArt. 198, I combinado com art. 3º do CC (menor de 16 anos). Vale também para decadência legal, por força do art. 208.\n\n### 6) Súmula 229 STJ\nO pedido administrativo de pagamento à seguradora **suspende** o prazo prescricional da pretensão do segurado contra a seguradora até a resposta. Caiu de forma recorrente em questões de seguro.\n\n### 7) Prescrição alegável a qualquer tempo e grau\nArt. 193: pode ser alegada em qualquer grau de jurisdição pela parte a quem aproveita. Mas atenção: para alegar em grau de recurso extraordinário exige prequestionamento."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na prática do escritório\n\n**Caso 1 — Vítima procura você 4 anos após acidente de trânsito**\nCliente foi atropelado em março de 2022, só agora (2026) procura advogado. Quer indenização por danos morais e materiais. Diagnóstico rápido: **prescrição consumada** — art. 206, §3º, V (reparação civil, 3 anos). O prazo esgotou em março de 2025. Se ajuizar, a defesa alegará prescrição e o juiz extinguirá com resolução de mérito (CPC, art. 487, II). Oriente o cliente por escrito, documente a recusa, evite responsabilidade profissional.\n\n**Caso 2 — Credor com nota promissória vencida há 2 anos e 11 meses**\nCliente traz NP vencida em dezembro de 2023. Hoje é novembro de 2026. Pretensão cambial prescreve em 3 anos (art. 206, §3º, VIII). Falta 1 mês. Estratégia: ajuizar execução **imediatamente**; o despacho que ordenar a citação interrompe a prescrição (art. 202, I), e o prazo recomeça do último ato do processo (parágrafo único).\n\n**Caso 3 — Devedor quer \"renunciar antecipadamente\" à prescrição em contrato de mútuo**\nCláusula pedida pelo credor para ter garantia extra. Resposta: **nula** (art. 191). Só valeria renúncia depois de consumada a prescrição. Oriente a redigir cláusula de reconhecimento periódico da dívida (art. 202, VI, interrompe o prazo), que é lícita e eficaz.\n\n**Caso 4 — Ação anulatória de negócio por erro, 5 anos depois**\nCliente quer anular compra e venda celebrada em 2021 alegando erro essencial. É caso de **decadência**, prazo de 4 anos a contar do negócio (art. 178, II). Já decaiu o direito; juiz reconhece de ofício (art. 210)."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "João sofreu acidente de trânsito causado por Pedro em 15 de março de 2022, resultando em danos materiais ao veículo e lesões corporais leves. Em 20 de outubro de 2026, João procura advogado e pretende ajuizar ação de indenização por danos morais e materiais contra Pedro. Não há relação de consumo entre as partes nem qualquer causa suspensiva ou interruptiva da prescrição. Com base no Código Civil, assinale a alternativa correta:",
+        "alternativas": [
+          {"chave": "A", "texto": "A pretensão de João está prescrita, pois a reparação civil prescreve em três anos, contados do evento danoso."},
+          {"chave": "B", "texto": "A pretensão de João está dentro do prazo, pois a reparação civil prescreve em cinco anos."},
+          {"chave": "C", "texto": "A pretensão de João está dentro do prazo, aplicando-se o prazo geral de dez anos previsto no Código Civil."},
+          {"chave": "D", "texto": "A pretensão de João é imprescritível, por envolver direitos da personalidade atingidos por lesão corporal."}
+        ],
+        "correta": "A",
+        "comentario": "Correta a alternativa A: a pretensão de reparação civil prescreve em 3 anos (CC, art. 206, §3º, V), contados da violação do direito (art. 189). Decorridos mais de quatro anos entre o acidente (03/2022) e a procura pelo advogado (10/2026), a pretensão está prescrita. Erradas: B, porque o prazo de 5 anos do CDC só se aplica em relação de consumo (afastada pelo enunciado); C, porque o prazo geral de 10 anos (art. 205) só incide quando a lei não fixa prazo menor, e aqui há prazo específico; D, porque pretensões de reparação civil, mesmo decorrentes de lesão corporal, são prescritíveis — a jurisprudência só admite imprescritibilidade em hipóteses excepcionais (ex.: tortura em regime de exceção), não aplicáveis a acidente de trânsito comum.",
+        "lei_referencia": "CC art. 206, §3º, V"
+      },
+      {
+        "enunciado": "Marcos e Lucas celebraram contrato particular pelo qual Marcos emprestou a Lucas a quantia líquida de R$ 50.000,00, vencida em 10/06/2021. Em 05/08/2026, Marcos ajuíza ação de cobrança. Lucas, em contestação, alega prescrição. Marcos replica afirmando que, meses antes da ação, enviou carta na qual Lucas reconheceu expressamente a dívida e pediu novo prazo para pagar. Considerando as normas do Código Civil sobre prescrição, assinale a alternativa correta:",
+        "alternativas": [
+          {"chave": "A", "texto": "A prescrição é de três anos e já estava consumada antes do reconhecimento, não podendo ser revigorada."},
+          {"chave": "B", "texto": "O prazo prescricional é de cinco anos e foi validamente interrompido pelo reconhecimento inequívoco da dívida feito por Lucas, nos termos do art. 202, VI, do Código Civil."},
+          {"chave": "C", "texto": "A prescrição é de dez anos, por tratar-se de prazo geral, e sequer teria se consumado."},
+          {"chave": "D", "texto": "A interrupção da prescrição somente poderia ocorrer por despacho judicial que ordenasse a citação, sendo inválido o reconhecimento extrajudicial."}
+        ],
+        "correta": "B",
+        "comentario": "Correta a B: a pretensão de cobrança de dívida líquida constante de instrumento particular prescreve em 5 anos (CC, art. 206, §5º, I). O vencimento foi em 10/06/2021; o prazo se consumaria em 10/06/2026. Antes disso, Lucas reconheceu expressamente a dívida por escrito — hipótese de interrupção prevista no art. 202, VI (ato inequívoco, ainda que extrajudicial, que importe reconhecimento do direito pelo devedor). Interrompida a prescrição, o prazo recomeça integralmente (art. 202, parágrafo único), permitindo o ajuizamento em 08/2026. Erradas: A, porque o prazo é de 5 anos e não 3; C, porque existe prazo específico de 5 anos, afastando o decenal; D, porque o art. 202, VI, admite expressamente a interrupção por ato extrajudicial de reconhecimento pelo devedor.",
+        "lei_referencia": "CC arts. 202, VI, e 206, §5º, I"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "Qual o prazo prescricional da pretensão de reparação civil no Código Civil?",
+        "verso": "3 anos, contados da violação do direito (art. 189 c/c art. 206, §3º, V, do CC). Não confundir com o prazo quinquenal do CDC, que só incide em relação de consumo."
+      },
+      {
+        "frente": "A renúncia à prescrição pode ser feita antes de ela se consumar? E a decadência legal pode ser renunciada?",
+        "verso": "Não. A renúncia à prescrição só vale depois de consumada e sem prejuízo de terceiro (CC, art. 191). Quanto à decadência fixada em lei, a renúncia é nula (CC, art. 209); só a decadência convencional admite renúncia e, nesse caso, o juiz não pode supri-la de ofício (CC, art. 211)."
+      }
+    ]
+  }
+]
