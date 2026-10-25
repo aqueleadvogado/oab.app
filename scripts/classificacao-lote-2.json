@@ -1,0 +1,282 @@
+[
+  {
+    "questao_id": "Q-46-41",
+    "disciplina_slug": "civil",
+    "topico_slug": "contratos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-42",
+    "disciplina_slug": "civil",
+    "topico_slug": "contratos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-43",
+    "disciplina_slug": "eca",
+    "topico_slug": "ato-infracional",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-44",
+    "disciplina_slug": "eca",
+    "topico_slug": "direitos-fundamentais-eca",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-45",
+    "disciplina_slug": "cdc",
+    "topico_slug": "praticas-contratuais",
+    "confianca": "alta",
+    "nota": "Trata do procedimento de repactuação de dívidas por superendividamento (Lei 14.181/21 que alterou o CDC)."
+  },
+  {
+    "questao_id": "Q-46-46",
+    "disciplina_slug": "cdc",
+    "topico_slug": "praticas-contratuais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-47",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "titulos-credito-especie",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-48",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "falencia-recuperacao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-49",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "propriedade-industrial",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-50",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "empresario-sociedades-cc",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-51",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "cumprimento-execucao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-52",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "cumprimento-execucao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-53",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "juizados-civeis",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-54",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "recursos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-55",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "procedimento-comum",
+    "confianca": "media",
+    "nota": "Trata de ação de exigir contas (procedimento especial); classificado em procedimento-comum por ausência de tópico específico."
+  },
+  {
+    "questao_id": "Q-46-56",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "partes-procuradores",
+    "confianca": "media",
+    "nota": "Ação Civil Pública - legitimidade de associações e abandono da causa; sem tópico específico para ACP."
+  },
+  {
+    "questao_id": "Q-46-57",
+    "disciplina_slug": "penal",
+    "topico_slug": "extincao-punibilidade",
+    "confianca": "media",
+    "nota": "Discute perdão/retratação em crime contra dignidade sexual; poderia ser crimes-pessoa."
+  },
+  {
+    "questao_id": "Q-46-58",
+    "disciplina_slug": "penal",
+    "topico_slug": "teoria-crime",
+    "confianca": "alta",
+    "nota": "Desistência voluntária x arrependimento (iter criminis)."
+  },
+  {
+    "questao_id": "Q-46-59",
+    "disciplina_slug": "penal",
+    "topico_slug": "concurso-pessoas-crimes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-60",
+    "disciplina_slug": "penal",
+    "topico_slug": "teoria-crime",
+    "confianca": "alta",
+    "nota": "Dolo eventual (elemento subjetivo do tipo)."
+  },
+  {
+    "questao_id": "Q-46-61",
+    "disciplina_slug": "penal",
+    "topico_slug": "penas-medidas-seguranca",
+    "confianca": "alta",
+    "nota": "Remição de pena pelo estudo (LEP)."
+  },
+  {
+    "questao_id": "Q-46-62",
+    "disciplina_slug": "penal",
+    "topico_slug": "legislacao-especial",
+    "confianca": "alta",
+    "nota": "Lei de Drogas - tipo misto alternativo."
+  },
+  {
+    "questao_id": "Q-46-63",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "procedimento-comum",
+    "confianca": "alta",
+    "nota": "Prazo para resposta à acusação."
+  },
+  {
+    "questao_id": "Q-46-64",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "procedimento-comum",
+    "confianca": "media",
+    "nota": "Princípio da correlação (mutatio libelli) - sem tópico específico para sentença penal."
+  },
+  {
+    "questao_id": "Q-46-65",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "inquerito-policial",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-66",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "acao-penal",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-67",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "juizados-criminais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-68",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "prisao-cautelares",
+    "confianca": "media",
+    "nota": "Desclassificação e liberdade provisória - envolve tanto direito material (Estatuto do Desarmamento) quanto cautelares; prevalece prisão/cautelares."
+  },
+  {
+    "questao_id": "Q-46-69",
+    "disciplina_slug": "previdenciario",
+    "topico_slug": "beneficios-rgps",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-70",
+    "disciplina_slug": "previdenciario",
+    "topico_slug": "beneficios-rgps",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-71",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "jornada-salario",
+    "confianca": "alta",
+    "nota": "Equiparação salarial."
+  },
+  {
+    "questao_id": "Q-46-72",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "normas-protecao",
+    "confianca": "alta",
+    "nota": "Trabalho do menor."
+  },
+  {
+    "questao_id": "Q-46-73",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "direito-coletivo",
+    "confianca": "alta",
+    "nota": "Negociação coletiva e limites do negociado sobre o legislado."
+  },
+  {
+    "questao_id": "Q-46-74",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "jornada-salario",
+    "confianca": "alta",
+    "nota": "Natureza salarial de benefícios (salário/remuneração)."
+  },
+  {
+    "questao_id": "Q-46-75",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "rescisao",
+    "confianca": "alta",
+    "nota": "Dispensa discriminatória (Lei 9.029/95)."
+  },
+  {
+    "questao_id": "Q-46-76",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "procedimento-comum-sumaris",
+    "confianca": "media",
+    "nota": "Compensação na contestação trabalhista."
+  },
+  {
+    "questao_id": "Q-46-77",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "audiencia-provas-trab",
+    "confianca": "alta",
+    "nota": "Ônus da prova."
+  },
+  {
+    "questao_id": "Q-46-78",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "recursos-trab",
+    "confianca": "alta",
+    "nota": "Recurso adesivo trabalhista."
+  },
+  {
+    "questao_id": "Q-46-79",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "procedimento-comum-sumaris",
+    "confianca": "media",
+    "nota": "Custas em caso de acordo (art. 789 CLT)."
+  },
+  {
+    "questao_id": "Q-46-80",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "execucao-trab",
+    "confianca": "alta",
+    "nota": "Horário de atos processuais na execução trabalhista."
+  }
+]

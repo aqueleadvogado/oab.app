@@ -1,0 +1,303 @@
+LISTA DE DISCIPLINAS E TOPICOS (use EXATAMENTE esses slugs):
+  etica: atividades-privativas, inscricao-oab, direitos-prerrogativas, deveres-advogado, incompatibilidades-impedimentos, honorarios, sociedade-advogados, infracoes-sancoes, processo-disciplinar, publicidade-sigilo
+  civil: lindb, parte-geral-pessoas, parte-geral-bens-fatos, prescricao-decadencia, obrigacoes, contratos, responsabilidade-civil, direito-coisas, familia, sucessoes
+  processo-civil: principios-cpc, jurisdicao-competencia, partes-procuradores, tutela-provisoria, procedimento-comum, provas, sentenca-coisa-julgada, recursos, cumprimento-execucao, juizados-civeis
+  constitucional: principios-fundamentais, direitos-garantias, organizacao-estado, organizacao-poderes, defesa-estado, sistema-tributario-financeiro, ordem-economica-social, controle-constitucionalidade, remedios-constitucionais
+  penal: principios-aplicacao-lei-penal, teoria-crime, culpabilidade, concurso-pessoas-crimes, penas-medidas-seguranca, extincao-punibilidade, crimes-pessoa, crimes-patrimonio, crimes-administracao, legislacao-especial
+  processo-penal: principios-pp, inquerito-policial, acao-penal, jurisdicao-competencia-pp, provas-pp, prisao-cautelares, procedimento-comum, juri, nulidades, habeas-corpus-revisao, juizados-criminais
+  administrativo: regime-principios, organizacao-administrativa, atos-administrativos, agentes-publicos, licitacoes-contratos, servicos-publicos, bens-publicos, improbidade, processo-administrativo, intervencao-propriedade
+  trabalho: fontes-principios, relacao-emprego, contrato-trabalho, jornada-salario, suspensao-interrupcao, rescisao, fgts, normas-protecao, direito-coletivo
+  processo-trabalho: principios-jt, jus-postulandi-partes, procedimento-comum-sumaris, audiencia-provas-trab, recursos-trab, execucao-trab, dissidio-coletivo
+  tributario: sistema-tributario-cf, competencia-tributaria, limitacoes-tributar, normas-gerais-ctn, obrigacao-tributaria, credito-tributario, impostos-federais, impostos-estaduais, impostos-municipais, processo-tributario
+  empresarial: empresario-sociedades-cc, sociedades-especie, titulos-credito-teoria, titulos-credito-especie, falencia-recuperacao, propriedade-industrial
+  direitos-humanos: teoria-dh, sistema-interamericano, tratados-brasil
+  cdc: consumidor-fornecedor, direitos-basicos, responsabilidade-cdc, praticas-contratuais
+  eca: direitos-fundamentais-eca, medidas-protecao, conselho-tutelar, ato-infracional
+  ambiental: pnma, snuc, crimes-ambientais, codigo-florestal, responsabilidade-ambiental
+  internacional: dip-publico, dip-privado, nacionalidade-estrangeiro
+  filosofia: jusnaturalismo-positivismo, teoria-justica, hermeneutica
+  eleitoral: direitos-politicos, elegibilidade-inelegibilidade, propaganda-eleitoral, crimes-eleitorais
+  financeiro: orcamento, receita-despesa, lrf
+  previdenciario: seguridade-social, custeio, beneficios-rgps
+
+=== LOTE 4/4 — 40 questoes ===
+
+[Q-47-41]
+ENUNCIADO: Carla, atriz iniciante, participou de uma campanha publicitária para determinada marca de roupas, autorizando expressamente o uso de sua imagem em redes sociais da contratante por seis meses. Encerrado o prazo contratual, a imagem de Carla continuou sendo utilizada em novas campanhas publicitárias, inclusive vinculando sua fotografia a produtos que não existiam à época da autorização inicial. Ao tomar conhecimento, Carla procurou assessoria jurídica especializada para orientá-la sobre a possibilidade de exigir a cessação da utilização de sua imagem, bem como a reparação pelos danos suportados.
+  (A) A utilização da imagem de Carla após o prazo inicialmente autorizado é lícita, pois a autorização para uso de imagem possui natureza irretratável.
+  (B) A utilização da imagem após o prazo contratual apenas gera responsabilidade civil se Carla comprovar prejuízo econômico direto decorrente da divulgação.
+  (C) A utilização da imagem após o prazo autorizado não configura ilícito, pois a empresa possui direito de exploração econômica da campanha publicitária produzida.
+  (D) A utilização da imagem de Carla após o término da autorização constitui violação a direito da personalidade, sendo cabível a cessação da divulgação e eventual indenização por danos.
+
+[Q-47-42]
+ENUNCIADO: Carolina nasceu durante o casamento de Márcia, sua mãe, com Paulo, que a registrou como filha e exerceu, por mais de 20 anos, todas as funções inerentes à paternidade, mantendo com ela sólida relação socioafetiva. Anos depois, Carolina descobriu sua origem biológica e ajuizou ação de investigação de paternidade em face de Roberto, que reconheceu espontaneamente ser seu pai biológico. No curso do processo, ficou demonstrado que Carolina sempre preservou fortes vínculos afetivos com Paulo e manifestou expressamente o desejo de manter o vínculo jurídico já existente, ao mesmo tempo que pretendia 
+  (A) O reconhecimento da paternidade biológica não impede a manutenção da paternidade socioafetiva anteriormente constituída, sendo possível a coexistência de ambos os vínculos jurídicos de filiação, com a
+  (B) O reconhecimento da paternidade biológica impede a desconstituição do vínculo socioafetivo apenas para fins de alimentos e convivência familiar, permanecendo vedada a produção de efeitos sucessórios e
+  (C) O reconhecimento da paternidade biológica somente poderá coexistir com a paternidade socioafetiva se houver concordância expressa dos dois pais, por se tratar de situação excepcional que depende da ma
+  (D) O reconhecimento da paternidade biológica torna incompatível a manutenção da paternidade socioafetiva anteriormente estabelecida, devendo prevalecer o vínculo biológico, por constituir a verdadeira or
+
+[Q-47-43]
+ENUNCIADO: Herminda, 30 anos, foi presa em flagrante pela prática do crime de homicídio descrito no Art. 121 do Código Penal. De acordo com o inquérito, Herminda planejou e executou a morte de sua vizinha, antiga desafeta, por meros problemas de convivência. No momento da prisão, policiais militares perceberam que o filho de Herminda, Gabriel, de 9 anos, estava em casa sozinho. Foi verificado que Gabriel não tinha com quem ficar, já que o pai é desconhecido e sua única referência é a mãe, agora presa. Os policiais acionaram o Conselho Tutelar que, regularmente, aplicou a medida protetiva de acolhimento i
+  (A) Considerando a gravidade do crime cometido, bem como a prisão preventiva decretada, Gabriel não poderá ter contato com sua genitora.
+  (B) É preciso ingressar com pedido de alvará judicial ao Juízo Criminal competente para o julgamento de Herminda, para que este autorize a visita de Gabriel à sua mãe.
+  (C) É preciso ingressar com pedido de alvará judicial ao Juízo da Infância para que a entidade responsável pelo acolhimento institucional promova a visita de Gabriel à sua mãe, que está privada de liberda
+  (D) É garantida a convivência da criança com a mãe privada de liberdade, por meio de visitas periódicas promovidas pela entidade responsável pelo acolhimento institucional, independentemente de autorizaçã
+
+[Q-47-44]
+ENUNCIADO: Ricardo, de 14 anos, foi apreendido em flagrante, logo após subtrair três peças de picanha e duas de alcatra bovina de um supermercado. Instaurado o procedimento de apuração de ato infracional, que transcorreu regularmente, as testemunhas confirmaram os fatos e Ricardo confessou a subtração. Em sentença, o Juízo da Infância decidiu que os fatos estavam comprovados e aplicou a medida socioeducativa de obrigação de reparar o dano. Foi estipulada, de acordo com o valor de mercado e o peso dos alimentos, a quantia de R$ 500,00 para o ressarcimento do dano causado. Todavia, como Ricardo não consegu
+  (A) A impossibilidade de pagamento faz com que a medida se converta em internação.
+  (B) Diante da manifesta impossibilidade de pagamento, a medida de obrigação de reparar o dano pode ser substituída por outra adequada.
+  (C) A impossibilidade de pagamento, devidamente comprovada, leva à extinção do processo, já que a medida é educativa e não punitiva.
+  (D) A impossibilidade de pagamento acarreta a suspensão do processo até os 21 anos de Ricardo, mas, caso haja melhora na condição financeira, o valor deve ser honrado.
+
+[Q-47-45]
+ENUNCIADO: A Associação dos Hotéis do Litoral ofereceu um serviço por meio do qual, pagando 24 parcelas mensais de R$ 250,00, após dois anos, o consumidor ganharia sete diárias para aproveitar em quaisquer dos hotéis associados. Marina aderiu ao serviço. Porém, por esquecimento, deixou de pagar a 24ª parcela, apesar de ter realizado, pontualmente, o pagamento de todas as demais. Ao entrar em contato com a associação para oferecer o pagamento da parcela em aberto e solicitar as reservas, foi informada de que havia perdido o direito às diárias, e que o contrato estava considerado resolvido, ante o não paga
+  (A) Com base no princípio da boa-fé objetiva e na teoria do adimplemento substancial, Marina pode insistir na manutenção do direito às diárias.
+  (B) Com base no princípio da vulnerabilidade do consumidor e na vedação do enriquecimento sem causa, resta a Marina apenas pedir o reembolso das parcelas pagas.
+  (C) Com base no princípio da informação e na vedação do enriquecimento sem causa, resta a Marina apenas pedir que a regra passe a ser divulgada com mais clareza.
+  (D) Com base no princípio da informação e na vedação do enriquecimento sem causa, resta a Marina pedir que a regra passe a ser divulgada com mais clareza, bem como pedir o reembolso das parcelas pagas.
+
+[Q-47-46]
+ENUNCIADO: Ana encomendou 2 litros de sorvete de cupuaçu para o seu almoço de aniversário diretamente da fábrica de sorvete Gelado Ltda. Ao receber a encomenda, percebeu que o pote estava leve e, ao questionar o entregador, esse lhe disse que o sabor estava sendo muito pedido e, àquela hora, só restava pouco mais de 1 (um) litro no estoque, razão pela qual estava autorizado a abater o preço. Ana informou que o problema não era o preço, mas sim a quantidade de sobremesa para os convidados. Assistindo ao diálogo, Rita, advogada, ofereceu auxílio jurídico para Ana, que insistia nos 2 litros de sorvete. Dian
+  (A) Ana deve permitir que o fabricante apresente outra forma de solução para o problema.
+  (B) Ana deve aceitar o abatimento do preço, ante a opção exercida pelo preposto do fabricante.
+  (C) Ana deve ficar com o pote entregue e nada pagar, ante a alegação de que não há mais o produto.
+  (D) Ana deve optar entre abater o preço, pedir a complementação ou a substituição do produto ou, ainda, o desfazimento da compra.
+
+[Q-47-47]
+ENUNCIADO: Em 8 de janeiro de 2025, Diamante Moda e Confecções Ltda. sacou duplicata de compra e venda contra Inês Gurjão, microempreendora individual, na praça de João Pessoa, PB, no valor de R$ 7.550,00. O título foi apresentado ao sacado no dia 17 de janeiro de 2025 e foi aceito. No dia do vencimento, não houve pagamento, fato que motivou o sacador a ajuizar ação de execução em face do aceitante, sem ter levado a duplicata a protesto. Ficou constatado nos autos que a duplicata sacada não continha nem a data de emissão nem o lugar de pagamento. Diante deste fato, assinale a afirmativa correta.
+  (A) Não há título executivo extrajudicial em virtude da ausência da data de emissão, sendo o lugar do pagamento requisito suprível ou não essencial.
+  (B) A duplicata é título executivo extrajudicial, pois tanto a data de emissão quanto o lugar do pagamento são requisitos supríveis ou não essenciais.
+  (C) Não há título executivo extrajudicial em virtude da ausência da data de emissão e do lugar do pagamento, ambos requisitos formais e essenciais para a validade da duplicata.
+  (D) A duplicata é título executivo extrajudicial, pois, com o aceite, ela se torna título autônomo em relação ao negócio subjacente, independentemente da ausência do lugar do pagamento e da data de emissã
+
+[Q-47-48]
+ENUNCIADO: Inês Cabedelo e mais cinco amigos, todos analistas de investimento, pretendem constituir uma sociedade simples para a prestação de serviços de consultoria financeira, sem que o exercício da profissão intelectual de cada sócio constitua elemento de empresa. Ficou acordado por todos, que o tipo societário a ser adotado para a exploração da atividade econômica é a sociedade anônima, sendo que a administração da sociedade será privativa do sócio Lucena Lastro. Com base na narrativa apresentada, sobre o tipo societário a ser adotado, assinale a afirmativa correta.
+  (A) A sociedade será empresária, caso os sócios optem por arquivar o ato constitutivo na Junta Comercial; optando os sócios pelo arquivamento do ato constitutivo no Registro Civil de Pessoas Jurídicas, a 
+  (B) A sociedade será simples, em virtude de o objeto social não ser atividade própria de empresário, já o ato constitutivo deve ser arquivado no Registro Civil de Pessoas Jurídicas para que ela venha a ad
+  (C) A sociedade será empresária, ainda que a atividade econômica a ser exercida não seja própria de empresário, devendo o ato constitutivo ser arquivado na Junta Comercial para que a sociedade venha a adq
+  (D) A sociedade será simples, em virtude de o objeto social não ser atividade própria de empresário, já o arquivamento do ato constitutivo deve ser feito no Registro Civil de Pessoas Jurídicas, ressalvada
+
+[Q-47-49]
+ENUNCIADO: A sociedade Curtume Massapê Ltda. é composta por sete sócios, sendo dois deles pessoas jurídicas e o restante, pessoas naturais. A sócia Maria Caridade, majoritária no capital social e única administradora, pretende aprovar em reunião a alteração do tipo societário para sociedade anônima, sem dissolver e liquidar Curtume Massapê Ltda. Tal medida já tem previsão no contrato social, o qual autoriza a aplicação supletiva da Lei das S.A., e a sócia pretende implementá- la. Maria Caridade consultou você, como advogado(a), para saber sobre o quórum deliberativo para a aprovação dessa proposta e se h
+  (A) É preciso a aprovação da medida pelos votos correspondentes a mais da metade do capital social, podendo os sócios renunciar, no contrato social, ao direito de retirada.
+  (B) A medida pretendida deve ser aprovada pela unanimidade dos sócios e, por conseguinte, não tem cabimento o direito de retirada pela ausência de sócio dissidente da deliberação.
+  (C) É preciso a aprovação da medida pela maioria de votos dos presentes, sendo direito dos sócios dissidentes pleitear a liquidação de suas quotas se o contrato social dispuser nesse sentido.
+  (D) Caso seja atingido o quórum deliberativo de três quartos do capital social, a medida estará aprovada, sendo direito potestativo dos sócios dissidentes pleitear a liquidação de suas quotas.
+
+[Q-47-50]
+ENUNCIADO: A sociedade empresária Antas Comércio de Artigos Esportivos Ltda. é credora quirografária da sociedade Araçás, Camacan & Ibirataia Ltda., cuja falência foi decretada por convolação do processo de recuperação judicial. O crédito foi constituído durante a recuperação judicial e já estava vencido antes da convolação, porém não foi arrolado pela devedora na relação de credores publicada junto com a decisão que decretou a falência. O administrador e representante legal de Antas Comércio de Artigos Esportivos Ltda. irá realizar a habilitação do crédito e você deverá orientá-lo quanto aos juros de mo
+  (A) não incidirão juros de mora nas cobranças de créditos da massa falida, apenas o valor do crédito será atualizado monetariamente até a data do pagamento.
+  (B) poderão ser cobrados juros de mora a partir da data da decretação da falência, porém o pagamento fica na dependência de ser o ativo apurado suficiente para o pagamento dos credores subordinados.
+  (C) os juros de mora incidirão sobre o valor do principal, da data do vencimento até a data do pagamento na falência, pois apenas os credores subordinados ficam na dependência da suficiência do ativo para
+  (D) poderão ser cobrados juros de mora da data do vencimento até a data da decretação da falência, pois, após esse evento, o pagamento fica na dependência de ser o ativo apurado suficiente para o pagament
+
+[Q-47-51]
+ENUNCIADO: Você, como advogado(a) de José, ajuizou ação de reintegração de posse, com pedido de liminar, alegando que seu cliente foi esbulhado na posse de imóvel de sua propriedade. Segundo indica, o esbulho foi praticado por Thiago há dois meses, contados da data da propositura da ação. Considerando o procedimento especial que rege as ações possessórias e a espécie de liminar prevista para ele, assinale a opção que indica o que você deve provar para que o Juiz conceda, liminarmente, a reintegração.
+  (A) Apenas a prova da posse do imóvel.
+  (B) A prova da posse anterior, do esbulho e de sua data.
+  (C) O justo título de propriedade e a prova da posse de má-fé de Thiago.
+  (D) A prova da posse anterior, do esbulho e do perigo da demora ou do risco de dano irreparável.
+
+[Q-47-52]
+ENUNCIADO: Fernando ingressou com uma ação de cobrança contra Márcio e, após o trânsito em julgado da sentença condenatória, iniciou o cumprimento de sentença para receber o valor devido de R$ 10.000,00. Ao ser intimado a pagar a dívida, Márcio, por meio do seu(sua) advogado(a), reconheceu o crédito exequendo e solicitou o parcelamento do débito, oportunidade em que depositou R$ 3.000,00 à vista e requereu o pagamento do restante em seis parcelas mensais, acrescidas de correção monetária e de juros de 1% ao mês. Sobre a situação relatada, assinale a afirmativa correta.
+  (A) Márcio tem direito ao parcelamento do débito, independentemente de a execução se originar de título judicial ou extrajudicial.
+  (B) O parcelamento nos moldes propostos por Márcio somente é cabível no prazo para embargos à execução, não se aplicando ao cumprimento de sentença.
+  (C) O Juiz pode, a seu critério, conceder o parcelamento independentemente da previsão legal, considerando os princípios da razoabilidade e da proporcionalidade.
+  (D) O pedido de parcelamento formulado por Márcio deve ser deferido, pois a legislação processual permite essa modalidade de pagamento em qualquer fase de execução.
+
+[Q-47-53]
+ENUNCIADO: Laura alugou um imóvel residencial com o objetivo de lá morar após seu casamento, marcado para o ano que vem. O contrato vem sendo cumprido regularmente por ambas as partes, até que William, locador, recusou-se a receber o valor mensal devido sem nenhuma justificativa. Laura, então, procurou você, na qualidade de advogado(a), com o intuito de buscar a solução judicial que melhor resguardasse seu direito de permanecer no imóvel em função do cumprimento de todas as obrigações de sua parte, afastando a mora. Com base nesses fatos, assinale a opção que apresenta, corretamente, a sua orientação.
+  (A) Propor ação monitória, pois o contrato de locação é prova escrita sem eficácia de título executivo.
+  (B) Propor ação de execução por título extrajudicial, uma vez que a obrigação é líquida, certa e exigível.
+  (C) Propor ação de consignação em pagamento, a fim de efetuar o pagamento e se eximir dos efeitos da mora.
+  (D) Interpor mandado de segurança e, por meio de depósito, eximir-se da obrigação, pois a recusa de William configura ato coator, que viola o seu direito líquido e certo previsto no contrato.
+
+[Q-47-54]
+ENUNCIADO: Juliana moveu ação indenizatória contra Antônio, na qual requereu a condenação dele, no montante de R$ 10.000,00. Na sua petição inicial, Juliana requereu gratuidade de justiça, que, ato contínuo, foi concedida de forma integral. Após o fim da fase instrutória, o Magistrado proferiu sentença julgando procedentes os pedidos de Juliana, embora tenha fixado honorários de sucumbência abaixo dos esperados por Paula, advogada que representa Juliana na ação. Inconformada com a decisão, Paula, que possui recursos suficientes para pagar custas e despesas processuais, pretende recorrer exclusivamente qu
+  (A) Não é cabível recurso para a reforma de sentença no que tange aos honorários de sucumbência, devendo Paula ajuizar ação própria para requerer a majoração dos honorários fixados.
+  (B) É admitida a interposição de recurso para a majoração de honorários de sucumbência, e Paula não precisará arcar com o preparo, uma vez que Juliana é beneficiária da gratuidade de justiça.
+  (C) É admitida a interposição de recurso para a majoração de honorários de sucumbência, embora Paula tenha que arcar com o preparo do recurso e dividir o valor das custas processuais pagas pelas partes ao
+  (D) É admitida a interposição de recurso para a majoração de honorários de sucumbência e Paula terá de arcar com o preparo do recurso, tendo em vista que possui recursos suficientes para pagá-lo e não faz
+
+[Q-47-55]
+ENUNCIADO: Paulo, comerciante, descobre que foi citado nominalmente em relatório de Auditoria Interna de um órgão público estadual, elaborado por um servidor, como suposto beneficiário de fraude em licitação, sem nunca ter participado de procedimento de contratação pública nem ter sido formalmente processado ou tido oportunidade de defesa. Embora não tenha ainda ocorrido imputação formal, a divulgação do relatório causou abalo reputacional e Paulo, com medo de que tal medida ainda pudesse prejudicá-lo, ingressou com uma ação declaratória em face do Estado, requerendo judicialmente a declaração de ocorrên
+  (A) O Juízo não agiu corretamente e Paulo deverá interpor recurso de apelação, momento em que poderá ser exercido o juízo de retratação no prazo de dez dias.
+  (B) O Juízo não agiu corretamente, e Paulo deverá interpor recurso de apelação, argumentando a ocorrência de vício, pois é admissível a ação meramente declaratória, ainda que tenha havido a violação do di
+  (C) O Juízo agiu corretamente ao indeferir a petição inicial de Paulo, pois de acordo com o Código de Processo Civil, não é admissível ação declaratória quando o direito já tiver sido violado, devendo o a
+  (D) O Juízo agiu corretamente, uma vez que Paulo buscou tão somente a declaração judicial de inexistência de vínculo com os fatos narrados, e a Fazenda Pública não pode ser compelida a litigar em face de 
+
+[Q-47-56]
+ENUNCIADO: Em demanda indenizatória proposta por uma sociedade empresária em face de sua fornecedora, a sentença julgou procedente o pedido do autor para condenar a ré ao pagamento de perdas e danos decorrentes de inadimplemento contratual. Na fundamentação, a sentença estabeleceu de forma detalhada os critérios para a apuração do prejuízo, determinando que o valor da condenação corresponderia às notas fiscais inadimplidas, acrescidas de correção monetária de cada vencimento e juros de mora a partir da citação. Apesar de não ter fixado o montante final devido, a decisão delimitou todos os parâmetros nece
+  (A) É obrigatória a liquidação por arbitramento, em razão da ausência de fixação do valor na sentença.
+  (B) A prévia liquidação de sentença pelo procedimento comum é indispensável, por se tratar de condenação ilíquida.
+  (C) A liquidação pelo procedimento comum é obrigatória, pois a apuração do valor da condenação exige dilação probatória.
+  (D) O credor pode promover desde logo o cumprimento de sentença, mediante apresentação de memória de cálculo, pois a apuração do valor depende apenas de cálculo aritmético.
+
+[Q-47-57]
+ENUNCIADO: Teobaldo tem 59 anos de idade, está desempregado e usa drogas ilícitas recreativamente. Túlio, o filho dele, tem 20 anos de idade, é jogador de futebol profissional e colecionador de relógios raros. Teobaldo, aproveitando-se da ausência do filho, que disputava um jogo fora da sua cidade, pulou o muro e arrombou a porta da mansão em que Túlio morava, pegando o relógio mais valioso da coleção, avaliado em R$ 100.000,00, com o fim de vendê-lo para adquirir drogas. Diante de tal situação hipotética, assinale a afirmativa correta.
+  (A) Teobaldo deve ser punido pelo crime de furto qualificado pelo rompimento de obstáculo.
+  (B) Teobaldo praticou comportamento típico e ilícito, mas está isento de pena devido à relação de parentesco.
+  (C) Teobaldo praticou comportamento típico, mas cuja antijuridicidade está excluída em razão da relação de parentesco.
+  (D) Teobaldo praticou comportamento atípico por incidência do princípio da insignificância, haja vista o valor do bem subtraído em comparação com o patrimônio de Túlio.
+
+[Q-47-58]
+ENUNCIADO: Júlia, funcionária pública federal lotada no setor de compras de um órgão do Ministério da Fazenda, desviou dolosamente para sua conta particular a importância de R$ 10.000,00, que deveria ser utilizada na aquisição de material de escritório. A conduta se consumou em 1º de março de 2025. Após a instauração do inquérito policial para investigar a prática do crime de peculato, Júlia foi orientada por sua advogada e reparou integralmente o dano causado à Administração Pública em 1º de agosto de 2025, após o oferecimento da denúncia, mas antes de seu recebimento. Sobre a reparação integral do dano
+  (A) A reparação antes do trânsito em julgado gera a extinção da punibilidade.
+  (B) Configura o instituto do arrependimento posterior, gerando a diminuição da pena.
+  (C) Configura causa legal de diminuição de pena especificamente aplicável ao crime de peculato, por força do princípio da especialidade.
+  (D) A reparação antes do recebimento da denúncia configura o instituto do arrependimento eficaz, devendo Júlia responder apenas pelos atos praticados, se constituírem crime autônomo.
+
+[Q-47-59]
+ENUNCIADO: José planejou subtrair um valioso equipamento de informática de uma loja no período noturno. Para tanto, convenceu Pierre, primário e de bons antecedentes, a executar a ação. Pierre confiou no planejamento de José, pois tinha ciência de que este era reincidente específico em crimes patrimoniais. O plano consistia em Pierre arrombar a porta lateral da loja com um pé de cabra, subtrair o objeto e se encontrar com José a duas quadras de distância, onde este o aguardaria em um carro ligado para garantir a fuga. Pierre seguiu o plano à risca: arrombou a porta, pegou o equipamento e foi ao encontro 
+  (A) Pierre é autor e José é partícipe do crime de furto, sendo a reincidência uma circunstância pessoal incomunicável a Pierre.
+  (B) José deve responder por furto simples, pois o rompimento de obstáculo foi executado pessoalmente por outrem, e não se comunica com ele.
+  (C) Ambos respondem como coautores do furto qualificado, sendo a reincidência comunicável a Pierre, pois estava ciente dessa circunstância que agrava a pena.
+  (D) José e Pierre devem responder como coautores do furto qualificado pelo rompimento de obstáculo, sendo a reincidência uma circunstância pessoal incomunicável a Pierre.
+
+[Q-47-60]
+ENUNCIADO: Mariana, primária e com bons antecedentes, foi condenada pela prática do crime de apropriação indébita (Art. 168 do CP), cuja pena mínima é de um ano e, a máxima, de quatro anos de reclusão. Na primeira fase da dosimetria, o Juiz, considerando favoráveis todas as circunstâncias judiciais do Art. 59 do CP, fixou a pena-base no mínimo legal, ou seja, um ano de reclusão. Na segunda e terceira fases da dosimetria, não houve alterações. Ao aplicar a pena, o Juiz determinou o regime inicial aberto e, em seguida, efetuou a substituição da pena privativa de liberdade por duas penas restritivas de dire
+  (A) A substituição da pena privativa de liberdade por duas penas restritivas de direitos é ilegal, pois nas condenações iguais ou inferiores a um ano, a substituição deve ser feita por multa ou uma pena r
+  (B) A substituição da pena privativa de liberdade está equivocada, pois a pena definitiva não pode ser inferior a dois anos para ser substituída por duas penas restritivas de direitos, devendo, no caso, s
+  (C) A substituição da pena privativa de liberdade pela prestação de serviços e pela prestação pecuniária está correta, mas a modalidade de prestação de serviços à comunidade é obrigatória e deve ser aplic
+  (D) A substituição da pena privativa de liberdade está correta, pois, sendo a pena inferior a um ano, é possível que a substituição seja feita por multa ou uma pena restritiva de direitos, mas, excepciona
+
+[Q-47-61]
+ENUNCIADO: Carlos foi processado pela prática do crime de lesão corporal de natureza grave (Art. 129, § 1º, do Código Penal) e punido com pena de reclusão de um a cinco anos. No curso do processo, ficou comprovado que Carlos era inteiramente incapaz de entender o caráter ilícito do fato em razão de doença mental. O Juízo proferiu sentença absolutória, mas impôs a Carlos medida de segurança de internação. Após seis anos de internação ininterrupta, a defesa de Carlos requer a extinção da medida de segurança, sob o argumento de que o prazo de duração já ultrapassou a pena máxima cominada ao crime e que o úl
+  (A) A medida de segurança deve ser extinta, uma vez que a sua duração não pode ultrapassar o limite máximo da pena abstrata cominada ao delito.
+  (B) O Juiz poderá converter a medida de segurança em pena privativa de liberdade, uma vez que foi verificado que a patologia subsiste e o crime foi praticado com violência.
+  (C) A medida de segurança de internação deve perdurar por prazo ilimitado, enquanto não for verificada, mediante perícia médica, a cessação da patologia do agente.
+  (D) A desinternação de Carlos será sempre condicional, devendo ser restabelecida caso ele pratique, no prazo de dez anos, fato que revele a persistência de sua periculosidade.
+
+[Q-47-62]
+ENUNCIADO: Durante uma assembleia do condomínio em que reside, Paulo, Juiz de Direito, irritado com a gestão do síndico Roberto, advogado, pediu a palavra e, diante de todos os moradores presentes, afirmou categoricamente, ciente da falsidade da sua afirmação: “O Sr. Roberto desviou criminosamente R$ 10.000,00 do fundo de reserva no mês passado para pagar dívidas pessoais.” Roberto, que sempre agiu com probidade, sentiu-se profundamente ofendido em sua reputação perante a comunidade. No dia seguinte, Paulo enviou uma mensagem telefônica privada para Roberto dizendo: “Além de desonesto, você é um incapaz 
+  (A) Paulo cometeu o crime de difamação durante a assembleia, ao imputar fato ofensivo à reputação de Roberto, e o crime de injúria, ao enviar a mensagem telefônica privada.
+  (B) Em relação à afirmação feita na assembleia, Paulo poderia se valer da exceção da verdade apenas se Roberto fosse funcionário público e o crime tivesse sido cometido no exercício de suas funções.
+  (C) A afirmação feita na assembleia configura o crime de calúnia, pois Paulo imputou falsamente a Roberto um fato definido como crime, enquanto a mensagem telefônica privada configura o crime de injúria.
+  (D) Por se tratar de uma discussão em assembleia de condomínio, a conduta de Paulo é atípica em relação ao que foi dito publicamente, sendo protegida pela imunidade judiciária, restando apenas o crime de 
+
+[Q-47-63]
+ENUNCIADO: Thaís está respondendo à ação penal pelo crime de roubo e teve decretada a quebra da fiança, em virtude de, deliberadamente, praticar ato destinado à obstrução do andamento do processo. O Juiz decretou, então, a perda da totalidade do valor da fiança. Sobre a hipótese apresentada, você, na condição de advogado(a), deve, em recurso, argumentar que
+  (A) não é possível decretar a quebra da fiança por ato de obstrução ao andamento do processo.
+  (B) a consequência legal da quebra da fiança é a perda da metade de seu valor e não a totalidade da fiança.
+  (C) a quebra da fiança não é matéria passível de discussão perante o Juiz de primeiro grau, porque somente pode ser decretada por decisão de Plenário de Tribunal.
+  (D) a consequência legal da quebra da fiança é a perda de 1/3 do valor, não sendo possível decretar a quebra da fiança por ato de obstrução ao andamento do processo.
+
+[Q-47-64]
+ENUNCIADO: Amanda, servidora pública federal, durante suas férias, agrediu Joana, sua vizinha, com socos, em razão de estacionamento indevido na vaga de garagem reservada a Amanda, no condomínio residencial onde ambas residem. Joana, em consequência da agressão, ficou 50 dias impossibilitada de comparecer ao trabalho. O Ministério Público Federal ofereceu denúncia contra Amanda pelo crime de lesão corporal grave. O Juiz Federal recebeu a denúncia. Na defesa de Amanda, além da matéria de mérito, você, como advogado(a), deve alegar, processualmente,
+  (A) a incompetência relativa da Justiça Federal.
+  (B) a exceção da verdade, uma vez que Joana estava estacionando na vaga reservada para Amanda.
+  (C) a necessidade de enviar o processo para o Superior Tribunal de Justiça, uma vez que a ré é servidora pública federal.
+  (D) a incompetência absoluta da Justiça Federal, uma vez que o fato não tem relação com a função de servidora pública de Amanda.
+
+[Q-47-65]
+ENUNCIADO: Sílvia foi vítima de roubo praticado por Antônio, que subtraiu o relógio dela mediante grave ameaça. Antônio foi preso em flagrante e o relógio devolvido para Sílvia. Após a conclusão do inquérito, no dia da remessa deste para o Ministério Público, Sílvia, na condição de vítima, ofereceu uma queixa-crime. Assinale a opção que indica, corretamente, a alegação que você, como advogado(a) de Antônio, deve apresentar.
+  (A) A falta de interesse de agir, uma vez que o relógio foi devolvido para a vítima.
+  (B) A impossibilidade jurídica do pedido, uma vez que caberia ao Ministério Público formular o pedido.
+  (C) A falta de justa causa para a ação, em virtude da devolução do bem subtraído ser causa extralegal de extinção de punibilidade.
+  (D) A ilegitimidade ativa para a deflagração da demanda, porque o crime de roubo é de ação penal pública incondicionada e não existe inércia do Ministério Público.
+
+[Q-47-66]
+ENUNCIADO: João, funcionário público, após ser condenado à pena de seis anos de reclusão, pelo crime de peculato, interpôs recurso em face da sentença, requerendo a aplicação da pena mínima de dois anos de reclusão. No julgamento da apelação, a sentença foi mantida em seus termos, tendo como vencido o voto do relator, que foi favorável ao pleito defensivo e determinava a aplicação da pena mínima a João. Diante disso, a defesa deve opor
+  (A) revisão criminal.
+  (B) agravo em execução.
+  (C) embargos infringentes.
+  (D) embargos de divergência.
+
+[Q-47-67]
+ENUNCIADO: Rubens está sendo investigado pelo delito de tráfico internacional de drogas (Art. 33 c/c Art. 40, inciso I, ambos da Lei nº 11.343/2006). No curso da investigação, Rubens foi citado para responder a uma ação penal pela prática do crime de receptação de animais (Art. 180-A), cuja pena cominada para esse crime é de reclusão de 2 a 5 anos. Rubens não possui outras anotações criminais e o(a) procura, como advogado(a), para que você apresente uma resposta à acusação. Você, em preliminares, deve requerer a remessa dos autos ao Ministério Público para uma proposta de
+  (A) suspensão condicional da pena.
+  (B) acordo de não persecução penal.
+  (C) acordo de colaboração premiada.
+  (D) suspensão condicional do processo.
+
+[Q-47-68]
+ENUNCIADO: O Ministério Público arrolou Júlio como testemunha de acusação em ação penal deflagrada em face de Cesar. Na audiência de instrução e julgamento, Júlio prestou depoimento totalmente favorável à tese defensiva. Por isso, o Ministério Público requereu a dispensa e desconsideração da prova testemunhal, afirmando que, como apenas o Parquet arrolou Júlio, este poderia dispensar a prova quando o seu resultado lhe fosse desfavorável. Na defesa de Cesar, assinale a opção que apresenta o princípio processual penal pertinente a ser alegado, a fim de manter a prova produzida.
+  (A) Princípio da oportunidade.
+  (B) Princípio da comunhão da prova.
+  (C) Princípio da presunção de inocência.
+  (D) Princípio da obrigatoriedade da ação penal pública.
+
+[Q-47-69]
+ENUNCIADO: Manuel Luz, profissional autônomo, em situação regular perante a Previdência Social, sofreu um acidente no final de semana, enquanto praticava esportes com os amigos, sem qualquer conexão com a sua atividade remunerada. Em virtude do acidente, Manuel ficará afastado de suas atividades profissionais por, no mínimo, um ano. Sobre a situação hipotética narrada, assinale a afirmativa correta.
+  (A) Manuel poderá obter o auxílio-acidente, o qual não possui relação necessária com a atividade remunerada, desde que a incapacidade ultrapasse 30 dias.
+  (B) O benefício de incapacidade temporária poderá ser concedido a Manuel, independentemente de comprovação de carência, que é dispensada nesse caso hipotético.
+  (C) Manuel poderá obter aposentadoria por incapacidade permanente, pois o afastamento superior a um ano produz presunção de invalidez, na forma da legislação vigente.
+  (D) Manuel não terá direito a qualquer prestação da Previdência Social, pois o acidente não possui qualquer conexão com a sua atividade remunerada, sendo decorrência de responsabilidade exclusiva do segur
+
+[Q-47-70]
+ENUNCIADO: Jorge Almeida, servidor público federal, está vinculado a Regime Próprio de Previdência Social, para o qual realiza suas contribuições normalmente. Apesar da cobertura previdenciária que possui, Jorge procurou você, como advogado(a), para obter orientações quanto a uma possível nova filiação ao Regime Geral de Previdência Social. Sobre a situação hipotética narrada, assinale a afirmativa correta.
+  (A) Jorge, caso manifeste expressamente a vontade, poderá ser segurado facultativo do Regime Geral de Previdência Social.
+  (B) Jorge, em hipótese alguma, poderá filiar-se ao Regime Geral de Previdência Social de forma simultânea ao Regime Próprio de Previdência Social da União.
+  (C) Jorge poderá filiar-se ao Regime Geral de Previdência Social na condição de empregador doméstico, situação na qual poderá obter todos os benefícios desse regime.
+  (D) Jorge, caso desempenhe atividade remunerada lícita, concomitantemente ao seu cargo público federal, poderá ser filiado como segurado obrigatório do Regime Geral de Previdência Social.
+
+[Q-47-71]
+ENUNCIADO: Uma sociedade empresária do setor de varejo implementou um sistema de banco de horas para seus empregados, visando à flexibilização da jornada de trabalho. Por meio de acordo individual escrito, os empregados poderiam compensar as horas extras trabalhadas em até seis meses, limitando a compensação a um máximo de duas horas extras diárias. Após alguns meses de funcionamento, os empregados notaram que, em alguns períodos, a quantidade de horas extras acumuladas era muito alta, e a sociedade empresária não estava conseguindo conceder as folgas compensatórias dentro do prazo estabelecido. Diante d
+  (A) O banco de horas pode ser instituído por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. Ultrapassado esse prazo, as horas não compensadas devem ser pagas co
+  (B) O banco de horas implementado por acordo individual é totalmente inválido, pois a Constituição Federal exige uma negociação coletiva para a instituição de qualquer regime de compensação de jornada.
+  (C) O banco de horas é válido, mesmo por acordo individual, desde que a compensação ocorra no prazo máximo de um ano, sendo o prazo de seis meses estabelecido pela sociedade empresária uma liberalidade.
+  (D) O banco de horas é válido apenas se a compensação for feita integralmente no mesmo mês, caso contrário, as horas extras devem ser pagas com o adicional legal.
+
+[Q-47-72]
+ENUNCIADO: Joana e Paula foram contratadas para o cargo de Engenheiro Civil Júnior por uma sociedade empresária de engenharia, em 1º de janeiro de 2020, com as mesmas atribuições e responsabilidades. Em 1º de julho de 2021, Joana foi promovida a Engenheira Civil Plena, com aumento salarial e novas responsabilidades, enquanto Paula permaneceu no cargo de Júnior, realizando as mesmas tarefas e com a mesma remuneração. Em 1º de janeiro de 2022, a sociedade empresária contratou uma nova funcionária, Carla, também para o cargo de Engenheiro Civil Júnior, com salário superior, mas com as mesmas funções de Paul
+  (A) Paula tem direito à equiparação do seu salário ao de Joana, pois ambas foram contratadas na mesma data e para o mesmo cargo, e a diferença salarial sem justificativa é discriminatória.
+  (B) Paula não tem direito à equiparação do seu salário ao de Carla, pois a contratação de uma nova empregada com salário superior não configura equiparação, e sim política salarial da sociedade empresária
+  (C) Paula não tem direito à equiparação do seu salário ao de Carla, pois a diferença salarial se justifica pela existência de um quadro de carreira na sociedade empresária que entrará em vigor, o que afas
+  (D) Paula tem direito à equiparação do seu salário ao de Carla, porque ambas exercem as mesmas funções, com a mesma produtividade e perfeição técnica, considerando, ainda, que a diferença de tempo na funç
+
+[Q-47-73]
+ENUNCIADO: Mariana, empregada gestante, foi dispensada sem justa causa por seu empregador, uma pequena sociedade empresária de consultoria, quando, sem saber, estava no terceiro mês de gravidez. Após a dispensa, ela procurou saber sobre os seus direitos e descobriu que estava grávida no momento da rescisão. Imediatamente, comunicou o fato ao empregador, que se recusou a reintegrá-la, alegando desconhecimento da gravidez no momento da dispensa e que a gravidez só foi confirmada após o término do contrato. Em razão disso, Mariana buscou a sua orientação jurídica para saber se tem direito à estabilidade pro
+  (A) Mariana tem direito à estabilidade da gestante, mas não à reintegração; a garantia restringe-se aos salários e demais direitos correspondentes ao período de estabilidade.
+  (B) Mariana tem direito à estabilidade provisória da gestante desde a confirmação da gravidez, e tem direito à reintegração ou à indenização substitutiva correspondente ao período.
+  (C) Mariana tem direito à estabilidade da gestante, mas o empregador só seria obrigado a reintegrá-la se a gravidez tivesse sido comunicada por meio de atestado médico antes da dispensa.
+  (D) Mariana não tem direito à estabilidade da gestante, pois o empregador desconhecia a condição dela no momento da dispensa, e a lei exige a comunicação formal da gravidez antes da rescisão.
+
+[Q-47-74]
+ENUNCIADO: Mário, empregado da sociedade empresária Carga Pesada, foi envolvido em um acidente de trânsito enquanto dirigia o caminhão da sociedade empresária, que causou danos significativos ao veículo e a uma carga de alto valor. A sociedade empresária, alegando culpa exclusiva de Mário pela imprudência na direção, descontou o valor correspondente ao prejuízo sofrido com o conserto do caminhão e a reposição da carga de seu salário mensal. Mário, inconformado, procurou você, como advogado(a), para saber se esse desconto era legal, considerando que não havia em seu contrato de trabalho uma cláusula expre
+  (A) O desconto salarial é ilícito, porque o dano não foi causado por dolo do empregado.
+  (B) O desconto salarial é ilícito, pois a CLT veda qualquer tipo de desconto salarial, salvo por determinação judicial ou contribuição previdenciária.
+  (C) O desconto salarial é lícito, caso Mário tivesse agido com dolo, pois a culpa não autoriza o empregador a efetuar descontos sem a prévia autorização judicial.
+  (D) O desconto salarial é lícito, pois o empregado é responsável pelos danos que causar ao patrimônio do empregador, independentemente de previsão contratual ou culpa.
+
+[Q-47-75]
+ENUNCIADO: O proprietário de uma rede de farmácias, irritado com reiterados atrasos de um farmacêutico que já havia recebido advertências verbais e escritas, decide aplicar uma suspensão disciplinar de 45 dias como medida educativa severa, visando evitar a dispensa por justa causa. O empregado recusa-se a assinar a suspensão e informa que ingressará com medida judicial. Diante da situação, o empresário consultou você, responsável pela assessoria jurídica, sobre a validade da penalidade aplicada. Assinale a afirmativa correta quanto à orientação a ser dada.
+  (A) A penalidade é válida e está inserida no poder diretivo e regulamentar do empregador, que possui autonomia para fixar o tempo de suspensão conforme a gravidade da falta.
+  (B) A suspensão é legítima, mas o empregador deve obrigatoriamente pagar os salários do período, sob pena de configurar alteração contratual lesiva.
+  (C) O empregador agiu corretamente ao evitar a justa causa, podendo suspender o contrato por até 90 dias antes de optar pela rescisão definitiva.
+  (D) A suspensão do empregado por mais de 30 dias consecutivos importa na rescisão injusta do contrato de trabalho, sendo a penalidade considerada ilegal.
+
+[Q-47-76]
+ENUNCIADO: Após um longo período de negociação, o empregado Antônio e a sociedade empresária Construção Forte Ltda. chegaram a um acordo extrajudicial para pôr fim à relação de emprego e às controvérsias decorrentes, incluindo verbas rescisórias e indenizações. As partes, assistidas por seus respectivos advogados, desejam que esse acordo seja homologado pela Justiça do Trabalho para que tenha força de título executivo judicial e confira segurança jurídica plena. O advogado da sociedade empresária procurou seu escritório para saber qual a providência judicial que você considera necessária para a homologaç
+  (A) As partes devem apresentar, em conjunto, o acordo extrajudicial ao Juízo competente, que designará audiência se entender necessário e proferirá sentença.
+  (B) A homologação de acordo extrajudicial não é mais possível na Justiça do Trabalho, devendo as partes ajuizar uma reclamação trabalhista e buscar a conciliação em Juízo.
+  (C) As partes devem requerer a homologação por meio de petição conjunta ao Juízo competente, que analisará a validade e a conformidade do acordo com a lei, sem a previsão legal para a audiência.
+  (D) As partes podem requerer a homologação, mas o Juiz é obrigado a homologar o acordo, desde que as partes estejam assistidas por advogados distintos, não cabendo a ele analisar o mérito.
+
+[Q-47-77]
+ENUNCIADO: Joana, ex-empregada da sociedade empresária de tecnologia Inovação Digital Ltda., ajuizou uma reclamação trabalhista pleiteando o pagamento de verbas rescisórias e indenização por danos morais decorrentes de assédio sexual sofrido no ambiente de trabalho. Além disso, Joana também pretende discutir a validade de um contrato de participação nos lucros e resultados (PLR) firmado com a sociedade empresária, alegando que as regras de distribuição foram alteradas unilateralmente e a prejudicaram. Joana consultou você, como advogado(a), para saber da competência da Justiça do Trabalho para julgar tod
+  (A) É competente apenas para julgar os pedidos de verbas rescisórias, sendo os demais pedidos de competência da Justiça Comum.
+  (B) É competente para julgar todos os pedidos formulados por Joana, uma vez que decorrem da relação de trabalho, inclusive a questão da PLR.
+  (C) É competente para julgar os pedidos de verbas rescisórias e danos morais, mas a questão da PLR deve ser discutida na Justiça Comum, pois se trata de direito societário.
+  (D) É competente para julgar a totalidade dos pedidos, mas a indenização por danos morais deve ser remetida à Justiça Comum, por não ter natureza exclusivamente trabalhista.
+
+[Q-47-78]
+ENUNCIADO: A sociedade empresária Viação Cruzeiro Ltda. foi condenada em primeira instância ao pagamento de diversas verbas trabalhistas a um ex-empregado, totalizando o valor de R$ 80.000,00. A reclamada, inconformada com a decisão, deseja interpor Recurso Ordinário. A sociedade empresária, que não se encontra em situação de recuperação judicial, nem falência, nem é beneficiária da justiça gratuita, consultou você, como advogado(a), para conhecer as condições necessárias para o regular processamento do Recurso Ordinário, bem como as consequências se as condições não forem observadas. Quanto à orientação
+  (A) Ela deverá recolher apenas o valor das custas processuais, pois o depósito recursal só é exigível em fase de execução, após a liquidação da sentença.
+  (B) Ela está isenta do recolhimento do depósito recursal, pois o valor da condenação é inferior a 100 salários mínimos, devendo recolher apenas as custas processuais.
+  (C) Ela tem o direito de parcelar o valor do depósito recursal em até seis vezes, mediante comprovação de dificuldade financeira, mas o recolhimento das custas deve ser integral.
+  (D) Ela deverá efetuar o pagamento das custas processuais e do depósito recursal de forma integral, no prazo e nos valores corretos, sob pena de não conhecimento do recurso por deserção.
+
+[Q-47-79]
+ENUNCIADO: Paulo, empregado de uma microempresa, ajuizou reclamação trabalhista pleiteando o pagamento de horas extras e adicional de insalubridade. A sentença de primeira instância julgou parcialmente procedentes os pedidos, condenando a microempresa apenas ao pagamento das horas extras, mas indeferindo o adicional de insalubridade. A microempresa, inconformada com a condenação, interpôs Recurso Ordinário dentro do prazo legal. Paulo, embora insatisfeito com o indeferimento do adicional de insalubridade, não interpôs Recurso Ordinário no prazo. Após a notificação para contrarrazoar o recurso da microemp
+  (A) Paulo poderá interpor Embargos de Declaração, pois ainda não houve o trânsito em julgado da decisão, e essa medida permitirá a rediscussão da matéria relativa ao adicional de insalubridade.
+  (B) Paulo poderá interpor Recurso de Revista, pois a decisão de primeiro grau já foi proferida e a microempresa já recorreu, o que garante a abertura da instância superior para a análise de todas as matér
+  (C) Paulo poderá interpor Recurso Ordinário na modalidade adesiva, dentro do prazo das contrarrazões ao recurso principal da microempresa, pois o Recurso Adesivo segue a sorte do principal e permite a imp
+  (D) Paulo não poderá mais recorrer, pois o prazo para interpor o Recurso Ordinário já se encerrou, operando-se a preclusão temporal para a sua manifestação de inconformismo com a sentença, podendo apenas 
+
+[Q-47-80]
+ENUNCIADO: Após um Dissídio Coletivo de natureza econômica, foi proferida uma sentença normativa que estabeleceu novas condições de trabalho e reajustes salariais para os empregados da categoria profissional X na base territorial Y. A sociedade empresária Comércio Atacadista Brasileiro Ltda., que faz parte da categoria econômica abrangida pela sentença normativa, não cumpriu as novas condições e os reajustes salariais. Você é consultado, como advogado(a) de um empregado da sociedade empresária, sobre a medida judicial cabível para exigir o cumprimento das obrigações estabelecidas na sentença normativa. Q
+  (A) O empregado individualmente, ou o sindicato da categoria profissional, pode ajuizar Ação de Cumprimento na Justiça do Trabalho para exigir o cumprimento das obrigações decorrentes da sentença normativ
+  (B) Não é cabível nenhuma medida judicial, pois a sentença normativa tem caráter meramente declaratório e não impõe obrigações diretas de pagamento, dependendo de acordo extrajudicial para sua efetivação.
+  (C) O empregado deverá necessariamente ajuizar uma reclamação trabalhista individual para pleitear as diferenças salariais e as demais verbas, pois a sentença normativa não possui eficácia executória dire
+  (D) O sindicato da categoria profissional X deverá ajuizar uma Ação de Cumprimento em nome de todos os empregados, sendo esta a única medida cabível para exigir o cumprimento da sentença normativa.

@@ -1,0 +1,282 @@
+[
+  {
+    "questao_id": "Q-47-41",
+    "disciplina_slug": "civil",
+    "topico_slug": "parte-geral-pessoas",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-42",
+    "disciplina_slug": "civil",
+    "topico_slug": "familia",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-43",
+    "disciplina_slug": "eca",
+    "topico_slug": "medidas-protecao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-44",
+    "disciplina_slug": "eca",
+    "topico_slug": "ato-infracional",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-45",
+    "disciplina_slug": "cdc",
+    "topico_slug": "praticas-contratuais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-46",
+    "disciplina_slug": "cdc",
+    "topico_slug": "responsabilidade-cdc",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-47",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "titulos-credito-especie",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-48",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "sociedades-especie",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-49",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "sociedades-especie",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-50",
+    "disciplina_slug": "empresarial",
+    "topico_slug": "falencia-recuperacao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-51",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "procedimento-comum",
+    "confianca": "media",
+    "nota": "Procedimento especial das ações possessórias; não há tópico específico para procedimentos especiais, classificado em procedimento-comum por proximidade"
+  },
+  {
+    "questao_id": "Q-47-52",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "cumprimento-execucao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-53",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "procedimento-comum",
+    "confianca": "media",
+    "nota": "Ação de consignação em pagamento (procedimento especial); classificado em procedimento-comum por ausência de tópico específico"
+  },
+  {
+    "questao_id": "Q-47-54",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "recursos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-55",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "procedimento-comum",
+    "confianca": "media",
+    "nota": "Ação declaratória e indeferimento da inicial; sem tópico específico, classificado em procedimento-comum"
+  },
+  {
+    "questao_id": "Q-47-56",
+    "disciplina_slug": "processo-civil",
+    "topico_slug": "cumprimento-execucao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-57",
+    "disciplina_slug": "penal",
+    "topico_slug": "crimes-patrimonio",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-58",
+    "disciplina_slug": "penal",
+    "topico_slug": "crimes-administracao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-59",
+    "disciplina_slug": "penal",
+    "topico_slug": "concurso-pessoas-crimes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-60",
+    "disciplina_slug": "penal",
+    "topico_slug": "penas-medidas-seguranca",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-61",
+    "disciplina_slug": "penal",
+    "topico_slug": "penas-medidas-seguranca",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-62",
+    "disciplina_slug": "penal",
+    "topico_slug": "crimes-pessoa",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-63",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "prisao-cautelares",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-64",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "jurisdicao-competencia-pp",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-65",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "acao-penal",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-66",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "nulidades",
+    "confianca": "media",
+    "nota": "Embargos infringentes no processo penal; não há tópico de recursos no PP, classificado em nulidades por proximidade recursal"
+  },
+  {
+    "questao_id": "Q-47-67",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "acao-penal",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-68",
+    "disciplina_slug": "processo-penal",
+    "topico_slug": "provas-pp",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-69",
+    "disciplina_slug": "previdenciario",
+    "topico_slug": "beneficios-rgps",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-70",
+    "disciplina_slug": "previdenciario",
+    "topico_slug": "seguridade-social",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-71",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "jornada-salario",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-72",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "jornada-salario",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-73",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "normas-protecao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-74",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "jornada-salario",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-75",
+    "disciplina_slug": "trabalho",
+    "topico_slug": "suspensao-interrupcao",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-76",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "procedimento-comum-sumaris",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-77",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "principios-jt",
+    "confianca": "media",
+    "nota": "Competência da Justiça do Trabalho; não há tópico específico de competência, classificado em principios-jt"
+  },
+  {
+    "questao_id": "Q-47-78",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "recursos-trab",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-79",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "recursos-trab",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-80",
+    "disciplina_slug": "processo-trabalho",
+    "topico_slug": "dissidio-coletivo",
+    "confianca": "alta",
+    "nota": null
+  }
+]

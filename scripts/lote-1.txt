@@ -1,0 +1,303 @@
+LISTA DE DISCIPLINAS E TOPICOS (use EXATAMENTE esses slugs):
+  etica: atividades-privativas, inscricao-oab, direitos-prerrogativas, deveres-advogado, incompatibilidades-impedimentos, honorarios, sociedade-advogados, infracoes-sancoes, processo-disciplinar, publicidade-sigilo
+  civil: lindb, parte-geral-pessoas, parte-geral-bens-fatos, prescricao-decadencia, obrigacoes, contratos, responsabilidade-civil, direito-coisas, familia, sucessoes
+  processo-civil: principios-cpc, jurisdicao-competencia, partes-procuradores, tutela-provisoria, procedimento-comum, provas, sentenca-coisa-julgada, recursos, cumprimento-execucao, juizados-civeis
+  constitucional: principios-fundamentais, direitos-garantias, organizacao-estado, organizacao-poderes, defesa-estado, sistema-tributario-financeiro, ordem-economica-social, controle-constitucionalidade, remedios-constitucionais
+  penal: principios-aplicacao-lei-penal, teoria-crime, culpabilidade, concurso-pessoas-crimes, penas-medidas-seguranca, extincao-punibilidade, crimes-pessoa, crimes-patrimonio, crimes-administracao, legislacao-especial
+  processo-penal: principios-pp, inquerito-policial, acao-penal, jurisdicao-competencia-pp, provas-pp, prisao-cautelares, procedimento-comum, juri, nulidades, habeas-corpus-revisao, juizados-criminais
+  administrativo: regime-principios, organizacao-administrativa, atos-administrativos, agentes-publicos, licitacoes-contratos, servicos-publicos, bens-publicos, improbidade, processo-administrativo, intervencao-propriedade
+  trabalho: fontes-principios, relacao-emprego, contrato-trabalho, jornada-salario, suspensao-interrupcao, rescisao, fgts, normas-protecao, direito-coletivo
+  processo-trabalho: principios-jt, jus-postulandi-partes, procedimento-comum-sumaris, audiencia-provas-trab, recursos-trab, execucao-trab, dissidio-coletivo
+  tributario: sistema-tributario-cf, competencia-tributaria, limitacoes-tributar, normas-gerais-ctn, obrigacao-tributaria, credito-tributario, impostos-federais, impostos-estaduais, impostos-municipais, processo-tributario
+  empresarial: empresario-sociedades-cc, sociedades-especie, titulos-credito-teoria, titulos-credito-especie, falencia-recuperacao, propriedade-industrial
+  direitos-humanos: teoria-dh, sistema-interamericano, tratados-brasil
+  cdc: consumidor-fornecedor, direitos-basicos, responsabilidade-cdc, praticas-contratuais
+  eca: direitos-fundamentais-eca, medidas-protecao, conselho-tutelar, ato-infracional
+  ambiental: pnma, snuc, crimes-ambientais, codigo-florestal, responsabilidade-ambiental
+  internacional: dip-publico, dip-privado, nacionalidade-estrangeiro
+  filosofia: jusnaturalismo-positivismo, teoria-justica, hermeneutica
+  eleitoral: direitos-politicos, elegibilidade-inelegibilidade, propaganda-eleitoral, crimes-eleitorais
+  financeiro: orcamento, receita-despesa, lrf
+  previdenciario: seguridade-social, custeio, beneficios-rgps
+
+=== LOTE 1/4 — 40 questoes ===
+
+[Q-46-1]
+ENUNCIADO: Paloma, advogada gestante, compareceu ao Fórum da Comarca de Itaporanga, PB, para participar de uma audiência. Ao tentar estacionar no local, foi impedida de acessar a garagem sob a justificativa de que não havia vagas reservadas para gestantes. Além disso, foi obrigada a passar por um detector de metais, mesmo tendo informado de sua condição de gestante. Indignada, Paloma buscou esclarecer os seus direitos. Sobre a hipótese narrada, com base no Estatuto da OAB, assinale a afirmativa correta.
+  (A) Paloma, por ser advogada gestante, tem o direito de não ser submetida a detectores de metais, mas o estacionamento exclusivo só é garantido em Tribunais e Fóruns Federais, não nos Fóruns Estaduais.
+  (B) Os direitos de Paloma, como o de não ser submetida aos detectores de metais e à reserva de vagas, são aplicáveis apenas em Tribunais Superiores, e não se estendem a Fóruns de Comarcas Estaduais.
+  (C) Paloma, por ser advogada gestante, tem o direito de entrar em Fóruns e Tribunais sem ser submetida a detectores de metais e tem direito à reserva de vagas nas garagens dos Fóruns dos Tribunais.
+  (D) Paloma tem o direito de entrada no Fórum sem ser submetida a detectores de metais, mas o direito à reserva de vagas em garagens para gestantes é uma mera liberalidade do Tribunal e não é garantido por
+
+[Q-46-2]
+ENUNCIADO: Danilo, procurador de carreira, foi nomeado Procurador-Geral de sua instituição. Antes de assumir a Procuradoria-Geral do Estado, ele patrocinava várias causas trabalhistas contra empresas privadas e causas tributárias. Agora, Danilo está em dúvida se poderá continuar advogando nessas ações. Sobre a hipótese apresentada, com base nas disposições do Estatuto da OAB sobre incompatibilidades e impedimentos, assinale a afirmativa correta.
+  (A) Danilo está impedido de atuar em causas trabalhistas e tributárias contra a Fazenda Pública que o remunera, mas pode continuar patrocinando as causas contra empresas privadas.
+  (B) Danilo poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado não gera incompatibilidade ou impedimento para advogar em questões privadas.
+  (C) Danilo poderá continuar patrocinando as causas tributárias, mas não as trabalhistas, pois apenas as causas tributárias contra a Fazenda Pública estão abrangidas pelo impedimento previsto no Estatuto d
+  (D) Danilo não poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado obsta o exercício da advocacia desvinculado da função que exerce, durante o 
+
+[Q-46-3]
+ENUNCIADO: Alfredo é graduado em Direito pela Universidade Beta, mas não foi aprovado no Exame da Ordem dos Advogados do Brasil (OAB). Durante a graduação, Alfredo não teve a oportunidade de estagiar em um escritório de advocacia. Recentemente, após já estar formado, surgiu a oportunidade de estagiar em um escritório credenciado pelo Conselho Seccional da OAB. Ele deseja saber se pode participar do estágio profissional de advocacia mesmo após a conclusão de seu curso e se seria possível inscrever-se no quadro de estagiários da OAB. Sobre a hipótese, com base no disposto no Art. 9º do Estatuto da Advocaci
+  (A) Alfredo não pode participar de estágio de advocacia, pois o estágio só é permitido para estudantes de Direito que ainda estejam cursando os últimos anos do curso jurídico.
+  (B) Alfredo pode se inscrever no quadro de estagiários da OAB, mas somente se concluir o estágio profissional em uma instituição de ensino superior, e não em escritório credenciado pelo Conselho Seccional
+  (C) Alfredo pode participar do estágio profissional de advocacia e inscrever-se como estagiário da OAB, mesmo após a conclusão do curso, desde que o estágio seja realizado em escritório credenciado pela O
+  (D) Alfredo pode participar do estágio profissional, mas não poderá inscrever-se no quadro de estagiários da OAB, pois já concluiu a graduação em Direito e apenas alunos ainda cursando o ensino jurídico p
+
+[Q-46-4]
+ENUNCIADO: Os advogados Eduardo e Diogo são sócios de uma sociedade profissional de advogados, cujos atos constitutivos foram devidamente registrados e aprovados pelo Conselho Seccional da OAB na base territorial em que está localizada a sua sede. No entanto, Eduardo foi contratado por Afonso para representá- lo em uma ação de alimentos movida por sua esposa Dalila, e Diogo foi contratado por Dalila para representá-la na mesma ação. Os advogados desejam saber se podem continuar com essas representações, tendo em vista que são sócios da mesma sociedade de advogados. Sobre o caso narrado, com base no Art. 
+  (A) Eduardo e Diogo não podem representar, em juízo, clientes com interesses opostos, por serem sócios da mesma sociedade de advogados.
+  (B) Eduardo e Diogo podem representar Afonso e Dalila em juízo, desde que firmem compromisso por escrito de que não haverá conflito de interesse entre os dois advogados.
+  (C) Eduardo e Diogo podem continuar com as respectivas representações de Afonso e Dalila, desde que informem previamente ao Juiz que ambos fazem parte da mesma sociedade.
+  (D) Eduardo e Diogo podem continuar com as representações, desde que cada um atue de forma independente dentro da sociedade de advogados, contando com corpo auxiliar próprio.
+
+[Q-46-5]
+ENUNCIADO: Mateus, advogado regularmente inscrito na OAB, contratou Marcos, profissional da área de vendas, para abordar pessoas nas imediações da agência do Instituto Nacional do Seguro Social da sua cidade, visando à captação de causas previdenciárias. Foi acertado que Marcos teria participação nos honorários advocatícios das causas que conseguisse agenciar. Constatados os fatos, e após o devido processo administrativo disciplinar, o Tribunal de Ética e Disciplina do Conselho Seccional competente aplicou a pena de censura a Mateus. Considerando o enunciado e o Estatuto da Advocacia e da OAB, assinale a
+  (A) Havendo circunstâncias atenuantes, será possível substituir a sanção de censura pela aplicação isolada de multa.
+  (B) Transitada em julgado a decisão, a sanção aplicada a Mateus deverá constar dos seus assentamentos, dando-se ampla publicidade nos meios oficiais.
+  (C) A gravidade da conduta infracional de Mateus não permite a conversão da pena de censura em advertência, ainda que verificada a ausência de punição disciplinar anterior.
+  (D) A circunstância de Mateus exercer de modo assíduo e proficiente mandato em cargo ou qualquer órgão da OAB, caso comprovada, deverá ser considerada pelo Tribunal na aplicação da sanção disciplinar.
+
+[Q-46-6]
+ENUNCIADO: Abelardo é contratado para representar o milionário Everardo em uma causa cível de importante vulto. Ficou combinado que, em caso de êxito, Abelardo fará jus a uma joia de elevadíssimo valor, a título de honorários. Sucede que, depois de ganhar a causa, Everardo sofreu revés na justiça criminal, quando uma decisão judicial determinou o bloqueio de todo o seu patrimônio pela suspeita de crimes financeiros. Nesse caso, à luz do Estatuto da Ordem dos Advogados do Brasil e do Código de Ética e Disciplina, assinale a afirmativa correta.
+  (A) Abelardo poderá requerer ao Juiz Criminal o desbloqueio de até 20% dos bens de Everardo para o pagamento de seus honorários e dos demais custos com a defesa.
+  (B) Abelardo poderá, diante do bloqueio, participar dos bens particulares de Everardo, de forma excepcional, considerada a impossibilidade de pagamento por outro meio, ainda que tal forma de pagamento não
+  (C) A cláusula de honorários de êxito ou quota litis não é vedada, mas deve necessariamente ser expressa em pecúnia, de modo que, prevendo-se a entrega de uma joia, constata-se a nulidade que determina qu
+  (D) A cláusula de honorários de êxito ou quota litis é vedada, de sorte que será necessário proceder ao arbitramento dos honorários de Abelardo, em remuneração compatível com o trabalho e o valor econômic
+
+[Q-46-7]
+ENUNCIADO: Frederico, advogado, após alcançar grande sucesso na advocacia, decidiu se dedicar também à construção civil, passando a atuar simultaneamente nas duas áreas. Diante da afinidade temática entre o Direito Imobiliário e o setor de construção civil, Frederico teve a ideia de unir ambas as atividades em um único escritório, oferecendo aos clientes consultoria jurídica e serviços de incorporação imobiliária. Para divulgar o seu novo empreendimento, contratou um escritório de marketing, que produziu uma campanha publicitária conjunta, ressaltando seus trabalhos como advogado e como empreendedor da c
+  (A) É possível a divulgação conjunta, desde que respeitados o decoro e a dignidade da advocacia, cabendo ao Tribunal de Ética e Disciplina da OAB avaliar a adequação da publicidade.
+  (B) É permitida a divulgação conjunta apenas quando a outra atividade também for regulamentada por entidade de classe, hipótese em que a OAB poderá celebrar o convênio para a publicidade cruzada.
+  (C) É vedada a divulgação conjunta de advocacia com outra atividade, ainda que exercida pela mesma pessoa e que haja afinidade entre os ramos, como ocorre entre a advocacia imobiliária e a construção civi
+  (D) Em regra, não é possível divulgar a advocacia em conjunto com outra atividade, mas nesse caso seria permitido, pois as atividades são exercidas por uma mesma pessoa e possuem afinidade temática, inexi
+
+[Q-46-8]
+ENUNCIADO: O advogado Toledo atua na defesa de Tício, investigado por crimes de corrupção e lavagem de dinheiro. Durante as investigações, o próprio Toledo passou a ser investigado por suposta participação em atos ilícitos praticados por seu cliente. Em troca de benefícios penais, o Ministério Público ofereceu a possibilidade de firmar acordo de colaboração premiada ao advogado, desde que ele fornecesse informações sobre Tício e outros envolvidos. Com base no Estatuto da OAB, assinale a afirmativa correta.
+  (A) O advogado pode colaborar contra seu cliente se a colaboração resultar apenas em redução de pena, sendo vedada a extinção total da punibilidade em razão de delação premiada.
+  (B) O advogado não pode celebrar colaboração premiada contra o cliente atual, mas poderá fazê-lo em relação a um ex-cliente, desde que não mais exista vínculo profissional formal entre ambos.
+  (C) O advogado poderá firmar colaboração premiada em face de seu cliente, desde que o acordo seja autorizado judicialmente, hipótese em que ficará isento de punição administrativa perante o Tribunal de Ét
+  (D) O advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância dessa regra poderá acarretar processo disciplinar com aplicação de uma sanção de exclusão
+
+[Q-46-9]
+ENUNCIADO: Leia os fragmentos a seguir. Sócrates estava sentado à porta de sua casa. Nesse momento, passa um homem correndo e atrás dele vem um grupo de soldados. Um dos soldados então grita: agarre esse sujeito, ele é um ladrão! Ao que responde Sócrates: que você entende por ‘ladrão’? (...) Questões zetéticas têm uma função especulativa explícita e são infinitas. Questões dogmáticas têm uma função diretiva explícita e são finitas. Nas primeiras, o problema tematizado é configurado como um ser (que é algo?). Nas segundas, a situação nelas captada configura-se como um dever-ser (como deve-ser algo?). Por 
+  (A) O enfoque dado por Sócrates pode ser considerado dogmático, pois coloca em dúvida o próprio conceito de ladrão utilizado pelo soldado.
+  (B) A acentuação da dúvida e do aspecto ontológico da conduta de Sócrates denotam uma característica típica das questões zetéticas.
+  (C) A utilização dos conceitos de roubo e furto previstos no Código Penal para descaracterizar a imputação de um homem correndo como sendo um ladrão é tipicamente zetética.
+  (D) O enfoque zetético deve ceder espaço para a função dogmática, pois o Direito no mundo atual exige decisões técnicas, tornando contraproducente especulações ontológicas.
+
+[Q-46-10]
+ENUNCIADO: Em decisão histórica, o Supremo Tribunal Federal (STF) aplicou a lei de greve do setor privado, Lei nº 7.783/1989, aos servidores públicos, pois, apesar de existir previsão constitucional expressa desse direito ao setor público, não havia lei que a regulamentasse, impedindo o seu exercício. Ao verificar a ausência da norma e das razões de semelhança para aplicar o normativo já existente, assinale a opção que melhor explica a técnica utilizada pelo STF para justificar o seu julgamento.
+  (A) Costumes.
+  (B) Equidade.
+  (C) Analogia.
+  (D) Princípios Gerais de Direito.
+
+[Q-46-11]
+ENUNCIADO: Maria descobriu que seu nome constava, erroneamente, em registros públicos estaduais como devedora de impostos, mesmo sem nada dever ao Fisco. Muito correta, procurou imediatamente a Secretaria de Estado da Fazenda do Estado Alfa, solicitando que fosse corrigida a informação. Porém, apesar das reiteradas solicitações, o órgão não realizou a retificação. Em razão disso, seu amigo Pedro sugeriu a impetração de um habeas data, o que seria feito diretamente por Maria, sem a presença de um(a) advogado(a). Insegura, Maria procurou você, como advogado(a), para saber se este seria o caminho adequado p
+  (A) A questão deve ser solucionada pela via do mandado de segurança, único remédio capaz de propiciar a retificação de dados, como no caso de Maria.
+  (B) O objetivo almejado por Maria deve ser atingido pela via de processo judicial sigiloso, não sendo o remédio sugerido hábil para solucionar o problema ventilado.
+  (C) Maria pode utilizar esse específico remédio constitucional, embora sua impetração vá depender da contratação de advogado(a), que possua capacidade postulatória.
+  (D) O remédio constitucional em questão não é o instrumento adequado para o caso, pois é direcionado a situações em que se queira ter acesso a informações de sua própria pessoa.
+
+[Q-46-12]
+ENUNCIADO: Carlos é prefeito do Município Beta, localizado no Estado Alfa. Ele tomou conhecimento da descoberta de uma nova reserva de petróleo em Alfa (reserva Mantuã), situada no território de Beta. Interessado em saber se os resultados da exploração de petróleo e gás natural poderiam gerar recursos para Beta, Carlos consultou você, como Procurador(a)-Geral do Município, para esclarecer sua dúvida. Sobre a hipótese narrada, segundo o sistema constitucional brasileiro, assinale a opção que apresenta, corretamente, o esclarecimento dado.
+  (A) Somente Beta, região que efetivamente abriga a reserva Mantuã, poderá se beneficiar dos resultados econômicos diretos da exploração.
+  (B) O Estado Alfa, o Município Beta e a União, nos termos da lei, serão beneficiados pelos resultados econômicos diretos obtidos da exploração.
+  (C) Apenas a União, a quem pertencem os recursos minerais no país, inclusive os do subsolo, poderá se beneficiar dos resultados econômicos diretos da exploração.
+  (D) Somente Alfa e Beta, os entes que suportarão diretamente os reveses que a exploração de petróleo ocasiona, poderão se beneficiar dos resultados econômicos diretos da exploração.
+
+[Q-46-13]
+ENUNCIADO: O Estado Delta publicou lei que criou novos critérios para a concessão de benefícios fiscais no âmbito estadual. Esse diploma normativo, no entanto, foi declarado inconstitucional pelo Supremo Tribunal Federal (STF), em sede de Ação Direta de Inconstitucionalidade (ADI). Apesar disso, meses depois, a Assembleia Legislativa de Delta aprovou a Lei X/2025 com conteúdo idêntico ao da lei anteriormente declarada inconstitucional. O Governador do Estado Delta, inconformado, solicitou que o Procurador-Geral do Estado analisasse a conformidade constitucional da Lei X/2025. Assinale a opção que, do pon
+  (A) O Governador do Estado deve ingressar com uma reclamação perante o STF, pois a Lei X/2025 afrontou o efeito vinculante da decisão anterior.
+  (B) O efeito vinculante da decisão anterior do STF não alcança a atividade legislativa típica, não havendo óbice a que seja proposta uma nova ADI tendo a Lei X/2025 como objeto.
+  (C) A Lei X/2025 não pode ser objeto de nova ADI, pois o efeito vinculante da decisão do STF na ADI anterior impede que qualquer legitimado questione a norma de mesmo conteúdo.
+  (D) Pode ser ajuizada uma nova ADI, tendo a Lei X/2025 como objeto, porque o Poder Legislativo está vinculado à decisão anterior do STF, mesmo em relação à sua função típica de legislar.
+
+[Q-46-14]
+ENUNCIADO: A Câmara Municipal de Alfa constatou que o Prefeito Municipal não prestou as contas anuais de governo, afetas à administração municipal, dentro do prazo estabelecido na legislação, o que se estendeu por três exercícios. Após reiteradas notificações, a omissão permaneceu, impedindo a fiscalização do uso dos recursos públicos. Diante dessa situação, o Governador do Estado Beta decidiu decretar intervenção estadual no Município para garantir a prestação de contas. No entanto, a medida gerou debate entre os agentes políticos locais, que questionaram a sua legalidade e consultaram você, como advoga
+  (A) A Câmara Municipal de Alfa, ao constatar a omissão na prestação de contas, deve requerer diretamente ao Supremo Tribunal Federal que determine a intervenção estadual.
+  (B) A intervenção estadual, no caso, somente poderia ser decretada se houvesse uma determinação judicial reconhecendo a omissão como grave o suficiente para justificar a medida extrema.
+  (C) A intervenção estadual depende de autorização prévia do Poder Legislativo estadual, pois qualquer limitação à autonomia municipal exige controle político pelos representantes do povo.
+  (D) O Governador pode decretar a intervenção sem a necessidade de autorização legislativa ou judicial prévia, pois a situação apresentada no problema constitui hipótese expressa de intervenção estadual.
+
+[Q-46-15]
+ENUNCIADO: O Tribunal de Contas do Estado Ômega, ao analisar as contas de um gestor público, constatou a existência de irregularidades graves na aplicação de verbas destinadas à educação, gerando prejuízo ao erário. Após garantir o contraditório e a ampla defesa, o Tribunal proferiu decisão definitiva determinando o ressarcimento dos valores desviados. No entanto, o gestor público entendia que não deveria cumprir a decisão, pois, a seu ver, seria necessário o ajuizamento de uma ação judicial para validar a obrigação de pagamento. Por essa razão, consultou você, como advogado(a). Sobre a hipótese, com bas
+  (A) A obrigação de ressarcimento ao erário dependeria da confirmação por parte da Assembleia Legislativa de Ômega, pois os Tribunais de Contas são órgãos subordinados ao Poder Legislativo.
+  (B) A decisão do Tribunal de Contas não pode ser executada diretamente pela Fazenda Pública, pois, para que haja exigibilidade do crédito, é imprescindível o ajuizamento de ação judicial declaratória.
+  (C) A decisão do Tribunal de Contas tem eficácia de título executivo extrajudicial, sem necessidade de homologação pelo Poder Judiciário, e pode ser cobrada pela Fazenda Pública por meio de execução fisca
+  (D) A obrigação de ressarcimento ao erário somente pode ser imposta por decisão do Poder Judiciário, pois os Tribunais de Contas não possuem competência para reconhecer a responsabilidade financeira de ge
+
+[Q-46-16]
+ENUNCIADO: Ao final de seu segundo mandato consecutivo, o Prefeito do Município Delta, João Carlos, encaminhou à Câmara de Vereadores um projeto de lei de sua própria iniciativa, propondo a majoração dos subsídios dos próximos Prefeito e Vice-Prefeito para a legislatura seguinte. O projeto foi devidamente aprovado pela maioria dos vereadores de Delta e sancionado por João Carlos, antes do término de seu mandato. Um legitimado à deflagração do controle concentrado de constitucionalidade consultou você, como advogado(a), em relação à compatibilidade do respectivo diploma normativo com a Constituição da Rep
+  (A) A lei municipal aprovada atende aos pressupostos constitucionais da ordem jurídica brasileira, que exige a forma de lei municipal para a fixação do subsídio do Prefeito.
+  (B) A lei municipal aprovada atende aos pressupostos da ordem jurídica brasileira, desde que as regras estabelecidas para o tema observem o que dispõe a Lei Orgânica do Município.
+  (C) Não sendo João Carlos beneficiário da majoração dos subsídios, o processo legislativo aprovado pela Câmara Municipal de Delta converge com o que determina o sistema jurídico brasileiro.
+  (D) A lei aprovada pela Câmara Municipal de Delta não atende ao regime constitucional vigente, pois a matéria em questão exige projeto de iniciativa da Câmara Municipal, não do Chefe do Poder Executivo.
+
+[Q-46-17]
+ENUNCIADO: Na condição de advogado(a), você é procurado(a) por membros de uma comunidade indígena que estão sofrendo reiteradas ofensas aos seus direitos originários sobre as terras que tradicionalmente ocupam, sofrendo renitente esbulho, em conflito possessório que se arrasta desde antes da promulgação da Constituição Federal de 1988. Nesse contexto, de acordo com o entendimento da Corte Interamericana de Direitos Humanos (Corte IDH) e do Supremo Tribunal Federal (STF), assinale a opção que apresenta, corretamente, a sua orientação.
+  (A) Diante da natureza jurídica despersonalizada da comunidade indígena, reconhece-se a possibilidade de quaisquer de seus integrantes pleitear individualmente, em substituição à coletividade respectiva, 
+  (B) Em razão da situação narrada protrair-se no tempo, estendendo-se o conflito possessório a período anterior à edição da nova ordem constitucional, não há, no caso, óbice de ordem técnico-jurídica que i
+  (C) Tanto a Corte IDH quanto o STF reconhecem a possibilidade de a comunidade indígena, por livre disposição, anuir à solução conciliatória em que se estabeleça a alienação das terras indígenas, desde que
+  (D) Diante das peculiaridades culturais e de organização inerentes aos povos originários, para melhor proteção dos seus direitos, é obrigatório que a sua representação em juízo seja realizada por órgão go
+
+[Q-46-18]
+ENUNCIADO: Após a edição da Emenda Constitucional nº 45/2004, com a inserção do § 3º no Art. 5º da Constituição Federal de 1988, muito se discutiu acerca do status normativo que deveria ser atribuído aos Tratados e Convenções Internacionais sobre Direitos Humanos já incorporados ao ordenamento jurídico brasileiro em data anterior ao advento da reforma constitucional referida. Acerca do tema, e de acordo com a atual jurisprudência do Supremo Tribunal Federal (STF), assinale a opção correta.
+  (A) Diante da impossibilidade de adoção do rito constitucionalmente exigido para a aprovação de emendas constitucionais, os Tratados e as Convenções Internacionais sobre Direitos Humanos incorporados ao o
+  (B) Diante da ausência de previsão constitucional expressa em relação à matéria, em razão dos compromissos assumidos pelo Estado brasileiro no plano internacional, os Tratados e as Convenções Internaciona
+  (C) Em razão da cláusula aberta contida no Art. 5º, § 2º, da Constituição Federal de 1988, ao admitir expressamente a existência de outros direitos fundamentais para além daqueles expressamente elencados 
+  (D) Em razão da necessidade de interpretação do texto constitiucional, notadamente as previsões insertas nos parágrafos do art. 5º da Constituição Federal de 1988, à luz do Art. 7º, § 7º, da Convenção Ame
+
+[Q-46-19]
+ENUNCIADO: Maria pretendia concorrer ao cargo eletivo de senadora. Embora tivesse nascido no Estado Alfa e passasse a maior parte do seu tempo nesse Estado, possuía propriedades nos Estados Beta e Gama, para onde se deslocava com regularidade em razão de sua atividade profissional, ali permanecendo por longos períodos. Para saber em qual desses Estados poderia concorrer ao cargo eletivo de senadora, Maria o(a) consultou como advogado(a). Sobre a hipótese apresentada, assinale a afirmativa correta.
+  (A) Maria somente pode concorrer no Estado em que tenha domicílio eleitoral, o qual deve ser estabelecido até seis meses antes da eleição.
+  (B) Na medida em que o domicílio eleitoral é uma condição de elegibilidade regida pelo princípio da unicidade, Maria deve defini-lo no momento do registro.
+  (C) Em razão do caráter nacional do cargo eletivo de senadora, Maria pode concorrer em qualquer dos Estados, ainda que não tenha domicílio eleitoral no Estado escolhido.
+  (D) Como o domicílio eleitoral não é uma ficção, sendo regido pela realidade, Maria somente pode concorrer no Estado Alfa, no qual passa a maior parte do tempo, ainda que tenha declinado domicílio diverso
+
+[Q-46-20]
+ENUNCIADO: Logo após a diplomação de Maria, candidata eleita para o cargo de Prefeita do Município Delta, Ana, candidata derrotada, procurou você, como advogado(a), com provas de que Maria recebera doação estimável em dinheiro, por meio da publicidade realizada, em seu benefício, pela organização da sociedade civil de interesse público Gama. Ana o(a) questionou em relação à juridicidade da conduta de Maria. Quanto à orientação a ser dada, assinale a afirmativa correta.
+  (A) Trata-se de captação ilícita de recursos, e a medida a ser ajuizada deve observar o procedimento da ação de investigação judicial eleitoral.
+  (B) Como não houve repasse de recursos financeiros, o fato de Maria ter sido beneficiada pela publicidade realizada por Gama não configura ilícito eleitoral.
+  (C) Ocorreu a preclusão de qualquer medida passível de ser adotada em relação à situação descrita, o que torna desinfluente a análise de sua licitude ou não.
+  (D) Como somente são admitidas doações expressas em moeda, a conduta é ilícita, o que acarreta a incidência da pena cominada, sendo possível a aplicação da sanção de multa a Gama e a Maria.
+
+[Q-46-21]
+ENUNCIADO: Um cidadão brasileiro, domiciliado na Espanha, faleceu deixando um testamento particular que dispõe sobre bens situados tanto no exterior quanto no Brasil. Após a sua morte, os herdeiros promoveram, de comum acordo, perante autoridade notarial estrangeira competente, procedimento consensual de confirmação do testamento particular e partilha do patrimônio, incluindo os bens localizados no Brasil. Posteriormente, requereram ao Superior Tribunal de Justiça (STJ) a homologação do ato notarial estrangeiro, alegando a inexistência de litígio entre os herdeiros e a plena validade do procedimento conf
+  (A) A homologação será possível apenas se o ato estrangeiro for convertido em decisão judicial no país de origem, pois somente decisões judiciais estrangeiras são passíveis de homologação pelo STJ.
+  (B) O ato notarial poderá ser homologado pelo STJ desde que todos os herdeiros sejam capazes e tenham manifestado consentimento expresso quanto à confirmação do testamento e à partilha dos bens, inclusive
+  (C) A homologação deverá ser deferida parcialmente, produzindo efeitos automáticos sobre os bens situados no Brasil, em respeito ao princípio da autonomia da vontade dos herdeiros e ao reconhecimento inte
+  (D) O ato notarial estrangeiro não poderá ser homologado na parte relativa aos bens situados no Brasil, pois a confirmação de testamento particular e a partilha desses bens se inserem na competência juris
+
+[Q-46-22]
+ENUNCIADO: François, cidadão francês, residente e domiciliado na Holanda, e Maria, cidadã brasileira, residente e domiciliada na França, são casados. Conheceram-se na Alemanha, onde concluíram o doutorado em Direito Internacional na Universidade de Frankfurt. Os nubentes eram domiciliados na Alemanha na ocasião do casamento e tiveram em Frankfurt o seu primeiro domicílio conjugal. Posteriormente, mudaram-se para países diferentes por razões profissionais. Após alguns meses, resolveram não dar continuidade ao casamento. Maria pretende ajuizar ação de divórcio no Brasil porque está prestes a retornar ao se
+  (A) Francesa.
+  (B) Brasileira.
+  (C) Alemã.
+  (D) Holandesa.
+
+[Q-46-23]
+ENUNCIADO: O Município Alfa estava enfrentando dificuldades para pagar em dia a remuneração de seus servidores públicos municipais. Em razão disso, resolveu requerer à instituição financeira federal BNDES um empréstimo, a fim de pagar as remunerações em atraso. O Município ofereceu, em garantia do empréstimo, terrenos de sua propriedade, cujo valor de mercado inclusive suplantava o montante a ser emprestado. Diante desse cenário, assinale a afirmativa correta.
+  (A) É proibido ao BNDES realizar empréstimo para o pagamento de despesas com pessoal.
+  (B) Como houve oferta de garantia em valor superior ao do empréstimo, este deverá ser realizado pelo BNDES.
+  (C) É facultado ao BNDES realizar o empréstimo, mas apenas se reputar que as garantias oferecidas são de liquidez satisfatória.
+  (D) Somente uma instituição financeira controlada pelo Estado em que se localiza o Município Alfa poderia realizar tal empréstimo.
+
+[Q-46-24]
+ENUNCIADO: Em determinado ano, na elaboração do projeto de Lei Orçamentária Anual (LOA) da União, o Poder Executivo resolveu inserir as previsões de despesas para os exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento. Sobre esse projeto de LOA, à luz das regras constitucionais de elaboração das leis orçamentárias, assinale a afirmativa correta.
+  (A) Veiculou indevidamente investimentos plurianuais e aqueles em andamento, os quais somente poderiam constar do Plano Plurianual (PPA).
+  (B) Inseriu, equivocadamente, os investimentos plurianuais em seu conteúdo, pois deveriam estar previstos na Lei de Diretrizes Orçamentárias (LDO).
+  (C) Adequa-se às disposições constitucionais que permitem tais inserções dos investimentos plurianuais e daqueles em andamento.
+  (D) Poderia conter, apenas, os investimentos já em andamento, uma vez que os investimentos plurianuais somente poderiam constar do Plano Plurianual (PPA).
+
+[Q-46-25]
+ENUNCIADO: Com necessidade de ampliar os gastos na área da seguridade social, a União criou uma nova contribuição de seguridade social, por meio da Lei Ordinária nº XXX/2024, publicada em 1º de setembro de 2024, cuja cobrança se iniciou em 1º de novembro de 2024. Diante desse cenário, assinale a afirmativa correta.
+  (A) A Lei Ordinária nº XXX/2024 é inconstitucional por violar tanto a reserva de lei complementar como os princípios da anterioridade tributária anual e nonagesimal.
+  (B) Embora não viole o princípio da anterioridade tributária anual, a Lei Ordinária nº XXX/2024 é inconstitucional por violar tanto a reserva de lei complementar como o princípio da anterioridade tributár
+  (C) Não há qualquer inconstitucionalidade na Lei Ordinária nº XXX/2024, uma vez que as novas contribuições de seguridade social são instituídas por meio de lei ordinária e constituem exceção aos princípio
+  (D) As novas contribuições de seguridade social constituem exceção aos princípios da anterioridade tributária anual e nonagesimal, de modo que a única inconstitucionalidade formal presente na Lei Ordinári
+
+[Q-46-26]
+ENUNCIADO: Mateus devia um valor elevado ao Fisco Federal, em dívidas de certo tributo federal devidamente lançadas e inscritas em Dívida Ativa da União ainda não prescritas, o que levou a Procuradoria da Fazenda Nacional (PFN), em fevereiro de 2020, a ajuizar execução fiscal contra ele. Mateus não foi localizado para ser citado nem foram encontrados bens sobre os quais poderia recair a penhora, tendo sido a PFN cientificada desses fatos, em abril de 2020. Assim, foi requerida e realizada a citação de Mateus por edital, ainda em abril de 2020. Em julho de 2025, sem que a situação se alterasse, o Magistra
+  (A) Ocorreu a prescrição direta de tais créditos, pois foi alcançado o prazo prescricional quinquenal previsto no Código Tributário Nacional.
+  (B) A ausência de citação pessoal de Mateus impede o curso da prescrição, de modo que esta, nesse caso, não poderia ter se consumado.
+  (C) A prescrição intercorrente prevista no Código Tributário Nacional, ocorrida na pendência do processo de execução fiscal, fulminou tais créditos tributários.
+  (D) A prescrição intercorrente prevista na Lei de Execuções Fiscais ainda não havia sido atingida, pois não se computou na contagem geral do prazo o período de 1 ano de suspensão do curso da execução.
+
+[Q-46-27]
+ENUNCIADO: João da Silva recebeu vultosa importância da sociedade empresária em que trabalhava, a título de indenização por danos morais, por ter sido exposto meses antes, em público, diante de seus colegas, a uma situação vexatória. No momento do pagamento do valor da indenização, a sociedade empresária reteve na fonte o Imposto sobre a Renda que entendeu devido, recolhendo-o em DARF no mesmo ato. João, inconformado com a retenção, impugnou administrativamente a cobrança, mas a decisão de primeira instância administrativa denegou a restituição do imposto. João então consultou você, como advogado(a), pre
+  (A) Foi correta a retenção do Imposto de Renda sobre aquela verba indenizatória, por se tratar de fato ocorrido em relação de emprego, equiparando-a a verba salarial.
+  (B) Caso queira promover ação anulatória contra a decisão administrativa que denegou a restituição do Imposto sobre a Renda, João terá um prazo máximo de dois anos para fazê-lo.
+  (C) João somente poderá requerer judicialmente a restituição do valor de Imposto sobre a Renda retido indevidamente, por ter natureza indenizatória, após esgotar a via administrativa tributária em todas a
+  (D) Tendo sido negado em primeira instância administrativa o seu pedido de restituição do Imposto sobre a Renda que entende indevidamente retido, João somente poderá recorrer à segunda instância administr
+
+[Q-46-28]
+ENUNCIADO: A lei federal que instituiu a Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados (Cide Combustíveis) fixou a alíquota do álcool etílico combustível em R$ 37,20/m³ para a comercialização no mercado interno. Contudo, o governo federal, querendo estimular o uso do álcool etílico combustível, pelo Decreto do Presidente da República nº XXX, de 1º de agosto de 2024, reduziu esta alíquota para R$ 20,50/m³. Mudada a política governamental sobre a matéria, pelo Decreto nº YYY, datado de 1º de fevereiro de 2025, tal alíquota foi
+  (A) A produção de efeitos do Decreto nº YYY a partir de 3 de junho de 2025 viola o princípio da anterioridade tributária anual.
+  (B) A redução da alíquota para R$ 20,50/m³ por decreto é inconstitucional, ainda que seja mais benéfica ao sujeito passivo tributário.
+  (C) A redução da alíquota para R$ 20,50/m³ e seu restabelecimento para R$ 37,20/m³ podem ser feitas por decreto.
+  (D) O restabelecimento de tal alíquota da Cide Combustíveis para o patamar de R$ 37,20/m³ por decreto viola o princípio da legalidade tributária.
+
+[Q-46-29]
+ENUNCIADO: O Município Alfa, por lei ordinária municipal, criou a Taxa de Fiscalização de Cemitérios, relativa ao custeio das atividades de fiscalização das instalações e atividades das concessionárias de cemitérios em território municipal, tendo tais concessionárias como contribuintes. A lei criadora estabeleceu que a data de pagamento dessa taxa seria fixada em decreto do Prefeito Municipal. O Decreto Municipal XX/2023 fixou a data de pagamento em 15 dias após o recebimento da notificação para pagamento. Diante desse cenário, assinale a afirmativa correta.
+  (A) Somente lei municipal, e não mero decreto, poderia fixar o prazo de pagamento da referida taxa.
+  (B) O Decreto Municipal XX/2023 não poderia fixar a data de pagamento dessa taxa em 15 dias, por contrariar o prazo de 30 dias previsto no Código Tributário Nacional (CTN).
+  (C) Como a fiscalização de cemitérios configura uma taxa de polícia, e não uma taxa de serviço público específico e divisível, tal taxa não poderia ser instituída pelo Município Alfa.
+  (D) Ainda que não houvesse previsão na lei instituidora do tributo de que seria um decreto a fixar a data de pagamento dessa taxa, o Decreto Municipal XX/2023 seria ato normativo apto a fazê-lo.
+
+[Q-46-30]
+ENUNCIADO: A sociedade empresária Begônia deseja participar de um procedimento licitatório, na modalidade concorrência, para a contratação de uma obra, que adotará a sequência adotada como regra na Lei nº 14.133/2021, mas está com receio de ser prejudicada no julgamento das propostas, que antecede à fase de habilitação. Em razão disso, a sociedade empresária consultou você, como advogado(a), a fim de esclarecer a possibilidade de apresentar um recurso administrativo, o momento correto para fazê-lo e os efeitos dele decorrentes, caso tal receio venha a ser concretizado. Sobre essa situação hipotética, ass
+  (A) Não há a possibilidade de se apresentar um recurso administrativo contra o julgamento das propostas, diante da vedação expressa na aludida norma.
+  (B) Apenas depois da habilitação é que caberá a apresentação de um recurso administrativo contra o julgamento das propostas, de modo que é necessário aguardar o prosseguimento do certame para a manifestaç
+  (C) O pedido de reconsideração em relação ao julgamento das propostas deve ser prontamente apresentado ao fim da respectiva fase e possui efeito suspensivo, de modo que a licitação só seguirá para a fase 
+  (D) A intenção de recorrer do julgamento das propostas deve ser imediatamente manifestada, mas o prazo para a apresentação das razões recursais será iniciado na data da intimação ou da lavratura da ata de
+
+[Q-46-31]
+ENUNCIADO: O Estado Alfa, cuja capital é o Município Beta, mediante decreto do Governador, em observância às formalidades legais, declarou de utilidade pública uma grande área localizada no Município Sigma, sede de Comarca, a qual abarca o imóvel pertencente ao particular João. Em razão do grande apego emocional com a localidade, onde vive há 25 anos, João recusou todas as propostas oferecidas pelo Poder Público e tentou impedir que as autoridades administrativas estaduais ingressassem no terreno do seu imóvel para a realização de levantamentos. Por isso, o Estado Alfa pretende ingressar, em juízo, com u
+  (A) A ação judicial deverá ser proposta pelo expropriante no foro da situação do bem imóvel, ou seja, na Comarca do Município Sigma.
+  (B) As autoridades administrativas do Estado Alfa poderão ingressar nas áreas compreendidas pela declaração de utilidade pública após a autorização judicial específica, ouvido o expropriado João.
+  (C) O Estado Alfa poderá se imitir provisoriamente na posse do imóvel de João, desde que, declarada a situação de urgência, deposite, em juízo, o valor que o expropriado João entender justo a título de in
+  (D) Incumbirá ao expropriado João, em sede de contestação, expor todas as razões de fato e de direito com que impugna o pedido do expropriante, especificando as provas que pretende produzir para demonstra
+
+[Q-46-32]
+ENUNCIADO: A sociedade empresária Alfa tomou conhecimento de que o Conselho Diretor da Agência Reguladora Beta realizou reunião deliberativa, na semana anterior, tendo por objeto discussões sobre documentos classificados como sigilosos, bem como sobre matérias de natureza administrativa. Considerando que a data da referida reunião não foi previamente divulgada no sítio da agência reguladora na internet, tampouco foi gravada em meio eletrônico, os sócios da entidade privada procuraram você para, na qualidade de advogado (a), prestar a devida consultoria jurídica. Nesse cenário, à luz da Lei no 13.848/2019
+  (A) A reunião deliberativa do Conselho Diretor da Agência Reguladora Beta deverá ser anulada, na medida em que não houve a sua gravação em meio eletrônico.
+  (B) Inexiste irregularidade na reunião deliberativa do Conselho Diretor da Agência Reguladora Beta, já que foram discutidos documentos classificados como sigilosos, bem como matérias de natureza administr
+  (C) Muito embora a gravação, em meio eletrônico, da reunião deliberativa do Conselho Diretor da Agência Reguladora Beta não fosse obrigatória, era necessário a prévia divulgação da sua data no sítio da re
+  (D) Para que a reunião deliberativa do Conselho Diretor da Agência Reguladora Beta seja anulada, a sociedade empresária Alfa deverá demonstrar prejuízo em razão da ausência de divulgação prévia desta no s
+
+[Q-46-33]
+ENUNCIADO: O Ministério Público ingressou, em Juízo, com ação de improbidade administrativa em face de João, agente público no Município Alfa, sob o fundamento de que ele teria, em outubro de 2025, frustrado, em ofensa à imparcialidade, o caráter concorrencial de procedimento licitatório. Citado, o servidor público ofereceu contestação, por meio da sua atuação, na qualidade de advogado(a). Contudo, as preliminares suscitadas pelo réu, na contestação, foram rejeitadas. Em assim sendo, João procurou você, na condição de advogado(a), para tomar conhecimento das próximas etapas procedimentais. Nesse cenário,
+  (A) A apelação é o recurso cabível para questionar a decisão judicial que rejeitou as questões preliminares suscitadas na contestação.
+  (B) A defesa de João poderá interpor agravo de instrumento em detrimento da decisão judicial que rejeitou as questões preliminares suscitadas em sede de contestação.
+  (C) Muito embora não seja cabível recurso em face da decisão judicial que rejeitou as questões preliminares suscitadas por João na contestação, nada impede que a defesa formule pedido de reconsideração.
+  (D) Por não ter ingressado no mérito da relação processual, a decisão judicial que rejeitou as questões preliminares suscitadas na contestação não é passível de impugnação via recurso ou pedido de reconsi
+
+[Q-46-34]
+ENUNCIADO: As autoridades competentes de determinado órgão federal, diante do grande acúmulo de trabalho, fizeram editar um ato formal delegando parcela de sua competência para outro órgão que a ele não é hierarquicamente subordinado, mediante a especificação das matérias e dos poderes transferidos, os limites da atuação do delegado, a duração e os objetivos da delegação e o recurso cabível. Ao tomar conhecimento de tal fato, Gyslaine ficou muito preocupada quanto à possibilidade de o órgão delegado vir a decidir determinado recurso administrativo que estava tramitando perante o órgão delegante, razão pe
+  (A) A competência relativa à decisão de recursos administrativos não pode ser objeto de delegação.
+  (B) O ato de delegação é irrevogável, razão pela qual o desfazimento da delegação deve ser objeto de avocação.
+  (C) A competência, inexistindo impedimento legal, apenas poderia ser delegada para o órgão hierarquicamente subordinado.
+  (D) As decisões adotadas por delegação devem mencionar explicitamente essa qualidade e considerar-se-ão editadas pela autoridade delegante, que detém a competência originária.
+
+[Q-46-35]
+ENUNCIADO: A sociedade empresária Alfa está em processo de licenciamento ambiental de atividade de tingimento de tecidos e fabricação de roupas, e pretende obter outorga pelo Poder Público do direito do uso de recursos hídricos, consistente em extração de água de aquífero subterrâneo existente no local, como insumo do processo produtivo. Nesse contexto, o empreendedor tomou conhecimento de que será cobrado um valor pelo recurso natural consumido. Inconformado com a cobrança, pois ainda terá grande gasto financeiro com as obras para a extração de água do aquífero, a sociedade empresária procurou a advogad
+  (A) O empreendedor não deve pagar pelo uso da água, exceto se houver efetivo dano ambiental, com base no princípio de direito ambiental da prevenção.
+  (B) A cobrança antecipada por danos ambientais a serem causados por poluidores é pertinente, com base no princípio de direito ambiental do desenvolvimento sustentável.
+  (C) O empreendedor deve pagar uma contribuição financeira à coletividade, que sofre as consequências do uso privado da água, com base no princípio de direito ambiental do usuário- pagador.
+  (D) A cobrança pelo uso da água não é pertinente, salvo se houver efetivo dano ambiental com a necessária prova pericial que demonstre o nexo causal, com base no princípio de direito ambiental da precauçã
+
+[Q-46-36]
+ENUNCIADO: O Prefeito do Município Ômega, após os trâmites pertinentes, fez editar um decreto que delimitou uma Área de Proteção Ambiental (APA), unidade de conservação de uso sustentável, em decorrência de sua grande extensão e do grau de ocupação humana, diante de atributos abióticos, bióticos, estéticos ou culturais especialmente importantes para a qualidade de vida e o bem-estar das populações humanas. Dessa maneira busca proteger a diversidade biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos recursos naturais. A propriedade privada de Adélia Figueiredo está sit
+  (A) As condições para a pesquisa e a visitação do público, observadas as exigências e restrições legais, devem ser estabelecidas por Adélia.
+  (B) O Prefeito não poderia ter editado um decreto para a finalidade descrita, pois a Unidade de Conservação Ambiental só pode ser criada por lei.
+  (C) A propriedade de Adélia deve ser desapropriada de acordo com o que dispõe a lei, porque está localizada em uma Unidade de Conservação de domínio público.
+  (D) A Unidade de Conservação pertence, na realidade, ao grupo das unidades de proteção integral, o que permite o uso dos recursos naturais pelos proprietários privados.
+
+[Q-46-37]
+ENUNCIADO: Joaquim Cardoso e Celina de Holanda são pais das gêmeas Clarice e Maria, que têm 17 anos de idade. No ano passado, Clarice, com a devida autorização dos pais, casou- se com Ariano. Maria, no mês de março deste ano, iniciou o curso de Medicina em uma universidade federal. O casal procurou você, como advogado(a) especializado(a) em Direito Civil, para ser orientado sobre a situação jurídica das filhas. A respeito da capacidade civil das filhas de Joaquim e Celina, assinale a afirmativa correta.
+  (A) Como Clarice é casada, ela é civilmente capaz.
+  (B) Maria do Carmo, pela matrícula no ensino superior, é civilmente capaz.
+  (C) Todas as filhas são relativamente incapazes, pois são maiores de 16 e menores de 18 anos.
+  (D) Todas as filhas são absolutamente incapazes, pois são menores de 18 anos, sujeitando-se à autoridade parental.
+
+[Q-46-38]
+ENUNCIADO: Joaquim, de 71 anos de idade, é viúvo de Marta há cerca de quatro anos, e não finalizou a partilha de bens deixados por sua falecida esposa, porque há um litígio entre o filho comum do ex-casal e a filha do primeiro casamento de Marta. Na semana passada, Joaquim procurou você, como advogado(a), para ser orientado juridicamente acerca da união que pretende estabelecer com Joana, tendo em vista que a partilha anterior não será realizada antes do novo matrimônio. A respeito do regime de bens que deveria adotar na nova união, assinale a opção que apresenta, corretamente, a sua orientação.
+  (A) Separação convencional de bens, ante a idade de Joaquim.
+  (B) Qualquer regime de bens, por força da autonomia que é assegurada a Joaquim.
+  (C) Comunhão parcial de bens, de forma a resguardar os bens ainda não partilhados.
+  (D) Separação obrigatória de bens, para evitar a confusão patrimonial entre os vínculos conjugais.
+
+[Q-46-39]
+ENUNCIADO: Após uma intensa discussão motivada por questões financeiras, Lucas desferiu golpes fatais em seus pais, resultando na morte de ambos, que deixaram uma herança significativa. Mateus, seu irmão mais novo, ainda menor de idade, está sob a tutela de seu tio Ricardo, que se recusa a promover a exclusão de Lucas da sucessão por indignidade. Considerando que Mateus, por ser menor, não tem capacidade legal para agir diretamente, surgem dúvidas sobre quem tem legitimidade para requerer judicialmente a exclusão de Lucas da herança e quais são os procedimentos adequados para isso. Diante da situação hip
+  (A) Apenas Mateus, ao atingir a maioridade, terá o direito de pedir judicialmente a exclusão de Lucas da sucessão, pois ele é o herdeiro direto prejudicado.
+  (B) O Ministério Público tem legitimidade para requerer a exclusão de Lucas por indignidade, protegendo os direitos de Mateus, menor e incapaz de agir por conta própria.
+  (C) Apenas Ricardo, na qualidade de tutor de Mateus, pode requerer judicialmente a exclusão de Lucas da sucessão, e a recusa de Ricardo impede que qualquer outra pessoa o faça.
+  (D) Lucas só poderá ser excluído da sucessão se Ricardo, na qualidade de tutor, concordar, independentemente da legitimidade de outro herdeiro ou do Ministério Público para a propositura da ação.
+
+[Q-46-40]
+ENUNCIADO: Lorena resolveu alienar um imóvel avaliado em R$ 2.000.000,00 para Marta. Para tanto, elas elaboraram uma minuta de contrato de compra e venda, especificando as partes, o bem, o preço e a forma de pagamento. Considerando a urgência da vendedora, que iria se mudar para o exterior, essa minuta foi impressa na casa de Marta e assinada pelas partes e pelas testemunhas Natália e Oscar. Sobre a situação hipotética narrada, assinale a afirmativa correta.
+  (A) O contrato de compra e venda é válido, uma vez que, na presença de duas testemunhas, o instrumento particular poderia ser utilizado.
+  (B) O contrato de compra e venda é nulo, por desobediência de sua forma, mas poderá ser convertido em promessa de compra e venda.
+  (C) O contrato de compra e venda é anulável, por vício de sua forma, decaindo as partes do direito de promover a anulação no prazo de dois anos de sua celebração.
+  (D) O contrato de compra e venda é anulável por vício de forma. A lei permite, entretanto, a sua convalidação caso haja o reconhecimento das firmas de todos os envolvidos no Ofício de Notas.

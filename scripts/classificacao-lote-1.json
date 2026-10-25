@@ -1,0 +1,282 @@
+[
+  {
+    "questao_id": "Q-46-1",
+    "disciplina_slug": "etica",
+    "topico_slug": "direitos-prerrogativas",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-2",
+    "disciplina_slug": "etica",
+    "topico_slug": "incompatibilidades-impedimentos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-3",
+    "disciplina_slug": "etica",
+    "topico_slug": "inscricao-oab",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-4",
+    "disciplina_slug": "etica",
+    "topico_slug": "sociedade-advogados",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-5",
+    "disciplina_slug": "etica",
+    "topico_slug": "infracoes-sancoes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-6",
+    "disciplina_slug": "etica",
+    "topico_slug": "honorarios",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-7",
+    "disciplina_slug": "etica",
+    "topico_slug": "publicidade-sigilo",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-8",
+    "disciplina_slug": "etica",
+    "topico_slug": "deveres-advogado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-9",
+    "disciplina_slug": "filosofia",
+    "topico_slug": "hermeneutica",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-10",
+    "disciplina_slug": "civil",
+    "topico_slug": "lindb",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-11",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "remedios-constitucionais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-12",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-estado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-13",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "controle-constitucionalidade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-14",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "defesa-estado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-15",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-poderes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-16",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-poderes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-17",
+    "disciplina_slug": "direitos-humanos",
+    "topico_slug": "sistema-interamericano",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-18",
+    "disciplina_slug": "direitos-humanos",
+    "topico_slug": "tratados-brasil",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-19",
+    "disciplina_slug": "eleitoral",
+    "topico_slug": "elegibilidade-inelegibilidade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-20",
+    "disciplina_slug": "eleitoral",
+    "topico_slug": "propaganda-eleitoral",
+    "confianca": "media",
+    "nota": "Questão trata de captação ilícita de recursos via publicidade; mais próxima de propaganda eleitoral do que de crimes eleitorais."
+  },
+  {
+    "questao_id": "Q-46-21",
+    "disciplina_slug": "internacional",
+    "topico_slug": "dip-privado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-22",
+    "disciplina_slug": "internacional",
+    "topico_slug": "dip-privado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-23",
+    "disciplina_slug": "financeiro",
+    "topico_slug": "lrf",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-24",
+    "disciplina_slug": "financeiro",
+    "topico_slug": "orcamento",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-25",
+    "disciplina_slug": "tributario",
+    "topico_slug": "limitacoes-tributar",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-26",
+    "disciplina_slug": "tributario",
+    "topico_slug": "credito-tributario",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-27",
+    "disciplina_slug": "tributario",
+    "topico_slug": "processo-tributario",
+    "confianca": "media",
+    "nota": "Questão sobre ação anulatória de decisão administrativa denegatória de restituição de IR; foco no prazo processual tributário."
+  },
+  {
+    "questao_id": "Q-46-28",
+    "disciplina_slug": "tributario",
+    "topico_slug": "limitacoes-tributar",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-29",
+    "disciplina_slug": "tributario",
+    "topico_slug": "limitacoes-tributar",
+    "confianca": "media",
+    "nota": "Questão sobre legalidade tributária (prazo de pagamento por decreto); poderia ser normas-gerais-ctn, mas o foco é limitação ao poder de tributar."
+  },
+  {
+    "questao_id": "Q-46-30",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "licitacoes-contratos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-31",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "intervencao-propriedade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-32",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "organizacao-administrativa",
+    "confianca": "media",
+    "nota": "Lei 13.848/2019 (Lei das Agências Reguladoras); mais próximo de organização administrativa (regime das agências)."
+  },
+  {
+    "questao_id": "Q-46-33",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "improbidade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-34",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "processo-administrativo",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-35",
+    "disciplina_slug": "ambiental",
+    "topico_slug": "pnma",
+    "confianca": "media",
+    "nota": "Princípio do usuário-pagador; tema geral de política ambiental (PNMA)."
+  },
+  {
+    "questao_id": "Q-46-36",
+    "disciplina_slug": "ambiental",
+    "topico_slug": "snuc",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-37",
+    "disciplina_slug": "civil",
+    "topico_slug": "parte-geral-pessoas",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-38",
+    "disciplina_slug": "civil",
+    "topico_slug": "familia",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-39",
+    "disciplina_slug": "civil",
+    "topico_slug": "sucessoes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-46-40",
+    "disciplina_slug": "civil",
+    "topico_slug": "contratos",
+    "confianca": "alta",
+    "nota": null
+  }
+]

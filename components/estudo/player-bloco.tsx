@@ -111,7 +111,9 @@ export function PlayerBloco({
               </div>
             </>
           ) : (
+            // key força React a remontar (resetar escolhida e resultado) a cada troca de questão
             <Quiz
+              key={atual.questao.id}
               questaoId={atual.questao.id}
               enunciado={atual.questao.enunciado}
               alternativas={atual.questao.alternativas}

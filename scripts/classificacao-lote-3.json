@@ -1,0 +1,282 @@
+[
+  {
+    "questao_id": "Q-47-1",
+    "disciplina_slug": "etica",
+    "topico_slug": "sociedade-advogados",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-2",
+    "disciplina_slug": "etica",
+    "topico_slug": "inscricao-oab",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-3",
+    "disciplina_slug": "etica",
+    "topico_slug": "atividades-privativas",
+    "confianca": "media",
+    "nota": "Trata do mandato tacito/atuacao sem procuracao em caso de urgencia, previsto no Estatuto da OAB"
+  },
+  {
+    "questao_id": "Q-47-4",
+    "disciplina_slug": "etica",
+    "topico_slug": "publicidade-sigilo",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-5",
+    "disciplina_slug": "etica",
+    "topico_slug": "incompatibilidades-impedimentos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-6",
+    "disciplina_slug": "etica",
+    "topico_slug": "processo-disciplinar",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-7",
+    "disciplina_slug": "etica",
+    "topico_slug": "infracoes-sancoes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-8",
+    "disciplina_slug": "etica",
+    "topico_slug": "inscricao-oab",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-9",
+    "disciplina_slug": "filosofia",
+    "topico_slug": "jusnaturalismo-positivismo",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-10",
+    "disciplina_slug": "filosofia",
+    "topico_slug": "teoria-justica",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-11",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-poderes",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-12",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "defesa-estado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-13",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "controle-constitucionalidade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-14",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-poderes",
+    "confianca": "media",
+    "nota": "Trata de limitacao material a MP (vedacao de MP para materia eleitoral/inelegibilidade), topico de processo legislativo dentro de organizacao dos poderes"
+  },
+  {
+    "questao_id": "Q-47-15",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "organizacao-estado",
+    "confianca": "media",
+    "nota": "Envolve competencia legislativa (desapropriacao - privativa da Uniao) e garantia de indenizacao previa"
+  },
+  {
+    "questao_id": "Q-47-16",
+    "disciplina_slug": "constitucional",
+    "topico_slug": "direitos-garantias",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-17",
+    "disciplina_slug": "direitos-humanos",
+    "topico_slug": "tratados-brasil",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-18",
+    "disciplina_slug": "direitos-humanos",
+    "topico_slug": "teoria-dh",
+    "confianca": "media",
+    "nota": "Tribunal Penal Internacional - sistema global de DH"
+  },
+  {
+    "questao_id": "Q-47-19",
+    "disciplina_slug": "eleitoral",
+    "topico_slug": "elegibilidade-inelegibilidade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-20",
+    "disciplina_slug": "eleitoral",
+    "topico_slug": "propaganda-eleitoral",
+    "confianca": "media",
+    "nota": "Captacao ilicita de sufragio (art. 41-A da Lei 9.504/97)"
+  },
+  {
+    "questao_id": "Q-47-21",
+    "disciplina_slug": "internacional",
+    "topico_slug": "dip-publico",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-22",
+    "disciplina_slug": "internacional",
+    "topico_slug": "dip-privado",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-23",
+    "disciplina_slug": "financeiro",
+    "topico_slug": "lrf",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-24",
+    "disciplina_slug": "financeiro",
+    "topico_slug": "orcamento",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-25",
+    "disciplina_slug": "tributario",
+    "topico_slug": "impostos-estaduais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-26",
+    "disciplina_slug": "tributario",
+    "topico_slug": "impostos-municipais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-27",
+    "disciplina_slug": "tributario",
+    "topico_slug": "limitacoes-tributar",
+    "confianca": "media",
+    "nota": "Isencao heteronoma (vedacao do art. 151, III CF) e anterioridade"
+  },
+  {
+    "questao_id": "Q-47-28",
+    "disciplina_slug": "tributario",
+    "topico_slug": "competencia-tributaria",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-29",
+    "disciplina_slug": "tributario",
+    "topico_slug": "credito-tributario",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-30",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "atos-administrativos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-31",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "processo-administrativo",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-32",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "intervencao-propriedade",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-33",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "licitacoes-contratos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-34",
+    "disciplina_slug": "administrativo",
+    "topico_slug": "servicos-publicos",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-35",
+    "disciplina_slug": "ambiental",
+    "topico_slug": "pnma",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-36",
+    "disciplina_slug": "ambiental",
+    "topico_slug": "crimes-ambientais",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-37",
+    "disciplina_slug": "civil",
+    "topico_slug": "familia",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-38",
+    "disciplina_slug": "civil",
+    "topico_slug": "responsabilidade-civil",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-39",
+    "disciplina_slug": "civil",
+    "topico_slug": "direito-coisas",
+    "confianca": "alta",
+    "nota": null
+  },
+  {
+    "questao_id": "Q-47-40",
+    "disciplina_slug": "cdc",
+    "topico_slug": "direitos-basicos",
+    "confianca": "media",
+    "nota": "Trata de LGPD/protecao de dados pessoais; classificado em CDC/direitos basicos por aproximacao, pois nao ha disciplina especifica de protecao de dados na lista"
+  }
+]
