@@ -19,6 +19,7 @@ export default async function BlocoPage({
       titulo={data.bloco.titulo}
       disciplinaNome={data.disciplina.nome}
       disciplinaCor={data.disciplina.cor ?? data.disciplina.slug}
+      disciplinaSlug={data.disciplina.slug}
       duracaoMin={data.bloco.duracaoMin}
       passos={data.passos.map((p) => ({
         id: p.id,

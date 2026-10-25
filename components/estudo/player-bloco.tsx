@@ -22,6 +22,7 @@ type Props = {
   titulo: string;
   disciplinaNome: string;
   disciplinaCor: string;
+  disciplinaSlug: string;
   duracaoMin: number;
   passos: PassoLite[];
   questoes: QuestaoLite[];
@@ -32,6 +33,7 @@ export function PlayerBloco({
   titulo,
   disciplinaNome,
   disciplinaCor,
+  disciplinaSlug,
   duracaoMin,
   passos,
   questoes,
@@ -59,7 +61,7 @@ export function PlayerBloco({
   function finalizarBloco() {
     startTransition(async () => {
       await concluirBloco(blocoId, duracaoMin);
-      router.push(`/estudo/${blocoId}/concluido`);
+      router.push(`/estudo/${disciplinaSlug}/${blocoId}/concluido`);
     });
   }
 
