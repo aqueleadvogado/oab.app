@@ -197,6 +197,13 @@ export const questoes = pgTable("questoes", {
   blocoId: uuid("bloco_id").references(() => blocos.id, {
     onDelete: "set null",
   }),
+  // Classificação temática independente do bloco (ex: questão FGV que vive no bloco
+  // "47º Exame" mas é classificada como "Ética → Atividades Privativas").
+  // Usada pelo caderno de erros e pelo painel de desempenho por disciplina.
+  topicoClassificadoId: uuid("topico_classificado_id").references(
+    () => topicos.id,
+    { onDelete: "set null" },
+  ),
   enunciado: text("enunciado").notNull(),
   alternativas: jsonb("alternativas")
     .$type<{ chave: string; texto: string }[]>()

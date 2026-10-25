@@ -8,6 +8,13 @@
       "when": 1792895400860,
       "tag": "0000_far_owl",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792962895492,
+      "tag": "0001_brown_stephen_strange",
+      "breakpoints": true
     }
   ]
 }
