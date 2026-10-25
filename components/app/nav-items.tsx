@@ -8,6 +8,7 @@ import {
   Repeat,
   BookOpen,
   Settings,
+  FileText,
   type LucideIcon,
 } from "lucide-react";
 
@@ -16,6 +17,7 @@ type Item = { href: string; icone: LucideIcon; label: string };
 const ITEMS: Item[] = [
   { href: "/trilha", icone: Map, label: "Trilha" },
   { href: "/rotina", icone: Zap, label: "Rotina" },
+  { href: "/simulados", icone: FileText, label: "Provas" },
   { href: "/revisao", icone: Repeat, label: "Revisão" },
   { href: "/caderno", icone: BookOpen, label: "Caderno" },
   { href: "/conta", icone: Settings, label: "Conta" },
