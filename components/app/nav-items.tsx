@@ -9,6 +9,7 @@ import {
   BookOpen,
   Settings,
   FileText,
+  LayoutGrid,
   type LucideIcon,
 } from "lucide-react";
 
@@ -16,6 +17,7 @@ type Item = { href: string; icone: LucideIcon; label: string };
 
 const ITEMS: Item[] = [
   { href: "/trilha", icone: Map, label: "Trilha" },
+  { href: "/materias", icone: LayoutGrid, label: "Matérias" },
   { href: "/rotina", icone: Zap, label: "Rotina" },
   { href: "/simulados", icone: FileText, label: "Provas" },
   { href: "/revisao", icone: Repeat, label: "Revisão" },

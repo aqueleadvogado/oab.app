@@ -14,18 +14,49 @@
   --color-mint: #c8f16b;
   --color-lavender: #edf0ff;
 
-  /* Cores de disciplina — preliminares, serão ajustadas na migração do conteúdo */
-  --color-etica: #4168ee;
-  --color-constitucional: #c8f16b;
-  --color-civil: #ff9aa2;
-  --color-processo-civil: #a0e7e5;
-  --color-penal: #ffb84c;
-  --color-processo-penal: #ffd4a3;
-  --color-administrativo: #b5a8ff;
-  --color-trabalho: #ff8fab;
-  --color-tributario: #7fd8be;
-  --color-empresarial: #ffd166;
-  --color-eleitoral: #ff6b6b;
+  /* Paleta por disciplina — cada uma com cor única e tema associado */
+  --color-disc-etica:              #1e40af;  /* azul royal — profissionalismo */
+  --color-disc-civil:              #f87171;  /* coral — vida/família */
+  --color-disc-processo-civil:     #60a5fa;  /* azul claro — fluxo processual */
+  --color-disc-constitucional:     #84cc16;  /* verde-oliva — república */
+  --color-disc-penal:              #dc2626;  /* vermelho profundo — crime */
+  --color-disc-processo-penal:     #ea580c;  /* laranja escuro — alerta */
+  --color-disc-administrativo:     #9333ea;  /* roxo — poder */
+  --color-disc-trabalho:           #f97316;  /* laranja — operário */
+  --color-disc-processo-trabalho:  #d97706;  /* âmbar escuro */
+  --color-disc-tributario:         #16a34a;  /* verde-dinheiro */
+  --color-disc-empresarial:        #eab308;  /* mostarda — comércio */
+  --color-disc-direitos-humanos:   #38bdf8;  /* azul-céu — dignidade */
+  --color-disc-cdc:                #ec4899;  /* fúcsia — consumidor */
+  --color-disc-eca:                #f9a8d4;  /* rosa claro — infância */
+  --color-disc-ambiental:          #15803d;  /* verde-floresta */
+  --color-disc-internacional:      #64748b;  /* cinza-azulado — diplomacia */
+  --color-disc-filosofia:          #4338ca;  /* índigo — pensamento */
+  --color-disc-eleitoral:          #be123c;  /* carmim — urna */
+  --color-disc-financeiro:         #ca8a04;  /* ouro — moeda */
+  --color-disc-previdenciario:     #06b6d4;  /* ciano — seguridade */
+
+  /* Aliases legados — alguns componentes ainda usam o nome curto */
+  --color-etica: var(--color-disc-etica);
+  --color-civil: var(--color-disc-civil);
+  --color-processo-civil: var(--color-disc-processo-civil);
+  --color-constitucional: var(--color-disc-constitucional);
+  --color-penal: var(--color-disc-penal);
+  --color-processo-penal: var(--color-disc-processo-penal);
+  --color-administrativo: var(--color-disc-administrativo);
+  --color-trabalho: var(--color-disc-trabalho);
+  --color-processo-trabalho: var(--color-disc-processo-trabalho);
+  --color-tributario: var(--color-disc-tributario);
+  --color-empresarial: var(--color-disc-empresarial);
+  --color-direitos-humanos: var(--color-disc-direitos-humanos);
+  --color-cdc: var(--color-disc-cdc);
+  --color-eca: var(--color-disc-eca);
+  --color-ambiental: var(--color-disc-ambiental);
+  --color-internacional: var(--color-disc-internacional);
+  --color-filosofia: var(--color-disc-filosofia);
+  --color-eleitoral: var(--color-disc-eleitoral);
+  --color-financeiro: var(--color-disc-financeiro);
+  --color-previdenciario: var(--color-disc-previdenciario);
 
   /* Tipografia */
   --font-display: var(--font-display), "Bricolage Grotesque", ui-sans-serif,
