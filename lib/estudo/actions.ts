@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { db } from "@/lib/db";
-import { questoes, respostas, revisoes, sessoes } from "@/lib/db/schema";
+import { cartoes, questoes, respostas, revisoes, sessoes } from "@/lib/db/schema";
 import { and, eq, sql } from "drizzle-orm";
 
 function hojeISO() {
@@ -65,7 +65,7 @@ export async function responderQuestao(
   };
 }
 
-/** Marca bloco concluído: atualiza sessão do dia (contador). */
+/** Marca bloco concluído: atualiza sessão do dia + agenda cartões para revisão. */
 export async function concluirBloco(blocoId: string, minutos: number): Promise<Result> {
   const supabase = await createClient();
   const {
@@ -86,8 +86,32 @@ export async function concluirBloco(blocoId: string, minutos: number): Promise<R
       },
     });
 
+  // Agenda cartões do bloco para revisão amanhã (idempotente — ignora se já existe).
+  const amanha = new Date();
+  amanha.setDate(amanha.getDate() + 1);
+  amanha.setUTCHours(3, 0, 0, 0);
+
+  const cartoesDoBloco = await db
+    .select({ id: cartoes.id })
+    .from(cartoes)
+    .where(and(eq(cartoes.blocoId, blocoId), eq(cartoes.status, "publicado")));
+
+  for (const c of cartoesDoBloco) {
+    await db
+      .insert(revisoes)
+      .values({
+        userId: user.id,
+        cartaoId: c.id,
+        dueAt: amanha,
+        intervaloDias: 1,
+        fator: "2.50",
+      })
+      .onConflictDoNothing();
+  }
+
   revalidatePath("/trilha");
   revalidatePath("/rotina");
+  revalidatePath("/revisao");
   revalidatePath(`/estudo/${blocoId}`);
   return { ok: true };
 }
