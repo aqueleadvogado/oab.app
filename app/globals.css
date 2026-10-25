@@ -1,26 +1,110 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Cores base — portadas do protótipo */
+  --color-navy: #101b35;
+  --color-navy-2: #182746;
+  --color-paper: #f6f7fb;
+  --color-ink: #17233d;
+  --color-muted: #64718a;
+  --color-line: #e4e8f0;
+  --color-blue: #4168ee;
+  --color-mint: #c8f16b;
+  --color-lavender: #edf0ff;
+
+  /* Cores de disciplina — preliminares, serão ajustadas na migração do conteúdo */
+  --color-etica: #4168ee;
+  --color-constitucional: #c8f16b;
+  --color-civil: #ff9aa2;
+  --color-processo-civil: #a0e7e5;
+  --color-penal: #ffb84c;
+  --color-processo-penal: #ffd4a3;
+  --color-administrativo: #b5a8ff;
+  --color-trabalho: #ff8fab;
+  --color-tributario: #7fd8be;
+  --color-empresarial: #ffd166;
+  --color-eleitoral: #ff6b6b;
+
+  /* Tipografia */
+  --font-display: var(--font-display), "Bricolage Grotesque", ui-sans-serif,
+    system-ui, sans-serif;
+  --font-body: var(--font-body), "Atkinson Hyperlegible", ui-sans-serif,
+    system-ui, sans-serif;
+  --font-mono: var(--font-mono), "JetBrains Mono", ui-monospace, SFMono-Regular,
+    Menlo, Monaco, Consolas, monospace;
+
+  /* Raios de borda */
+  --radius-sm: 4px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 22px;
+
+  /* Sombras */
+  --shadow-card: 0 18px 48px #1b2b4b12;
+  --shadow-focus: 0 0 0 3px color-mix(in oklab, var(--color-blue) 35%, transparent);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: light;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root.dark {
+  color-scheme: dark;
+  --color-paper: #0b1326;
+  --color-ink: #e9eef9;
+  --color-muted: #9aa6bf;
+  --color-line: #253255;
+  --color-lavender: #1a2449;
+  --color-navy: #e9eef9;
+  --color-navy-2: #cfd7eb;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-feature-settings: "ss01" on;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+code,
+pre,
+kbd,
+.mono {
+  font-family: var(--font-mono);
+}
+
+/* Foco visível universal — exigência de acessibilidade */
+:focus-visible {
+  outline: 0;
+  box-shadow: var(--shadow-focus);
+  border-radius: 6px;
+}
+
+/* Preferência do SO: reduzir animação */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Classe utilitária: "modo foco" (esconde tudo que não é .foco-mantem) */
+body.modo-foco :not(.foco-mantem):not(.foco-mantem *) {
+  opacity: 0.15;
+  pointer-events: none;
 }
