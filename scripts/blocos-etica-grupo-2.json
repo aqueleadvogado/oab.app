@@ -1,0 +1,182 @@
+[
+  {
+    "topico_slug": "incompatibilidades-impedimentos",
+    "titulo": "Incompatibilidades x Impedimentos: a linha que separa",
+    "resumo": "Entenda de uma vez por que o juiz nao pode advogar (incompatibilidade) e o procurador do municipio pode, mas com restricoes (impedimento). Dois institutos, duas consequencias.",
+    "duracao_min": 14,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:** EAOAB arts. 27 a 30 (Lei 8.906/94).\n\n### Incompatibilidade (art. 28)\n- **Proibicao TOTAL** de advogar.\n- Mesmo em causa propria? **Nao pode.**\n- Alcanca o cargo em si, nao o advogado.\n\n**Quem e incompativel (rol taxativo):**\n1. Chefes do Executivo e membros da Mesa do Legislativo (e substitutos legais).\n2. Membros de orgaos do Judiciario, MP, tribunais e conselhos de contas.\n3. Ocupantes de cargos ou funcoes vinculados direta ou indiretamente a atividade policial.\n4. Militares de qualquer natureza, na ativa.\n5. Ocupantes de cargos ou funcoes que tenham competencia de lancamento, arrecadacao ou fiscalizacao de tributos e contribuicoes parafiscais.\n6. Ocupantes de funcoes de direcao e gerencia em instituicoes financeiras, inclusive privadas.\n\n### Impedimento (art. 30)\n- **Proibicao PARCIAL** de advogar.\n- Pode advogar, **menos** em determinadas causas.\n\n**Hipoteses:**\n- **Servidores da administracao direta, indireta e fundacional:** nao podem advogar contra a Fazenda Publica que os remunere ou a qual seja vinculada a entidade empregadora.\n- **Membros do Poder Legislativo** (federal, estadual, distrital e municipal): nao podem advogar contra ou a favor das pessoas juridicas de direito publico, empresas publicas, sociedades de economia mista, fundacoes publicas, entidades paraestatais ou empresas concessionarias/permissionarias de servico publico.\n\n### Consequencia pratica\n- **Incompativel que advoga:** exercicio ilegal + infracao disciplinar grave + eventual crime (art. 47 EAOAB).\n- **Impedido que advoga fora do permitido:** infracao disciplinar (art. 34, VI).\n- **Licenciamento (art. 12):** advogado pode pedir licenca para evitar incompatibilidade temporaria."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**IN-COM-PA-TI-VEL = INCapaz COMpletamente de ADvogar** — rol do art. 28, proibicao TOTAL.\n\n**IM-PE-DI-DO = IMpedido em PEDacos** — pode advogar em pedacos (parte sim, parte nao), rol do art. 30.\n\n**MP-TRE-TJ-TCE = sempre INCOMPATIVEL.**\n\n**Servidor publico comum = IMPEDIDO** (so nao pode contra a Fazenda que o paga).\n\n**Vereador/Deputado = IMPEDIDO** (nao pode a favor nem contra o Poder Publico, concessionarias etc.).\n\nDecore: **\"Chefe manda, Juiz julga, Fiscal cobra, Militar atira, Banqueiro empresta — nenhum deles advoga.\"**"
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\n**A FGV adora trocar os conceitos.** Fique atento:\n\n1. **\"Juiz pode advogar em causa propria?\"** NAO. Incompatibilidade e TOTAL — nem em causa propria.\n2. **\"Vereador que advoga em acao de divorcio de particular contra particular?\"** PODE. O impedimento so alcanca causas contra/a favor do Poder Publico.\n3. **\"Professor de universidade publica federal pode advogar contra a Uniao?\"** NAO. E servidor publico vinculado a Fazenda Federal — impedido para causas contra a Uniao, mas pode contra Estados e Municipios.\n4. **\"Militar da reserva remunerada e incompativel?\"** NAO. A incompatibilidade e so para militar da **ATIVA**.\n5. **\"Delegado aposentado pode advogar?\"** SIM. A incompatibilidade cessa com a aposentadoria/exoneracao. Mas atencao ao art. 30, I — o impedimento residual continua para contra a Fazenda do ex-empregador por 3 anos? **Nao existe esse prazo no EAOAB.** Cuidado com invencoes.\n\n**Dica de ouro:** se a questao fala em **TOTAL** ou **TODA** proibicao, pense em incompatibilidade. Se fala em **CONTRA a Fazenda** ou **em determinada causa**, pense em impedimento."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\n**Caso 1 — Dra. Marina, Procuradora do Municipio de Santos.**\nMarina e procuradora efetiva. Seu primo pede para ela redigir um contrato de locacao entre particulares. **Pode?** SIM — e servidora publica (impedida), nao incompativel. So nao pode advogar contra o Municipio de Santos nem contra as entidades a ele vinculadas.\n\n**Caso 2 — Dr. Rogerio, vereador em Campinas.**\nUm cliente antigo pede para Rogerio entrar com acao contra a concessionaria de agua do municipio. **Pode?** NAO. Vereador e impedido de advogar contra concessionarias de servico publico (art. 30, II). Ele deve recusar e indicar outro colega.\n\n**Caso 3 — Dra. Beatriz, juiza federal.**\nBeatriz recebeu heranca com um imovel em litigio. Pode ela mesma ajuizar a acao reivindicatoria em causa propria? **NAO.** Juiz e incompativel — proibicao total. Precisa contratar advogado.\n\n**Caso 4 — Dr. Felipe, delegado aposentado.**\nFelipe se aposentou e quer abrir escritorio. **Pode?** SIM. Com a aposentadoria cessa a incompatibilidade. Basta estar com inscricao ativa na OAB."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "Dr. Ricardo e professor efetivo da Universidade Federal do Parana, em regime de dedicacao exclusiva administrativa (nao docente). Alem disso, foi eleito vereador em Curitiba. Um amigo pede que Ricardo ajuize acao de cobranca em face de particular, decorrente de contrato privado. Considerando o Estatuto da Advocacia, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Ricardo pode patrocinar a causa normalmente, pois particular contra particular nao envolve o Poder Publico." },
+          { "chave": "B", "texto": "Ricardo nao pode patrocinar a causa, pois a condicao de vereador o torna incompativel para o exercicio da advocacia." },
+          { "chave": "C", "texto": "Ricardo pode patrocinar, pois servidor publico e vereador sao apenas impedidos, e o impedimento nao alcanca causa entre particulares sem envolvimento da Fazenda ou de concessionaria de servico publico." },
+          { "chave": "D", "texto": "Ricardo so pode patrocinar se obtiver autorizacao previa da Camara Municipal e da reitoria da universidade." }
+        ],
+        "correta": "C",
+        "comentario": "C e a correta porque tanto servidores publicos (art. 30, I) quanto membros do Legislativo (art. 30, II) sao IMPEDIDOS, nao incompativeis — podem advogar, salvo nas hipoteses vedadas (contra a Fazenda que os remunere e, para o vereador, contra ou a favor do Poder Publico, concessionarias etc.). Como a causa e entre particulares, nenhuma vedacao incide. A esta incompleta porque ignora os impedimentos — mas ainda assim conclui corretamente que pode; a FGV costuma considerar errada por nao enfrentar o fundamento. B esta errada porque vereador e IMPEDIDO, nao incompativel (incompativel e so chefe do Executivo e membro da Mesa do Legislativo). D esta errada porque nao se exige autorizacao previa. Fundamento: EAOAB arts. 28 e 30.",
+        "lei_referencia": "EAOAB arts. 28 e 30"
+      },
+      {
+        "enunciado": "Dra. Camila foi nomeada para o cargo de Secretaria Municipal de Fazenda de Belo Horizonte. Durante o exercicio do cargo, pretende continuar advogando em seu escritorio apenas em causas trabalhistas de pessoas fisicas, nunca envolvendo o Municipio. Nos termos do Estatuto da Advocacia, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Camila pode advogar, pois seu impedimento alcanca apenas causas contra o Municipio de Belo Horizonte." },
+          { "chave": "B", "texto": "Camila esta incompativel para o exercicio da advocacia enquanto ocupar o cargo, pois exerce funcao de direcao com competencia de arrecadacao e fiscalizacao tributaria, sendo-lhe vedado advogar inclusive em causa propria." },
+          { "chave": "C", "texto": "Camila pode advogar normalmente, bastando comunicar a OAB a assuncao do cargo publico." },
+          { "chave": "D", "texto": "Camila esta impedida apenas de advogar contra a Fazenda municipal, podendo postular livremente em outras causas, inclusive previdenciarias contra o INSS." }
+        ],
+        "correta": "B",
+        "comentario": "B e a correta porque o art. 28, V, do EAOAB preve incompatibilidade para ocupantes de cargos ou funcoes que tenham competencia de lancamento, arrecadacao ou fiscalizacao de tributos — hipotese tipica da Secretaria de Fazenda. A incompatibilidade e TOTAL (art. 28, caput): proibicao mesmo em causa propria. A e D estao erradas porque tratam o caso como mero impedimento (art. 30), quando na verdade e incompatibilidade (art. 28). C esta errada pelo mesmo motivo e porque a mera comunicacao a OAB nao afasta a vedacao legal. Fundamento: EAOAB art. 28, V, c/c art. 27.",
+        "lei_referencia": "EAOAB art. 28, V"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "Qual a principal diferenca entre incompatibilidade e impedimento no EAOAB?",
+        "verso": "Incompatibilidade (art. 28) = proibicao TOTAL de advogar, inclusive em causa propria. Impedimento (art. 30) = proibicao PARCIAL, limitada a determinadas causas (ex.: contra a Fazenda que remunera o servidor)."
+      },
+      {
+        "frente": "Vereador pode advogar? Em quais causas esta impedido?",
+        "verso": "Sim, vereador e apenas IMPEDIDO (art. 30, II). Nao pode advogar contra nem a favor de pessoas juridicas de direito publico, empresas publicas, sociedades de economia mista, fundacoes publicas, entidades paraestatais e concessionarias/permissionarias de servico publico."
+      }
+    ]
+  },
+  {
+    "topico_slug": "honorarios",
+    "titulo": "Honorarios: contratual, sucumbencia e os limites eticos",
+    "resumo": "Domine as tres especies de honorarios, o que pode e o que nao pode no contrato, e por que o pacto quota litis puro e vedado. Prescricao em 5 anos — grave esse numero.",
+    "duracao_min": 15,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:** EAOAB arts. 22 a 26 (Lei 8.906/94, com alteracoes da Lei 14.365/2022).\n\n### Tres especies de honorarios (art. 22)\n1. **Contratuais** — ajustados com o cliente (contrato escrito recomendado).\n2. **Arbitrados judicialmente** — fixados pelo juiz quando ha divergencia ou ausencia de contrato.\n3. **De sucumbencia** — fixados na sentenca, pagos pela parte vencida (CPC art. 85).\n\n### Natureza alimentar e autonomia\n- Honorarios tem **natureza alimentar** (art. 85, Sec14, CPC + jurisprudencia pacifica).\n- Pertencem **AO ADVOGADO**, nao ao cliente — o advogado tem **direito autonomo** de executar.\n- **Vedada compensacao** com credito do cliente (art. 23).\n\n### Contrato e execucao (art. 24)\n- Contrato de honorarios + sentenca que fixar sucumbencia = **titulos executivos extrajudicial/judicial**.\n- Advogado pode executar nos mesmos autos ou em separado.\n- Em caso de **substabelecimento sem reserva**, cessam os honorarios do substabelecente.\n- Em caso de **substabelecimento com reserva**, divide-se proporcionalmente ao servico prestado.\n\n### Pacto quota litis (art. 38 do CED + art. 22 EAOAB)\n- **Permitido** o ajuste de honorarios com base no resultado — DESDE QUE:\n  - Preveja tambem **honorarios minimos** independentes do resultado.\n  - Nao ultrapasse o valor da **vantagem patrimonial** obtida pelo cliente.\n  - Preveja pagamento em **dinheiro** (so excepcionalmente em bens, com justificativa).\n- **Vedado** pacto quota litis puro (sem minimo, so se ganhar).\n\n### Arbitramento (art. 22, Sec2)\n- Na falta de contrato, honorarios serao arbitrados judicialmente, em remuneracao compativel com o trabalho e o valor da causa.\n- Deve observar a **tabela da OAB** local (parametro minimo).\n\n### Prescricao (art. 25)\n**5 ANOS** para a acao de cobranca de honorarios, contados:\n- Do vencimento do contrato (se houver prazo).\n- Do transito em julgado da decisao que fixou (sucumbencia/arbitramento).\n- Da renuncia ou revogacao do mandato.\n- Da ultima atuacao profissional, se extrajudicial."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**CAS — as 3 especies: Contratual, Arbitrado, Sucumbencia.**\n\n**5-5-5 da prescricao:** 5 anos, 5 marcos iniciais (vencimento, transito, renuncia, revogacao, ultima atuacao).\n\n**Quota litis = QUOTA + MINIMO.** Se so tem quota (so se ganhar), e NULO. Precisa ter piso.\n\n**NAC — Natureza Alimentar + Autonomia + Credor autonomo:** honorarios pertencem ao advogado, podem ser executados por ele, e nao se compensam com divida do cliente.\n\nMantra para prova: **\"Honorarios de sucumbencia sao do ADVOGADO, nao do cliente.\"** (Enunciado consolidado — art. 23 EAOAB.)"
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\n**1. Compensacao com credito do cliente:**\nA FGV ja perguntou: \"O cliente deve R$ 10 mil ao advogado de honorarios e o advogado deve R$ 8 mil ao cliente por um emprestimo. Pode compensar?\" **NAO.** Vedacao expressa do art. 23. Honorarios nao se compensam.\n\n**2. Pacto quota litis puro:**\nCuidado — a FGV coloca cenarios do tipo \"advogado so recebe se ganhar, 30% do resultado\". Isso e **NULO** se nao houver previsao de honorarios minimos independentes do resultado (art. 38 CED).\n\n**3. Substabelecimento SEM reserva:**\nAdvogado substabelece sem reserva de poderes. Mantem direito a honorarios? **NAO.** Cessa o direito. So mantem **com reserva**.\n\n**4. Prescricao — marco inicial:**\nMuita gente erra: a prescricao de 5 anos corre do **transito em julgado** (nao da sentenca de primeiro grau). Para contratuais, do **vencimento** ou da **ultima atuacao**.\n\n**5. Sucumbencia pertence ao cliente?**\nNAO. Pertence ao ADVOGADO (art. 23). Mesmo que o cliente faca acordo renunciando a sucumbencia, nao pode disponibilizar o que nao e dele — a jurisprudencia e o art. 24, Sec4 protegem o advogado.\n\n**6. Honorarios na Justica Gratuita:**\nO fato de o cliente ser beneficiario da gratuidade NAO impede o advogado de cobrar honorarios de sucumbencia da parte vencida (CPC art. 85 c/c EAOAB art. 23)."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\n**Caso 1 — Dra. Patricia e o pacto quota litis.**\nPatricia atende cliente em acao de usucapiao. Combina: \"Voce so paga se ganhar — 20% do valor do imovel.\" Dois anos depois, cliente perde. Patricia nao recebe nada e ainda e intimada pelo TED-OAB — o pacto era **nulo** por nao prever honorarios minimos. Correto seria: **R$ 3.000 fixos + 20% do resultado em caso de exito.**\n\n**Caso 2 — Dr. Jonas e a sucumbencia.**\nJonas ganhou acao trabalhista para seu cliente. Juiz fixou R$ 15 mil de honorarios de sucumbencia + R$ 50 mil para o cliente. Cliente propoe acordo renunciando aos honorarios. **Jonas pode se opor** — a sucumbencia e dele, nao do cliente (art. 23 EAOAB). Pode executar diretamente a parte vencida.\n\n**Caso 3 — Dra. Lucia e o substabelecimento.**\nLucia aceitou causa complexa, mas por sobrecarga substabeleceu para colega, **com reserva de poderes**. Causa foi ganha. Honorarios serao divididos proporcionalmente ao trabalho de cada uma (art. 24, Sec1).\n\n**Caso 4 — Dr. Henrique e a prescricao.**\nHenrique atuou de 2018 a 2020 em causa que transitou em julgado em marco de 2020. Em abril de 2025, tenta executar os honorarios contratuais. **Perdeu o prazo?** SIM. 5 anos do vencimento/transito. Em 2026, ja prescreveu."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "Dr. Rafael atuou em causa civel e firmou com seu cliente contrato prevendo honorarios de 30% sobre a vantagem economica obtida ao final, sem qualquer previsao de valor minimo ou pagamento independentemente do resultado. Apos sentenca improcedente, Rafael nao recebeu nada e pretende cobrar honorarios por arbitramento. Nos termos do Estatuto da Advocacia e do Codigo de Etica, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "O contrato e plenamente valido, pois o cliente aceitou o risco; Rafael nao pode pleitear qualquer valor adicional." },
+          { "chave": "B", "texto": "O pacto quota litis puro, sem previsao de honorarios minimos, viola o Codigo de Etica; Rafael pode pleitear arbitramento judicial de honorarios pelo trabalho efetivamente prestado." },
+          { "chave": "C", "texto": "Rafael somente podera cobrar se o cliente concordar expressamente por escrito com a revisao do contrato." },
+          { "chave": "D", "texto": "O pacto quota litis e vedado em qualquer hipotese no ordenamento juridico brasileiro." }
+        ],
+        "correta": "B",
+        "comentario": "B e a correta porque o pacto quota litis puro, que condiciona TODA a remuneracao ao exito, viola o art. 38 do CED/OAB — exige-se previsao de honorarios minimos independentes do resultado. Sendo nulo o contrato nessa parte, cabe arbitramento judicial pelo trabalho efetivamente prestado (art. 22, Sec2, EAOAB). A esta errada pois o contrato tem clausula nula. C esta errada pois nao se exige aditivo; a nulidade e automatica e o arbitramento e via propria. D esta errada pois o pacto quota litis NAO e vedado em absoluto — e permitido, desde que combinado com honorarios minimos e dentro dos limites eticos. Fundamento: EAOAB art. 22, Sec2, c/c CED art. 38.",
+        "lei_referencia": "EAOAB art. 22, Sec2, e CED art. 38"
+      },
+      {
+        "enunciado": "Dra. Silvia obteve sentenca favoravel a seu cliente, com condenacao da parte adversa em honorarios de sucumbencia no valor de R$ 20.000,00. Durante a fase de execucao, cliente e devedor celebram acordo extrajudicial no qual o cliente da plena quitacao, inclusive renunciando aos honorarios de sucumbencia, em troca de pagamento imediato do principal com desconto. Dra. Silvia nao foi consultada. Nos termos do EAOAB, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "O acordo e valido em sua integralidade, pois o cliente e o titular do credito judicial e pode dispor como quiser." },
+          { "chave": "B", "texto": "Dra. Silvia pode anular todo o acordo, inclusive quanto ao principal pertencente ao cliente." },
+          { "chave": "C", "texto": "Os honorarios de sucumbencia pertencem ao advogado, com direito autonomo de execucao; a renuncia feita pelo cliente nao prejudica Dra. Silvia, que podera executar os R$ 20.000,00 diretamente da parte vencida." },
+          { "chave": "D", "texto": "Dra. Silvia so pode cobrar os honorarios do proprio cliente, nunca da parte vencida, pois o acordo celebrado afastou a condenacao." }
+        ],
+        "correta": "C",
+        "comentario": "C e a correta porque, nos termos do art. 23 do EAOAB, os honorarios de sucumbencia pertencem ao ADVOGADO (nao ao cliente), que possui direito autonomo e titulo executivo proprio (art. 24, Sec4). A renuncia feita exclusivamente pelo cliente nao atinge direito que nao e dele. A esta errada porque confunde o credito do cliente (que ele pode renunciar) com os honorarios (que ele nao pode). B esta errada porque Silvia nao pode anular o acordo quanto a parte que legitimamente pertence ao cliente — so pode preservar o que e seu. D esta errada porque o advogado pode e deve executar os honorarios diretamente da parte vencida, independentemente de acordo entre as partes. Fundamento: EAOAB arts. 23 e 24.",
+        "lei_referencia": "EAOAB arts. 23 e 24"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "Em quanto tempo prescreve a acao para cobrar honorarios advocaticios?",
+        "verso": "5 anos (EAOAB art. 25), contados do vencimento do contrato, do transito em julgado, da renuncia/revogacao do mandato ou da ultima atuacao profissional."
+      },
+      {
+        "frente": "O que torna o pacto quota litis valido no Brasil?",
+        "verso": "O pacto quota litis e valido desde que: (i) preveja honorarios minimos independentes do resultado; (ii) nao ultrapasse a vantagem patrimonial obtida pelo cliente; (iii) seja pago, em regra, em dinheiro. Base: EAOAB art. 22 c/c CED art. 38."
+      }
+    ]
+  },
+  {
+    "topico_slug": "sociedade-advogados",
+    "titulo": "Sociedade de advogados: SUAIU, SLI e a responsabilidade pessoal",
+    "resumo": "Entenda a natureza da sociedade de advogados, por que o nome vai sempre com o de um socio, e por que o advogado nunca escapa da responsabilidade pessoal disciplinar.",
+    "duracao_min": 13,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:** EAOAB arts. 15 a 17 (Lei 8.906/94, com alteracoes da Lei 14.365/2022).\n\n### Natureza juridica\n- Sociedade de advogados = **sociedade simples** (nao empresaria).\n- Adquire personalidade juridica com o **registro na OAB** (nao na Junta Comercial).\n- Pode ser:\n  - **Sociedade pluripessoal** (dois ou mais advogados).\n  - **Sociedade unipessoal de advocacia (SUAIU)** — permitida pela Lei 13.247/2016 (art. 15, Sec1 — um unico advogado titular).\n\n### Requisitos de constituicao (art. 15)\n- Contrato social (ou ato constitutivo da SUAIU) **registrado no Conselho Seccional da OAB** onde tem sede.\n- Socios obrigatoriamente **advogados inscritos** na OAB.\n- **Vedada** a inclusao de socio nao advogado.\n- **Vedado** a mesma pessoa integrar mais de uma sociedade no mesmo Conselho Seccional (art. 15, Sec4).\n\n### Denominacao (art. 16)\n- Deve constar **nome de pelo menos um socio responsavel**, com expressao \"Sociedade de Advogados\" ou \"Advogados Associados\".\n- Para SUAIU: nome do titular + \"Sociedade Individual de Advocacia\".\n- **Nao pode:**\n  - Nome fantasia.\n  - Nome de advogado falecido (salvo previsao expressa no contrato social e consentimento dos herdeiros — Lei 14.365/2022 flexibilizou).\n  - Expressao estranha a advocacia.\n\n### Responsabilidade (art. 17)\n- **Sociedade** responde **subsidiariamente** pelos danos causados ao cliente por ato praticado pelo socio.\n- **Socios** respondem **subsidiaria e ilimitadamente** pelos danos causados aos clientes por acao ou omissao no exercicio da advocacia (atencao: solidariamente entre si, apos exaurido o patrimonio social).\n- **Responsabilidade disciplinar e SEMPRE PESSOAL** — nao se transfere a sociedade. A OAB pune a pessoa fisica do advogado, nao a sociedade.\n\n### Advogado associado (nao socio)\n- Pode haver advogado **associado** sem vinculo de emprego — presta servicos com participacao nos resultados, sem integrar o quadro societario.\n- Deve ter o contrato de associacao **averbado** no registro da sociedade."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**SUA SOCiedade e SIMPLES — registra na OAB, nao na Junta.**\n\nSUA = **S**ociedade **U**nipessoal de **A**dvocacia (um socio so).\n\n**Nome da sociedade:** sempre com nome de um socio responsavel + expressao propria (\"Advogados Associados\" ou \"Sociedade de Advogados\"). **Proibido nome fantasia** tipo \"Escritorio Justica & Cia\".\n\n**Responsabilidade — regra do \"3P\":**\n- **P**atrimonial da sociedade = subsidiaria.\n- **P**atrimonial dos socios = subsidiaria + ilimitada.\n- **P**essoal disciplinar = SEMPRE do advogado, nunca da sociedade.\n\n**Uma OAB, uma sociedade:** advogado so pode integrar UMA sociedade por Conselho Seccional (art. 15, Sec4).\n\nMnemonico: **\"SUAIU — SU (unipessoal), A (advocacia), IU (individual unico)\".**"
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\n**1. Registro na Junta Comercial?**\nNAO. Sociedade de advogados nao e empresaria — registra-se exclusivamente na **OAB (Conselho Seccional)**. Erro frequente da FGV.\n\n**2. Socio nao advogado?**\nNAO pode. Nem contador, nem investidor, nem cliente. Todos os socios DEVEM ser advogados regularmente inscritos.\n\n**3. Nome fantasia?**\nPROIBIDO. Nome deve ter o patronimico de pelo menos um socio responsavel. Exemplo valido: \"Silva, Souza e Advogados Associados\". Invalido: \"Escritorio Vitoria Juridica\".\n\n**4. Sociedade pode ser punida disciplinarmente pela OAB?**\nNAO. A responsabilidade disciplinar e **sempre pessoal** do advogado que praticou o ato. A sociedade pode ter sua personalidade atingida em casos extremos, mas suspensao/censura/exclusao recai sobre a pessoa fisica.\n\n**5. Mesmo advogado em duas sociedades da mesma Seccional?**\nVEDADO (art. 15, Sec4). Pode ter sociedades em Seccionais diferentes, mas nao duas em SP, por exemplo.\n\n**6. Advogado associado e empregado?**\nNAO. O associado nao tem vinculo trabalhista — presta servicos com participacao nos resultados. Confundir associado com empregado e erro classico.\n\n**7. SUAIU pode ter dois advogados?**\nNAO. SUAIU = **unipessoal**. Se entrar segundo socio, deixa de ser SUAIU e deve ser transformada."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\n**Caso 1 — Dr. Marcos cria SUAIU.**\nMarcos abre sua Sociedade Individual de Advocacia: \"Marcos Pereira Sociedade Individual de Advocacia\". Registra na OAB/SP. Dois anos depois, convida a esposa (tambem advogada) para socia. Precisa **transformar a SUAIU em sociedade pluripessoal** e averbar o novo contrato social na OAB.\n\n**Caso 2 — Dra. Tatiana e o cliente lesado.**\nTatiana e socia da \"Lopes & Tatiana Advogados\". Perde prazo de recurso de cliente, causando dano de R$ 100 mil. Cliente aciona:\n1. Primeiro, o patrimonio da **sociedade** (subsidiaria).\n2. Se insuficiente, atinge o patrimonio **pessoal dos socios** (ilimitada).\n3. Paralelamente, abre-se **processo disciplinar contra Tatiana pessoalmente** no TED-OAB — a sociedade nao pode ser suspensa, so a pessoa.\n\n**Caso 3 — Dr. Bruno, associado.**\nBruno trabalha como advogado associado no escritorio \"Costa Advogados\". Recebe 40% das causas que capta. Nao tem vinculo CLT, nao tem ferias, nao tem FGTS — e profissional autonomo associado, com contrato averbado na OAB.\n\n**Caso 4 — Dr. Felipe quer entrar em duas sociedades.**\nFelipe e socio da \"Felipe & Irmaos\" em SP e quer tambem compor a \"Novos Horizontes Advogados\" em SP. **Vedado** (art. 15, Sec4). Se fosse em outra Seccional (ex.: RJ), seria possivel."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "Dr. Andre e Dr. Bruno constituem sociedade de advogados sob o nome \"Escritorio Justica Legal — Advogados Associados\", registrada apenas na Junta Comercial do Estado. Alem disso, admitem como socio o contador Caio, responsavel pela area administrativa e financeira. Analisando a situacao a luz do Estatuto da Advocacia, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A sociedade e regular, pois a presenca do contador qualifica a gestao e o nome fantasia e permitido para fins de marketing." },
+          { "chave": "B", "texto": "A sociedade e irregular por tres motivos: o registro deve ser feito no Conselho Seccional da OAB, nao na Junta Comercial; a denominacao deve conter o nome de pelo menos um socio responsavel; e e vedada a inclusao de socio nao advogado." },
+          { "chave": "C", "texto": "A sociedade e regular quanto ao nome, mas irregular apenas quanto ao registro." },
+          { "chave": "D", "texto": "A sociedade pode admitir socio nao advogado, desde que ele nao pratique atos privativos da advocacia." }
+        ],
+        "correta": "B",
+        "comentario": "B e a correta porque reune os tres vicios do caso: (i) sociedade de advogados e sociedade simples que adquire personalidade juridica com registro no Conselho Seccional da OAB (art. 15, Sec1), nao na Junta Comercial; (ii) a denominacao deve conter o nome de pelo menos um socio responsavel, sendo vedado nome fantasia (art. 16, caput); (iii) e vedada a inclusao de socio nao advogado (art. 15, caput). A esta errada em todos os pontos. C esta parcialmente certa mas incompleta — ha mais de um vicio. D esta errada porque o art. 15 veda expressamente socio nao advogado, sem excecao quanto a atos privativos. Fundamento: EAOAB arts. 15 e 16.",
+        "lei_referencia": "EAOAB arts. 15 e 16"
+      },
+      {
+        "enunciado": "Dra. Helena e socia da \"Helena & Rodrigues Advogados Associados\". Em determinada causa, por grave negligencia pessoal, deixou de interpor recurso tempestivo, causando prejuizo ao cliente. Instaurado processo disciplinar e proposta acao de reparacao civil, assinale a alternativa correta nos termos do EAOAB:",
+        "alternativas": [
+          { "chave": "A", "texto": "A sociedade respondera objetivamente e sera suspensa pelo TED-OAB; os socios nao respondem por serem pessoas distintas da sociedade." },
+          { "chave": "B", "texto": "A sociedade respondera subsidiariamente pelos danos causados ao cliente, e os socios respondem subsidiaria e ilimitadamente; a responsabilidade disciplinar, contudo, e sempre pessoal da advogada que praticou o ato." },
+          { "chave": "C", "texto": "Apenas Dra. Helena respondera, tanto civil quanto disciplinarmente, nao havendo qualquer responsabilidade da sociedade." },
+          { "chave": "D", "texto": "A sociedade podera sofrer pena de suspensao do registro perante a OAB como principal sancao disciplinar." }
+        ],
+        "correta": "B",
+        "comentario": "B e a correta porque reflete a sistematica do art. 17 do EAOAB: a sociedade responde subsidiariamente pelos danos ao cliente, os socios respondem subsidiaria e ilimitadamente apos exaurido o patrimonio social, e a responsabilidade disciplinar (etica) e sempre PESSOAL do advogado — a OAB pune a pessoa fisica, nao a sociedade. A esta errada porque a sociedade nao e punida disciplinarmente (nao pode ser suspensa pelo TED como se fosse advogada) e os socios respondem patrimonialmente. C esta errada porque a sociedade tambem responde patrimonialmente, de forma subsidiaria. D esta errada porque suspensao e pena pessoal, aplicada ao advogado (art. 37 EAOAB), nao a sociedade. Fundamento: EAOAB art. 17 c/c art. 37.",
+        "lei_referencia": "EAOAB art. 17"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "Onde se registra a sociedade de advogados para adquirir personalidade juridica?",
+        "verso": "No Conselho Seccional da OAB da sede da sociedade (EAOAB art. 15, Sec1). Nunca na Junta Comercial — nao e sociedade empresaria, e sim sociedade simples."
+      },
+      {
+        "frente": "Como e a responsabilidade dos socios e da sociedade de advogados pelos danos causados ao cliente?",
+        "verso": "A sociedade responde subsidiariamente; os socios respondem subsidiaria e ilimitadamente apos exaurido o patrimonio social (EAOAB art. 17). A responsabilidade disciplinar, porem, e sempre pessoal do advogado que praticou o ato."
+      }
+    ]
+  }
+]

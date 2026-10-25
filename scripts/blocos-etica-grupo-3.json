@@ -1,0 +1,164 @@
+[
+  {
+    "topico_slug": "infracoes-sancoes",
+    "titulo": "Infrações e sanções: do CAD à exclusão",
+    "resumo": "Em 14 minutos voce decora os 4 tipos de sancao do EAOAB, quando cada uma se aplica e como funcionam agravantes e atenuantes na dosimetria.",
+    "duracao_min": 14,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:** EAOAB (Lei 8.906/94), **arts. 34 a 43**.\n\n### As 4 sancoes disciplinares (art. 35)\n\n1. **Censura** — mais branda. Pode ser convertida em **advertencia** se houver atenuante (art. 36, p. unico).\n2. **Suspensao** — de **30 dias a 12 meses**, com proibicao de exercer em todo o pais (art. 37).\n3. **Exclusao** — a mais grave. Perda da inscricao (art. 38).\n4. **Multa** — de **1x a 10x** o valor da anuidade, **cumulavel** com censura ou suspensao (art. 39).\n\n### Quando aplica cada uma?\n\n- **Censura (art. 36):** infracoes do art. 34 **incisos I a XVI, XXIX e XXX**. Ex.: violar sigilo, patrocinio simultaneo.\n- **Suspensao (art. 37):** infracoes dos **incisos XVII a XXV**, reincidencia em infracao de censura, ou **inepcia profissional reiterada**. Tambem para quem **deixa de pagar anuidade** apos notificado (suspensao ate quitacao + multa).\n- **Exclusao (art. 38):** **3 suspensoes**, infracao dos incisos **XXVI a XXVIII** (crime infamante, falsa prova de requisito, improbidade comprovada) — exige **2/3 dos votos** do Conselho competente.\n\n### Dosimetria (art. 40)\n\n**Agravantes:**\n- Reincidencia.\n- Dolo (quando a infracao admite culpa).\n- Prejuizo relevante ao cliente ou a dignidade da profissao.\n\n**Atenuantes:**\n- Falta cometida na defesa de prerrogativa.\n- Ausencia de punicao anterior.\n- Exercicio ativo em instituicao da OAB.\n- Prestacao de servicos profissionais relevantes."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**C-S-E-M** — ordem crescente de gravidade das sancoes:\n\n- **C**ensura (mais leve)\n- **S**uspensao (30 dias a 12 meses)\n- **E**xclusao (a mais grave)\n- **M**ulta (acessoria — anda junto com C ou S)\n\n**Mnemonico para exclusao — \"3 x 2/3\":**\n- **3** suspensoes = exclusao automatica.\n- **2/3** dos votos do Conselho sao exigidos para excluir.\n\n**Suspensao por falta de pagamento:** nao e por tempo determinado — dura **ate pagar** a anuidade atrasada."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\nA FGV adora misturar:\n\n1. **\"A multa e sancao autonoma.\"** ERRADO. A multa e **sempre acessoria** a censura ou suspensao (art. 39). Nunca aparece sozinha.\n2. **\"Censura pode virar advertencia reservada.\"** CERTO — se houver circunstancia atenuante (art. 36, paragrafo unico). Muita gente marca errado por nao saber.\n3. **\"Suspensao vale so no estado da seccional.\"** ERRADO. A suspensao proibe o exercicio **em todo o territorio nacional** (art. 37, parag. 2o).\n4. **\"Exclusao exige maioria simples.\"** ERRADO. Exige **2/3 dos membros** do Conselho competente (art. 38, parag. unico).\n5. Nao confunda **reabilitacao** (art. 41 — 1 ano apos cumprida a sancao, se bom comportamento) com **prescricao** (art. 43 — 5 anos da infracao)."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\nDra. Camila advoga em Belo Horizonte. Ela ja levou **uma censura** em 2023 por violar sigilo profissional. Em 2025, aceita patrocinar simultaneamente autor e reu numa acao trabalhista (infracao do art. 34, XIX).\n\n**O que o TED-MG pode aplicar?**\n\n- Patrocinio simultaneo (inciso XIX) = sancao de **suspensao**.\n- Como ja houve censura anterior, **reincidencia** e **agravante** (art. 40, I).\n- O relator sugere suspensao de **4 meses + multa** de 3x a anuidade (art. 39).\n\n**Se Camila for suspensa mais 2 vezes nos proximos anos** (totalizando 3 suspensoes), sera **excluida** da OAB, decisao que exige 2/3 dos votos do Conselho Seccional.\n\nApos cumprida a sancao, Camila podera pedir **reabilitacao** depois de **1 ano** de bom comportamento (art. 41). A pretensao punitiva, por sua vez, prescreve em **5 anos** da infracao (art. 43)."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "O advogado Joao, inscrito ha 8 anos na OAB/SP e sem antecedentes disciplinares, deixa de prestar contas de valores recebidos em nome do cliente Pedro. Instaurado processo disciplinar, apura-se que a conduta foi culposa (desorganizacao do escritorio) e que Joao integra ativamente comissao de prerrogativas da Seccional. Sobre a dosimetria da sancao, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A sancao cabivel e exclusao, pois deixar de prestar contas e infracao gravissima do art. 34, XXVI." },
+          { "chave": "B", "texto": "A sancao cabivel e censura (art. 34, XXI), com possibilidade de conversao em advertencia reservada em razao das atenuantes de ausencia de antecedentes e exercicio em comissao da OAB." },
+          { "chave": "C", "texto": "A sancao cabivel e multa autonoma, por se tratar de infracao de natureza patrimonial." },
+          { "chave": "D", "texto": "A sancao cabivel e suspensao obrigatoria de 30 a 90 dias, independentemente de atenuantes." }
+        ],
+        "correta": "B",
+        "comentario": "B esta correta: deixar de prestar contas e infracao do art. 34, XXI, apenada com censura (art. 36, I), que pode ser convertida em advertencia reservada quando presentes atenuantes (art. 36, paragrafo unico) — ausencia de punicao anterior e exercicio em instituicao da OAB sao atenuantes expressos do art. 40, II e III. A esta errada porque o inciso XXVI trata de crime infamante, nao desta hipotese. C esta errada porque a multa nunca e autonoma — e sempre acessoria a censura ou suspensao (art. 39). D esta errada porque a sancao primaria para o inciso XXI e censura, nao suspensao. Fundamento: EAOAB arts. 34, XXI; 36 e 40.",
+        "lei_referencia": "EAOAB arts. 34, XXI; 36, par. unico; 40"
+      },
+      {
+        "enunciado": "A advogada Beatriz ja sofreu duas suspensoes disciplinares transitadas em julgado. Em novo processo, e condenada a terceira suspensao por reincidencia em infracao punivel com censura. O Conselho Seccional, ao julgar o caso, pretende aplicar a sancao de exclusao. Sobre esta hipotese, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A exclusao e automatica e dispensa deliberacao, bastando certidao das suspensoes anteriores." },
+          { "chave": "B", "texto": "A exclusao exige voto favoravel da maioria simples dos membros do Conselho Seccional." },
+          { "chave": "C", "texto": "A exclusao exige voto favoravel de dois tercos dos membros do Conselho Seccional competente." },
+          { "chave": "D", "texto": "A terceira suspensao nao autoriza exclusao, pois esta so cabe nas hipoteses dos incisos XXVI a XXVIII do art. 34." }
+        ],
+        "correta": "C",
+        "comentario": "C esta correta: o art. 38, paragrafo unico, do EAOAB exige voto favoravel de dois tercos (2/3) dos membros do Conselho competente para aplicar exclusao, inclusive na hipotese de aplicacao da terceira suspensao (art. 38, II). A esta errada porque a exclusao nunca e automatica — depende de deliberacao qualificada. B esta errada porque o quorum nao e de maioria simples, mas de 2/3. D esta errada porque a exclusao cabe tambem na hipotese de aplicacao da terceira suspensao (art. 38, II), nao apenas nos incisos XXVI a XXVIII. Fundamento: EAOAB art. 38, II e paragrafo unico.",
+        "lei_referencia": "EAOAB art. 38, II e paragrafo unico"
+      }
+    ],
+    "cartoes": [
+      { "frente": "Quais sao as 4 sancoes disciplinares do EAOAB e sua ordem de gravidade?", "verso": "Censura, suspensao, exclusao e multa (acessoria). A multa so acompanha censura ou suspensao — nunca e autonoma. (EAOAB art. 35)" },
+      { "frente": "Qual o quorum para aplicar a sancao de exclusao?", "verso": "Dois tercos (2/3) dos membros do Conselho competente (EAOAB art. 38, paragrafo unico). Aplica-se tambem no caso de 3 suspensoes acumuladas." }
+    ]
+  },
+  {
+    "topico_slug": "processo-disciplinar",
+    "titulo": "Processo disciplinar: do TED ao recurso no CFOAB",
+    "resumo": "Em 14 minutos voce domina a competencia do TED, o rito, o prazo de defesa, os recursos cabiveis e a prescricao da pretensao punitiva.",
+    "duracao_min": 14,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:** EAOAB **arts. 68 a 77**.\n\n### Competencia\n\n- **Tribunal de Etica e Disciplina (TED)** da Seccional **onde ocorreu a infracao** julga em 1a instancia (art. 70).\n- Se a infracao for cometida perante Conselho ou orgao da OAB, julga **esse** orgao.\n- Recurso para o **Conselho Seccional** e, excepcionalmente, para o **CFOAB** (arts. 75 e 76).\n\n### Rito simplificado (art. 73)\n\n1. **Representacao** (qualquer pessoa, inclusive de oficio) ou noticia de infracao.\n2. **Presidente do TED** instaura ou arquiva (prazo recursal de 15 dias para quem representou).\n3. **Relator** designado — notifica o representado para **defesa previa em 15 dias**.\n4. **Instrucao** — provas, oitivas, diligencias.\n5. **Razoes finais** — 15 dias.\n6. **Parecer do relator** e julgamento pelo TED.\n7. **Acordao** notificado.\n\n### Defesa e garantias\n\n- Contraditorio e ampla defesa obrigatorios (CF art. 5o, LV).\n- Defesa pode ser pessoal ou por advogado.\n- Se o representado nao se defende, o Presidente nomeia **defensor dativo**.\n- Audiencia **sempre publica**, salvo decisao fundamentada em contrario.\n\n### Recursos (art. 75-76)\n\n- Do TED para o **Conselho Seccional:** 15 dias.\n- Do Seccional para o **CFOAB:** 15 dias, nas hipoteses do art. 75 (contrariar o Estatuto, decisao nao unanime, divergencia com outra decisao).\n\n### Prescricao da pretensao punitiva (art. 43)\n\n- **5 anos** da data da infracao permanente ou continuada (do dia em que cessou).\n- **Interrompe** por: instauracao do processo (ja na representacao conhecida pela OAB) ou decisao condenatoria recorrivel.\n- **3 anos** se o processo ficar paralisado por mais de 3 anos aguardando julgamento (prescricao intercorrente)."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**\"15, 15, 15\" — os prazos do rito:**\n- **15 dias** para defesa previa.\n- **15 dias** para razoes finais.\n- **15 dias** para qualquer recurso (Seccional ou CFOAB).\n\n**\"5-3-3\" — prescricao:**\n- **5** anos: prescricao da pretensao punitiva (art. 43, caput).\n- **3** anos: prescricao intercorrente (processo parado).\n- **3** causas interruptivas principais: instauracao, decisao condenatoria recorrivel, notificacao valida do representado.\n\n**TED = Tribunal onde a Etica Decide primeiro.** Sempre em 1a instancia."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\n1. **\"O processo disciplinar prescreve em 2 anos.\"** ERRADO. **5 anos** (art. 43). Alguns confundem com prazo do CPC.\n2. **\"A audiencia e sempre sigilosa.\"** ERRADO. A regra e a **publicidade**. O sigilo e excecao fundamentada (art. 72, parag. 2o).\n3. **\"Cabe recurso ao CFOAB sempre que a parte quiser.\"** ERRADO. So nas hipoteses taxativas do art. 75: ofensa ao Estatuto, decisao nao unanime, ou divergencia com outro acordao.\n4. **\"Representante tem legitimidade para recorrer da absolvicao.\"** CERTO, mas apenas em casos especificos — a OAB tambem recorre de oficio em algumas situacoes.\n5. **A prescricao intercorrente de 3 anos exige que o processo esteja paralisado aguardando despacho ou julgamento.** Se houver atos de instrucao, nao conta."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\nDr. Rafael, advogado em Recife, e representado por sua ex-cliente Dona Marlene em marco de 2024 por reter honorarios indevidos. A representacao e protocolada no TED-PE.\n\n**Linha do tempo real:**\n\n1. **Mar/2024:** representacao distribuida; Presidente do TED instaura e sorteia relator.\n2. **Abr/2024:** Rafael e notificado — tem **15 dias** para defesa previa. Ele contrata o advogado Dr. Luis.\n3. **Mai a Set/2024:** instrucao — oitiva de testemunhas, juntada de contrato de honorarios.\n4. **Out/2024:** **razoes finais em 15 dias**.\n5. **Dez/2024:** parecer do relator opina pela censura (art. 34, XXI — nao prestacao de contas).\n6. **Fev/2025:** TED-PE condena Rafael a censura + multa de 2x anuidade.\n7. **Fev/2025:** Rafael recorre em **15 dias** ao Conselho Seccional. Seccional mantem.\n8. **Mai/2025:** Rafael tenta recurso ao CFOAB alegando divergencia com acordao do TED-SP — **cabe** (art. 75, III).\n\n**Prescricao:** se Dona Marlene demorasse ate 2029 para representar, estaria **prescrito** (5 anos do art. 43). Como fez em 2024, dentro do prazo."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "Em processo disciplinar instaurado perante o TED da Seccional, apos a notificacao do representado para defesa previa, este permanece inerte e nao constitui advogado. O relator deve, imediatamente, assinalar a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Decretar a revelia e julgar o processo com base apenas na representacao, aplicando a sancao cabivel." },
+          { "chave": "B", "texto": "Arquivar o processo por ausencia de interesse do representado em se defender." },
+          { "chave": "C", "texto": "Comunicar o Presidente do TED, que designara defensor dativo para garantir contraditorio e ampla defesa." },
+          { "chave": "D", "texto": "Suspender o processo ate que o representado constitua advogado espontaneamente." }
+        ],
+        "correta": "C",
+        "comentario": "C esta correta: no processo disciplinar da OAB a defesa tecnica e obrigatoria, e, nao a oferecendo o representado, o Presidente do TED designa defensor dativo, assegurando contraditorio e ampla defesa (EAOAB art. 73, parag. 2o; CF art. 5o, LV). A esta errada porque nao se admite julgamento sem defesa tecnica no processo disciplinar. B esta errada porque o processo nao se arquiva por inercia do representado — a OAB tem interesse publico em apurar. D esta errada porque nao ha previsao de suspensao indefinida; o rito segue com defensor dativo. Fundamento: EAOAB art. 73, parag. 2o.",
+        "lei_referencia": "EAOAB art. 73, parag. 2o"
+      },
+      {
+        "enunciado": "Mariana cometeu suposta infracao disciplinar em janeiro de 2020. A representacao foi protocolada no TED em marco de 2022, instaurando-se regular processo. Em abril de 2023, o processo foi para julgamento, mas por falhas administrativas permaneceu paralisado aguardando pauta ate julho de 2026, sem qualquer movimentacao. Sobre a prescricao, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Houve prescricao da pretensao punitiva, pois ja decorreram mais de 5 anos da infracao (jan/2020)." },
+          { "chave": "B", "texto": "Houve prescricao intercorrente, pois o processo ficou paralisado por mais de 3 anos aguardando julgamento (abril/2023 a julho/2026)." },
+          { "chave": "C", "texto": "Nao houve prescricao, pois a instauracao do processo em 2022 interrompeu definitivamente a contagem." },
+          { "chave": "D", "texto": "Nao houve prescricao, pois o prazo prescricional da pretensao punitiva disciplinar e de 10 anos." }
+        ],
+        "correta": "B",
+        "comentario": "B esta correta: o art. 43, parag. 1o, do EAOAB prevê a prescricao intercorrente quando o processo disciplinar fica paralisado por mais de 3 anos aguardando julgamento, sem culpa do interessado. No caso, de abril/2023 a julho/2026 ha mais de 3 anos de paralisacao, caracterizando a prescricao intercorrente. A esta errada porque, embora o prazo quinquenal exista (art. 43, caput), foi interrompido pela instauracao em 2022; o que opera agora e a intercorrente. C esta errada porque a interrupcao nao impede a prescricao intercorrente posterior. D esta errada porque o prazo e de 5 anos, nao 10. Fundamento: EAOAB art. 43, caput e parag. 1o.",
+        "lei_referencia": "EAOAB art. 43, caput e parag. 1o"
+      }
+    ],
+    "cartoes": [
+      { "frente": "Qual o prazo para defesa previa no processo disciplinar da OAB?", "verso": "15 dias apos a notificacao do representado (EAOAB art. 73). O mesmo prazo vale para razoes finais e para recursos." },
+      { "frente": "Qual o prazo da prescricao da pretensao punitiva disciplinar e da prescricao intercorrente?", "verso": "5 anos da data da infracao (ou do dia em que cessou, se continuada) — art. 43 EAOAB. A prescricao intercorrente ocorre em 3 anos de paralisacao do processo (art. 43, parag. 1o)." }
+    ]
+  },
+  {
+    "topico_slug": "publicidade-sigilo",
+    "titulo": "Publicidade e sigilo: o que pode e o que te pega",
+    "resumo": "Em 14 minutos voce separa publicidade informativa (permitida) de mercantilizacao (vedada), domina as regras do Provimento 205/2021 e entende os limites do sigilo profissional.",
+    "duracao_min": 14,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\n**Base legal:**\n- **CED/2015** (Codigo de Etica e Disciplina) — arts. **25 a 27** (sigilo) e **39 a 47** (publicidade).\n- **Provimento CFOAB 205/2021** — detalha publicidade digital e marketing juridico.\n\n### Publicidade: a regra de ouro\n\n**Permitida (informativa, moderada, sobria):** nome, numero OAB, enderecos, areas de atuacao, titulos academicos, idiomas, horarios, foto profissional.\n\n**Vedada (mercantilizacao, captacao):**\n- Mencao a casos concretos, clientes ou resultados obtidos (ainda que verdadeiros).\n- Promessa de resultado.\n- Divulgacao de valores de honorarios (fora do site/perfil, com ressalvas).\n- Oferta de servicos em grupo (ex.: \"especial Black Friday\").\n- Uso de expressoes como \"melhor\", \"maior\", \"especialista\" (salvo titulo oficial).\n- Patrocinio de palavras-chave com nome de concorrentes.\n- Captacao de clientela via corretagem, agenciamento ou intermediarios.\n\n### Provimento 205/2021 — mídias sociais\n\n- **Pode:** postar conteudo informativo, artigos, participacao em eventos, live de carater educacional.\n- **Pode:** impulsionar conteudo informativo (mas nao captacao direta).\n- **Nao pode:** fotos com clientes, depoimentos de clientes, mencao a vitorias judiciais, \"antes e depois\", gatilhos mentais tipicos de marketing agressivo.\n- **Nao pode:** oferecer consultoria por rede social como se fosse e-commerce.\n\n### Sigilo profissional (CED arts. 25-27 + EAOAB art. 7o, II e XIX)\n\n- **Dever e direito** do advogado — inviolabilidade de escritorio, arquivos, dados, correspondencia, comunicacoes.\n- Alcanca **fatos conhecidos em razao da profissao**, mesmo apos cessar o patrocinio ou morte do cliente.\n- Advogado **nao e obrigado** a depor sobre fatos cobertos pelo sigilo.\n- **Excecao (CED art. 25, parag. unico):** grave ameaca a vida, honra, ou defesa propria do advogado contra o proprio cliente — pode revelar o estritamente necessario."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**\"S-I-M\" — publicidade PODE:** **S**obria, **I**nformativa, **M**oderada. Se faltar uma, caiu em infracao.\n\n**\"M-R-C-V\" — publicidade NAO PODE:**\n- **M**ercantilizacao (vender como produto).\n- **R**esultados (mencionar vitorias, promessas).\n- **C**lientes (fotos, depoimentos, nomes).\n- **V**alores de honorarios divulgados em massa.\n\n**Sigilo = regra; revelacao = excecao.** So quebra em 3 situacoes (CED art. 25, parag. unico):\n1. Grave ameaca ao direito a **vida**.\n2. Grave ameaca a **honra**.\n3. Defesa do proprio advogado contra o cliente (ex.: cobranca de honorarios ou acao do cliente contra ele)."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha classica\n\n1. **\"Posso postar foto segurando o alvara de soltura do meu cliente.\"** ERRADO. Mencionar caso concreto + resultado = **infracao dupla** (CED art. 42; Provimento 205/2021).\n2. **\"Posso me chamar de 'especialista em divorcio'.\"** DEPENDE. Se tiver titulo oficial (pos-graduacao reconhecida), **pode mencionar o titulo**, mas **nao se autodenominar especialista** sem respaldo (CED art. 43).\n3. **\"O sigilo cai com a morte do cliente.\"** ERRADO. O dever **permanece** mesmo apos a morte (CED art. 26).\n4. **\"Posso ser arrolado como testemunha e falar sobre o cliente.\"** O advogado **pode ser testemunha, mas nao e obrigado a depor** sobre fatos cobertos pelo sigilo (EAOAB art. 7o, XIX).\n5. **\"Impulsionar post no Instagram e vedado.\"** ERRADO. O Provimento 205/2021 **permite** impulsionamento de **conteudo informativo**. O que e vedado e usar impulsionamento para captacao direta de clientela.\n6. **\"Posso divulgar meus honorarios no feed do Instagram.\"** ERRADO. Divulgacao de honorarios em redes sociais e vedada; so em canais privados ou mediante consulta."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na pratica do escritorio\n\nDr. Thiago abriu escritorio em Curitiba e quer bombar no Instagram.\n\n**O que ele PODE postar:**\n- Carrossel \"5 direitos do consumidor em voos atrasados\" (conteudo informativo).\n- Foto profissional no escritorio com legenda sobria.\n- Participacao como palestrante em evento da OAB-PR.\n- Live tira-duvidas sobre direito de familia (sem mencionar casos).\n- Impulsionar o carrossel educacional por R$ 50 (permitido).\n\n**O que ele NAO PODE:**\n- \"Conseguimos a guarda da Maria em tempo recorde!\" (resultado + cliente).\n- \"Consultoria por R$ 300 — compre pelo link da bio!\" (mercantilizacao).\n- \"O melhor advogado trabalhista de Curitiba\" (expressao proibida).\n- Depoimento em video da ex-cliente agradecendo (vedacao expressa, Provimento 205/2021).\n- Pagar Google Ads com o nome \"Escritorio Concorrente Ltda\" como palavra-chave.\n\n**Caso de sigilo:** o cliente Pedro confessa a Dr. Thiago que esconde bens em offshore. Dr. Thiago **nao pode** revelar — nem a esposa de Pedro, nem a Receita, nem ao juiz. **Unica excecao:** se Pedro ameacar a vida da esposa, Dr. Thiago pode comunicar o estritamente necessario para evitar o dano (CED art. 25, parag. unico)."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "A advogada Larissa, apos obter sentenca favoravel em acao de guarda, publica no seu Instagram profissional um story com a legenda \"Mais uma mae feliz! Guarda definitiva conquistada em 90 dias. Me chame no direct para sua consultoria.\" A postagem contem foto da cliente comemorando com o filho. Sobre a conduta, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A conduta e licita, pois a cliente autorizou expressamente a divulgacao da sua imagem." },
+          { "chave": "B", "texto": "A conduta e licita, pois o Provimento 205/2021 permite divulgacao de resultados obtidos em processos ja transitados em julgado." },
+          { "chave": "C", "texto": "A conduta configura infracao disciplinar, pois ha mencao a caso concreto, resultado obtido, exposicao da cliente e captacao de clientela — todas vedadas pelo CED e pelo Provimento 205/2021." },
+          { "chave": "D", "texto": "A conduta e licita, pois publicidade em redes sociais nao se sujeita as regras do CED, apenas a legislacao civil." }
+        ],
+        "correta": "C",
+        "comentario": "C esta correta: a publicacao viola varias regras simultaneamente — mencao a caso concreto e resultado obtido (CED art. 42 e Provimento 205/2021), exposicao da cliente ainda que com consentimento (vedacao mantida), e captacao de clientela por meio de convite direto a consultoria. A esta errada porque o consentimento do cliente nao afasta a vedacao etica — a norma protege a dignidade da profissao, nao so a privacidade individual. B esta errada porque o Provimento 205/2021 veda mencao a resultados independentemente de transito em julgado. D esta errada porque publicidade em redes sociais e expressamente regulada pelo Provimento 205/2021, aplicando-se tambem o CED. Fundamento: CED art. 39-47; Provimento CFOAB 205/2021.",
+        "lei_referencia": "CED arts. 39 a 47; Provimento CFOAB 205/2021"
+      },
+      {
+        "enunciado": "O advogado Henrique patrocinou acao criminal em favor de Jose, que ao final confessou a Henrique, em reuniao reservada, a autoria de outro crime nao denunciado. Encerrado o patrocinio, Jose faleceu dois anos depois. A viuva procura Henrique pedindo que relate tudo que soube para fins de inventario e eventual acao contra terceiros. Sobre o sigilo profissional, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Henrique pode revelar os fatos, pois o sigilo cessa com a morte do cliente." },
+          { "chave": "B", "texto": "Henrique pode revelar os fatos, desde que a viuva seja herdeira legitima do falecido." },
+          { "chave": "C", "texto": "Henrique deve manter o sigilo, que persiste mesmo apos o encerramento do patrocinio e a morte do cliente, somente podendo ser quebrado em grave ameaca a vida ou a honra, ou em defesa propria contra o cliente." },
+          { "chave": "D", "texto": "Henrique deve revelar os fatos se intimado judicialmente, pois o sigilo profissional nao prevalece sobre determinacao judicial." }
+        ],
+        "correta": "C",
+        "comentario": "C esta correta: o sigilo profissional persiste mesmo apos o encerramento do patrocinio e a morte do cliente (CED art. 26), somente podendo ser quebrado nas hipoteses excepcionais do art. 25, paragrafo unico — grave ameaca ao direito a vida ou a honra, ou defesa propria do advogado contra o cliente. A esta errada porque o sigilo nao se extingue com a morte. B esta errada porque a condicao de herdeiro nao autoriza acesso a informacoes cobertas por sigilo profissional. D esta errada porque o advogado, por forca do EAOAB art. 7o, XIX, nao e obrigado a depor sobre fatos cobertos pelo sigilo, mesmo intimado judicialmente. Fundamento: CED arts. 25 e 26; EAOAB art. 7o, XIX.",
+        "lei_referencia": "CED arts. 25 e 26; EAOAB art. 7o, XIX"
+      }
+    ],
+    "cartoes": [
+      { "frente": "Quais as 3 caracteristicas que a publicidade do advogado DEVE ter?", "verso": "Sobria, informativa e moderada (CED art. 39-47). O Provimento CFOAB 205/2021 detalha a aplicacao em mídias sociais e marketing digital." },
+      { "frente": "Em quais hipoteses excepcionais o advogado pode quebrar o sigilo profissional?", "verso": "Grave ameaca ao direito a vida, grave ameaca a honra, ou defesa propria contra o cliente (CED art. 25, paragrafo unico). O sigilo persiste apos o fim do patrocinio e a morte do cliente." }
+    ]
+  }
+]

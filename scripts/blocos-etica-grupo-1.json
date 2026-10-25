@@ -1,0 +1,182 @@
+[
+  {
+    "topico_slug": "inscricao-oab",
+    "titulo": "Inscrição na OAB: como se tornar advogado(a) de verdade",
+    "resumo": "Entenda os requisitos para a inscrição principal e suplementar, as diferenças entre advogado e estagiário, e as hipóteses de cancelamento e licenciamento da inscrição.",
+    "duracao_min": 14,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\nA inscrição na OAB é o ato que **transforma o bacharel em advogado**. Sem ela, não há capacidade postulatória.\n\n### Requisitos da inscrição principal (art. 8º)\n\n1. **Capacidade civil**\n2. **Diploma de bacharel em Direito** (curso reconhecido)\n3. **Título de eleitor e quitação do serviço militar** (se brasileiro)\n4. **Aprovação no Exame de Ordem**\n5. **Não exercer atividade incompatível** com a advocacia\n6. **Idoneidade moral**\n7. **Prestar compromisso** perante o Conselho\n\n> O Exame de Ordem é dispensado apenas para quem já tinha inscrição antes da Lei 8.906/94 — não existe mais hipótese nova de dispensa.\n\n### Tipos de inscrição\n\n- **Principal**: feita no Conselho Seccional em cujo território o advogado pretende ter o **domicílio profissional**.\n- **Suplementar**: obrigatória quando o advogado passa a exercer **habitualmente** a profissão em outra seccional, além dos limites de **5 causas por ano** fora do domicílio (art. 10, §2º).\n- **Estagiário**: aluno dos **dois últimos anos** do curso de Direito, inscrito na OAB mediante convênio com a faculdade.\n\n### Cancelamento x Licenciamento (art. 11 e 12)\n\n**Cancela-se** a inscrição:\n- A pedido\n- Por morte\n- Por sofrer punição de exclusão\n- Por invalidez mental comprovada\n- Por falta de pagamento (após processo)\n- Por passar a exercer atividade **incompatível** em caráter definitivo\n- Por perda de qualquer requisito do art. 8º\n\n**Licencia-se** (temporariamente):\n- A pedido justificado\n- Por exercício de atividade **incompatível** em caráter temporário\n- Por doença mental considerada curável"
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**CDTINCA** — os 7 requisitos do art. 8º, na ordem:\n\n- **C**apacidade civil\n- **D**iploma de bacharel\n- **T**ítulo de eleitor + quitação militar\n- **I**doneidade moral\n- **N**ão exercer incompatível\n- **C**ompromisso perante o Conselho\n- **A**provação no Exame de Ordem\n\nNa prova, se faltar **qualquer um** desses, a inscrição é indeferida. A FGV adora dar enunciados em que o candidato esquece a quitação militar ou acha que basta o diploma.\n\n**Dica extra**: diferencie **5 causas/ano** fora do domicílio (limite para não precisar de suplementar) de **habitualidade** (que exige a suplementar)."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha clássica\n\n**Cancelamento x Licenciamento** — a FGV adora misturar:\n\n- **Doença mental curável** → **licencia** (temporário)\n- **Invalidez mental comprovada** (irreversível) → **cancela**\n- **Atividade incompatível temporária** (ex.: eleição para prefeito) → **licencia**\n- **Atividade incompatível em caráter definitivo** → **cancela**\n\nOutra pegadinha: a **idoneidade moral** só pode ser questionada por **2/3 dos membros** do Conselho Seccional (art. 8º, §4º). Não é maioria simples.\n\n> E atenção: **estagiário NÃO é advogado**. Ele pode praticar atos extrajudiciais e, em conjunto com advogado, alguns judiciais — mas não tem capacidade postulatória autônoma."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na prática do escritório\n\nMariana se formou em Dezembro, passou no Exame da Ordem em Fevereiro e protocolou pedido de inscrição na OAB/SP, onde pretende abrir escritório.\n\nDois meses depois, aceita um convite para prestar consultoria **habitual** a uma empresa em Campinas-SP — ainda dentro do mesmo estado, sem problemas.\n\nMas, no fim do ano, começa a atender clientes **regularmente** em Belo Horizonte, viajando a cada 15 dias. Nesse momento, surge a obrigação: Mariana precisa pedir **inscrição suplementar na OAB/MG**, porque passou a exercer habitualmente fora do seu domicílio profissional e ultrapassou o limite de 5 causas por ano em outra seccional.\n\nSe ela não fizer, pode responder por infração disciplinar. Já se tivesse ido a BH apenas para 2 ou 3 audiências pontuais, bastaria comunicar à seccional local."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "Carlos, bacharel em Direito, foi aprovado no Exame de Ordem e protocolou seu pedido de inscrição na OAB/RJ. Ao analisar o pedido, a Comissão identificou que Carlos responde a processo criminal por estelionato, ainda sem sentença transitada em julgado, e que também não apresentou comprovante de quitação do serviço militar. Sobre o caso, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A inscrição deve ser deferida, pois a presunção de inocência impede qualquer análise sobre idoneidade moral antes do trânsito em julgado." },
+          { "chave": "B", "texto": "A ausência de quitação do serviço militar é causa autônoma de indeferimento, e a idoneidade moral só pode ser questionada por decisão de 2/3 dos membros do Conselho competente." },
+          { "chave": "C", "texto": "Basta a decisão da maioria simples do Conselho Seccional para rejeitar a inscrição com fundamento em falta de idoneidade moral." },
+          { "chave": "D", "texto": "O Exame de Ordem supre a exigência de quitação do serviço militar, bastando a Comissão deliberar sobre a idoneidade." }
+        ],
+        "correta": "B",
+        "comentario": "Alternativa B está correta. A quitação do serviço militar é requisito expresso do art. 8º, V, do EAOAB, cuja ausência impede o deferimento. Já a idoneidade moral só pode ser questionada por decisão de 2/3 dos membros do Conselho Seccional (art. 8º, §4º). A está errada porque a análise de idoneidade pode ser feita mesmo sem trânsito em julgado, desde que respeitado o quórum qualificado. C está errada porque exige quórum de 2/3, não maioria simples. D está errada porque o Exame de Ordem não dispensa qualquer outro requisito do art. 8º. Fundamento: EAOAB, art. 8º, V e §4º.",
+        "lei_referencia": "Lei 8.906/94, art. 8º, V e §4º"
+      },
+      {
+        "enunciado": "Pedro, advogado inscrito na OAB/PE, é diagnosticado com transtorno mental grave, considerado pelo laudo médico como de evolução incerta mas potencialmente curável. Em paralelo, outra advogada da mesma seccional, Beatriz, é eleita Deputada Federal e passará a exercer o mandato pelos próximos quatro anos. Sobre as situações, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Pedro terá sua inscrição cancelada por invalidez mental, e Beatriz também, por exercer cargo incompatível em caráter permanente." },
+          { "chave": "B", "texto": "Pedro deverá ser licenciado por doença mental considerada curável, e Beatriz também, por exercer atividade incompatível em caráter temporário." },
+          { "chave": "C", "texto": "Pedro terá a inscrição cancelada e Beatriz, licenciada, pois o mandato parlamentar é compatível com a advocacia." },
+          { "chave": "D", "texto": "Ambos manterão a inscrição regular, bastando que comuniquem a situação ao Conselho Seccional." }
+        ],
+        "correta": "B",
+        "comentario": "Alternativa B está correta. O art. 12 do EAOAB prevê o licenciamento (não cancelamento) por doença mental considerada curável (inciso II) e por exercício de atividade incompatível em caráter temporário (inciso III). O mandato de Deputado Federal é incompatível com a advocacia (art. 28, II), mas, por ter duração determinada, enseja licenciamento, não cancelamento. A está errada porque o quadro de Pedro é curável (licencia, não cancela) e o mandato de Beatriz é temporário. C está errada porque o mandato parlamentar é incompatível com a advocacia. D está errada porque ambos devem ter a inscrição licenciada. Fundamento: EAOAB, art. 12, II e III, c/c art. 28, II.",
+        "lei_referencia": "Lei 8.906/94, art. 11, 12 e 28"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "Qual o quórum para o Conselho Seccional negar inscrição por falta de idoneidade moral?",
+        "verso": "Dois terços (2/3) dos membros do Conselho Seccional competente (EAOAB, art. 8º, §4º)."
+      },
+      {
+        "frente": "Quando o advogado precisa pedir inscrição suplementar em outra seccional?",
+        "verso": "Quando passa a exercer habitualmente a profissão em território de outra seccional, além do limite de 5 causas por ano fora do domicílio profissional (EAOAB, art. 10, §2º)."
+      }
+    ]
+  },
+  {
+    "topico_slug": "direitos-prerrogativas",
+    "titulo": "Direitos e prerrogativas: o escudo do advogado",
+    "resumo": "Conheça as prerrogativas do art. 7º do EAOAB — inviolabilidade do escritório, imunidade material, prisão em sala de Estado-Maior e livre exercício da profissão.",
+    "duracao_min": 15,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\nAs **prerrogativas** não são privilégios pessoais — são garantias da **função** essencial à Justiça (CF, art. 133). Protegem o cliente, não o advogado.\n\n### Blocos principais do art. 7º\n\n**1. Inviolabilidade (art. 7º, II)**\n\n- Inviolabilidade do **escritório, instrumentos de trabalho, correspondência e comunicações** (telefônicas, telemáticas), **salvo** no caso de busca determinada por **juiz competente**, por decisão **motivada e específica**, com **acompanhamento de representante da OAB** e para apuração de **crime do próprio advogado**.\n- Documentos de clientes **não investigados** não podem ser apreendidos.\n\n**2. Prisão em flagrante por motivo ligado ao exercício (art. 7º, IV)**\n\n- Só por motivo de exercício da profissão, em **flagrante**, por **crime inafiançável**.\n- Presença **obrigatória** de representante da OAB; sem ele, auto nulo.\n\n**3. Sala de Estado-Maior (art. 7º, V)**\n\n- Antes de sentença transitada em julgado, prisão em **sala de Estado-Maior** com instalações condignas; na falta, prisão domiciliar.\n\n**4. Imunidade material (art. 7º, §2º)**\n\n- O advogado é **inviolável** por suas manifestações no exercício da profissão, nos limites da lei.\n- **Não cobre** o crime de **calúnia** (apenas injúria e difamação são abrangidas após a ADI 1.127).\n\n**5. Livre exercício e comunicação com cliente (art. 7º, III, VI, X)**\n\n- Comunicar-se **pessoal e reservadamente** com o cliente preso, **mesmo sem procuração**.\n- Examinar autos **findos ou em andamento**, inclusive sem procuração, **salvo sigilo decretado**.\n- Ingressar livremente em salas de audiência, tribunais, delegacias (nos horários de expediente ou a qualquer tempo quando houver cliente).\n\n**6. Desagravo público (art. 7º, XVII)**\n\n- Direito do advogado ofendido no exercício da profissão de ser desagravado pela OAB."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**IPLID** — os 5 pilares das prerrogativas:\n\n- **I**nviolabilidade (escritório, correspondência, comunicações)\n- **P**risão especial (flagrante por crime inafiançável + sala de Estado-Maior)\n- **L**ivre exercício (ingresso, exame de autos, comunicação com cliente)\n- **I**munidade material (injúria e difamação, não calúnia!)\n- **D**esagravo público\n\n**Macete do flagrante**: 'FICOU' — **F**lagrante + **I**nafiançável + **C**rime + no exercício + presença **OU** do representante da OAB (nulo sem ele).\n\n**Imunidade material**: só vale enquanto estiver **dentro dos limites** da discussão da causa — ofensa gratuita a terceiro não protege."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha clássica\n\n**A imunidade NÃO cobre calúnia.** Esse é o erro mais recorrente.\n\n- Após a ADI 1.127/DF (STF), a palavra 'desacato' foi declarada inconstitucional e a extensão da imunidade à calúnia foi afastada.\n- **Protegido**: injúria e difamação, no exercício da profissão, nos limites da defesa.\n- **Não protegido**: calúnia (imputar crime falso) e desacato.\n\n**Busca no escritório**: a FGV adora o cenário em que a polícia apreende computador com documentos de **vários clientes** por conta de investigação de **um** advogado — a apreensão deve se limitar ao estritamente necessário à investigação, e **jamais** pode atingir documentos de clientes não investigados (art. 7º, §6º e §7º).\n\n**Prisão em sala de Estado-Maior**: vale **até o trânsito em julgado**, não só até a sentença. E se não houver sala de Estado-Maior na comarca, é **prisão domiciliar** — não é cela comum.\n\n> Importante: a Lei 14.365/2022 reforçou várias prerrogativas, incluindo a obrigatoriedade de **sustentação oral** e a prioridade de atendimento em delegacias e cartórios."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na prática do escritório\n\nO advogado Ricardo defende um empresário acusado de sonegação. Durante a sustentação oral no TRF, afirma que a autoridade fiscal 'agiu com desídia e preparou um auto de infração juridicamente inepto'. O fiscal se ofende e pensa em representar criminalmente.\n\nRicardo está **protegido pela imunidade material** (art. 7º, §2º) — a manifestação foi feita no exercício da profissão, nos limites da defesa, e configura, no máximo, injúria ou difamação (abrangidas pela imunidade).\n\nSe, porém, Ricardo tivesse dito 'o fiscal recebeu propina do concorrente do meu cliente para fabricar o auto', estaria **imputando crime** (corrupção passiva) — isso é **calúnia**, não coberta pela imunidade. A ofensa poderia gerar ação penal.\n\nE se, dias depois, a polícia aparecer no escritório de Ricardo com mandado genérico de busca, procurando qualquer coisa relacionada a vários clientes? Ricardo pode exigir: mandado **específico e motivado**, destinado à apuração de crime do próprio advogado, com **representante da OAB presente** — sem isso, a busca é ilegal."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "A advogada Juliana defende um réu em ação penal e, durante sustentação oral, afirma categoricamente que o Promotor de Justiça do caso 'é um incompetente que não leu os autos e trabalha com má-fé para condenar inocentes'. O Promotor, revoltado, pretende adotar medidas contra Juliana. Sobre o caso, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A imunidade material do advogado abrange qualquer ofensa, inclusive calúnia, desde que proferida em ato processual." },
+          { "chave": "B", "texto": "A conduta de Juliana está integralmente protegida pela imunidade material, por se tratar de manifestação em sustentação oral." },
+          { "chave": "C", "texto": "A imunidade material prevista no EAOAB abrange injúria e difamação ligadas ao exercício da profissão, não alcançando o crime de calúnia nem o desacato." },
+          { "chave": "D", "texto": "A imunidade material do advogado foi integralmente declarada inconstitucional pelo STF e, portanto, Juliana responde por todos os crimes contra a honra." }
+        ],
+        "correta": "C",
+        "comentario": "Alternativa C está correta. Após a ADI 1.127/DF, o STF excluiu o 'desacato' do rol de condutas abrangidas pela imunidade e firmou que a imunidade material do art. 7º, §2º, do EAOAB abrange apenas injúria e difamação, não a calúnia. A está errada porque calúnia não é abrangida. B está errada pelo mesmo motivo — imputar má-fé pode configurar difamação (coberta), mas acusar de atuar criminosamente seria calúnia (não coberta); além disso, a análise exige verificar os limites. D está errada porque a imunidade material subsiste, apenas sem incluir desacato e calúnia. Fundamento: EAOAB, art. 7º, §2º e ADI 1.127/DF.",
+        "lei_referencia": "Lei 8.906/94, art. 7º, §2º"
+      },
+      {
+        "enunciado": "O advogado Marcelo é alvo de investigação criminal por suposta participação em organização que falsifica procurações. O juiz expede mandado de busca e apreensão genérico, autorizando a apreensão de 'todo material do escritório'. No cumprimento, a polícia leva computadores, arquivos físicos e pastas de todos os clientes do escritório, inclusive dos que não têm qualquer relação com os fatos. Sobre o caso, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "A busca é válida, pois o escritório do advogado investigado perde a inviolabilidade, autorizando a apreensão ampla de todo o acervo." },
+          { "chave": "B", "texto": "A busca é nula, pois o mandado deve ser específico, motivado, limitar-se ao estritamente necessário e preservar documentos de clientes não investigados, com acompanhamento de representante da OAB." },
+          { "chave": "C", "texto": "A busca é válida apenas se a autoridade policial comunicar a OAB após o cumprimento do mandado." },
+          { "chave": "D", "texto": "A busca é válida se o juiz autorizar a quebra da inviolabilidade por decisão não motivada, bastando o indício de participação em crime." }
+        ],
+        "correta": "B",
+        "comentario": "Alternativa B está correta. O art. 7º, II, §§ 6º e 7º do EAOAB, com redação atualizada, exige que a busca seja autorizada por juiz competente, mediante decisão motivada e específica, restrita ao necessário à apuração do crime do próprio advogado, com acompanhamento de representante da OAB, preservando-se documentos e dados de clientes não envolvidos. A está errada porque o escritório não perde a inviolabilidade por ser alvo de investigação. C está errada porque o acompanhamento deve ser durante o cumprimento, não posterior. D está errada porque a decisão deve ser motivada e específica. Fundamento: EAOAB, art. 7º, II, §§ 6º e 7º.",
+        "lei_referencia": "Lei 8.906/94, art. 7º, II, §§ 6º e 7º"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "A imunidade material do advogado abrange calúnia?",
+        "verso": "Não. Abrange apenas injúria e difamação ligadas ao exercício da profissão; calúnia e desacato ficam de fora (EAOAB, art. 7º, §2º e ADI 1.127/DF)."
+      },
+      {
+        "frente": "Em que local o advogado deve ficar preso antes do trânsito em julgado?",
+        "verso": "Em sala de Estado-Maior, com instalações e comodidades condignas; na falta, em prisão domiciliar (EAOAB, art. 7º, V)."
+      }
+    ]
+  },
+  {
+    "topico_slug": "deveres-advogado",
+    "titulo": "Deveres do advogado: a bússola do CED",
+    "resumo": "Veja os deveres fundamentais do advogado no EAOAB (arts. 31-33) e no CED/2015 — probidade, independência, sigilo, lealdade e conduta compatível com a dignidade da profissão.",
+    "duracao_min": 15,
+    "passos": [
+      {
+        "tipo": "mapa",
+        "conteudo_md": "## O essencial\n\nO advogado tem **deveres éticos** que vão muito além da lei processual. Eles estão no **EAOAB** (arts. 31-33) e, de forma mais detalhada, no **Código de Ética e Disciplina (CED/2015)**.\n\n### Deveres fundamentais (EAOAB art. 33 e CED art. 2º)\n\n1. **Probidade** — agir com retidão em qualquer atuação.\n2. **Independência técnica** — não pode ter sua convicção subordinada à do cliente, do juiz ou de qualquer terceiro.\n3. **Lealdade com o cliente** — defender com empenho, informar sobre riscos, não usar estratégias desleais.\n4. **Veracidade** — não produzir provas falsas, não alegar fatos que sabe inverídicos.\n5. **Sigilo profissional** — inviolável; limites só em legítima defesa do próprio advogado ou com autorização expressa do cliente.\n6. **Conduta compatível com a dignidade da profissão** — mesmo na vida privada.\n7. **Urbanidade** — tratar com respeito juízes, promotores, servidores, colegas e partes.\n8. **Zelo pelo prestígio da classe**.\n\n### Pontos sensíveis do CED/2015\n\n- **Publicidade** (arts. 39-47): discreta, sobretudo informativa. Vedado mercantilizar, anunciar em outdoors/rádio/TV com apelo comercial, prometer resultado, divulgar valores.\n- **Honorários** (arts. 48-54): sempre contrato escrito; vedado 'quota litis' que absorva todo o resultado; vedada captação de clientela.\n- **Conflito de interesses** (art. 20): proibido patrocinar partes com interesses opostos simultaneamente.\n- **Advogado x ex-cliente** (art. 19): não pode usar informações obtidas na relação anterior contra o ex-cliente.\n\n### Deveres com o colega (CED art. 26 e seguintes)\n\n- Tratar com respeito, mesmo em litígio.\n- Comunicar-se por escrito ao assumir causa já patrocinada por outro.\n- Não denegrir publicamente outro advogado.\n\n> **Dever primordial**: 'preservar a honra, a nobreza e a dignidade da profissão' (CED, art. 2º, I)."
+      },
+      {
+        "tipo": "macete",
+        "conteudo_md": "## Macete\n\n**PLUS VIU** — os 7 deveres-chave:\n\n- **P**robidade\n- **L**ealdade (com cliente e com colegas)\n- **U**rbanidade\n- **S**igilo profissional\n- **V**eracidade\n- **I**ndependência técnica\n- **U**nião pela dignidade da classe\n\nSe lembrar de 'PLUS VIU', você cobre praticamente todas as perguntas da FGV sobre deveres.\n\n**Para publicidade**: pense em 'DIS-IN' — **Dis**creta e **In**formativa (não comercial, não sensacionalista, não promessa de resultado)."
+      },
+      {
+        "tipo": "pegadinha",
+        "conteudo_md": "## Pegadinha clássica\n\n**Sigilo profissional** é a pegadinha favorita.\n\n- O sigilo é **inviolável** (CED art. 35).\n- **Exceções**: grave ameaça ao direito à vida ou à honra do próprio advogado, ou autorização expressa e específica do cliente.\n- O advogado **PODE se recusar** a depor como testemunha sobre fato relacionado a cliente — e **DEVE** se recusar quando o depoimento violar sigilo.\n- Mesmo após o fim do contrato, o sigilo **permanece**.\n\n**Publicidade** — erros comuns:\n- Anunciar 'sucesso em 100% dos casos' → **vedado** (promessa de resultado).\n- Divulgar valor de honorários em panfleto → **vedado**.\n- Patrocinar post em rede social com apelo comercial → **vedado**.\n- Participar de entrevista em TV sobre caso em andamento com exposição desnecessária do cliente → **vedado**.\n\n**Conflito de interesses**: a FGV adora cenário em que o advogado atendeu o marido no divórcio e, meses depois, tenta patrocinar a esposa em ação contra ele. **Vedado** pelo art. 19 do CED.\n\n> E atenção: **recusar causa** é um direito do advogado, mas **abandonar causa aceita** sem motivo justo e sem prévia comunicação é infração ética (CED art. 14)."
+      },
+      {
+        "tipo": "exemplo",
+        "conteudo_md": "## Na prática do escritório\n\nA advogada Fernanda atendeu o empresário Rogério por três anos em questões societárias de sua empresa familiar. Durante esse período, teve acesso a planilhas, participações, acordos internos e desavenças com os sócios.\n\nSeis meses após encerrar o contrato com Rogério, a ex-esposa dele, Carla, procura Fernanda para patrocinar uma ação de partilha envolvendo justamente a empresa.\n\nFernanda **deve recusar** o patrocínio. Dois motivos éticos:\n\n1. **Conflito de interesses / sigilo residual** (CED, arts. 19 e 20): as informações obtidas na relação anterior com Rogério não podem ser usadas contra ele, mesmo que a relação tenha terminado.\n2. **Lealdade** com o ex-cliente: o dever de sigilo não acaba com o fim do contrato.\n\nOutro caso: o colega Pedro assume causa que já era patrocinada pelo advogado Luiz. Antes de peticionar nos autos, Pedro deve **comunicar por escrito a Luiz** (CED, art. 11), por cortesia e para que seja prestada eventual conta de honorários pendentes. Pular essa etapa é infração ética — mesmo que o cliente tenha, legitimamente, trocado de advogado."
+      }
+    ],
+    "questoes": [
+      {
+        "enunciado": "O advogado Tiago, após encerrar contrato de patrocínio com a sociedade empresária Alpha Ltda., é procurado por antigo sócio da empresa, que agora litiga contra ela em ação de dissolução parcial. O ex-sócio pede que Tiago o represente, alegando que ele é 'quem melhor conhece os detalhes internos da Alpha'. Sobre o caso, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Tiago pode aceitar o patrocínio, pois o contrato com a Alpha foi encerrado, e o sigilo profissional cessa com o fim da relação." },
+          { "chave": "B", "texto": "Tiago pode aceitar desde que comunique à Alpha e obtenha autorização escrita do sócio contrário." },
+          { "chave": "C", "texto": "Tiago deve recusar o patrocínio, pois está vedado usar, em benefício de nova parte, informações obtidas na relação anterior com a Alpha, e o sigilo permanece mesmo após o fim do contrato." },
+          { "chave": "D", "texto": "Tiago pode aceitar o patrocínio, desde que não revele publicamente as informações obtidas, podendo utilizá-las apenas em juízo." }
+        ],
+        "correta": "C",
+        "comentario": "Alternativa C está correta. O art. 19 do CED/2015 veda que o advogado utilize em prejuízo do ex-cliente informações obtidas na relação profissional anterior, e o art. 36 reforça que o sigilo profissional é dever permanente, não cessando com o fim do contrato. Trata-se também de conflito de interesses. A está errada porque o sigilo não cessa com o fim do contrato. B está errada porque não existe autorização possível que legitime o uso de informações privilegiadas contra o ex-cliente. D está errada porque o uso em juízo também configura violação de sigilo e conflito. Fundamento: CED/2015, arts. 19, 20 e 36.",
+        "lei_referencia": "CED/2015, arts. 19, 20 e 36"
+      },
+      {
+        "enunciado": "Camila, advogada recém-inscrita, decide impulsionar sua carreira com publicidade digital. Publica, em suas redes sociais, posts patrocinados com os seguintes conteúdos: (i) 'Divórcio em 15 dias — resultado garantido!'; (ii) tabela com valores dos seus honorários para diferentes tipos de ação; (iii) depoimentos em vídeo de três clientes satisfeitos. Sobre a conduta, assinale a alternativa correta:",
+        "alternativas": [
+          { "chave": "A", "texto": "Todas as condutas são permitidas, pois a publicidade na internet não se sujeita às limitações do CED." },
+          { "chave": "B", "texto": "Todas as condutas constituem infração ética, pois a publicidade do advogado deve ser moderada e meramente informativa, sendo vedada promessa de resultado, divulgação de honorários e captação de clientela." },
+          { "chave": "C", "texto": "Apenas a publicação com valores de honorários é vedada; promessas de resultado e depoimentos de clientes são permitidos." },
+          { "chave": "D", "texto": "Apenas a promessa de resultado é vedada; divulgação de honorários e depoimentos de clientes são permitidos desde que verdadeiros." }
+        ],
+        "correta": "B",
+        "comentario": "Alternativa B está correta. O CED/2015, nos arts. 39 a 47 (e também o Provimento 205/2021 do CFOAB), estabelece que a publicidade do advogado deve ter caráter moderado, informativo e discreto. É vedado: prometer resultado (art. 40, §2º), divulgar valores de honorários como forma de captação (art. 40), e exibir depoimentos de clientes com viés promocional (art. 42). A está errada porque a publicidade digital se sujeita integralmente ao CED. C e D estão erradas porque todas as três condutas são vedadas. Fundamento: CED/2015, arts. 39-47 e Provimento 205/2021 CFOAB.",
+        "lei_referencia": "CED/2015, arts. 39-47"
+      }
+    ],
+    "cartoes": [
+      {
+        "frente": "O dever de sigilo do advogado termina com o fim do contrato com o cliente?",
+        "verso": "Não. O sigilo é permanente e permanece mesmo após o encerramento da relação profissional (CED/2015, arts. 35 e 36)."
+      },
+      {
+        "frente": "O advogado pode prometer resultado em propaganda nas redes sociais?",
+        "verso": "Não. É vedada qualquer promessa de resultado ou publicidade com apelo comercial, sob pena de infração ética (CED/2015, arts. 40 e seguintes, e Provimento 205/2021 CFOAB)."
+      }
+    ]
+  }
+]

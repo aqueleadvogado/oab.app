@@ -14,7 +14,8 @@
     "db:seed": "node --env-file=.env.local --import tsx scripts/seed-exemplo.ts",
     "db:import-fgv": "node --env-file=.env.local --import tsx scripts/importar-provas-fgv.ts",
     "db:seed-topicos": "node --env-file=.env.local --import tsx scripts/seed-topicos.ts",
-    "db:aplicar-classificacao": "node --env-file=.env.local --import tsx scripts/aplicar-classificacao.ts"
+    "db:aplicar-classificacao": "node --env-file=.env.local --import tsx scripts/aplicar-classificacao.ts",
+    "db:importar-blocos": "node --env-file=.env.local --import tsx scripts/importar-blocos-didaticos.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
