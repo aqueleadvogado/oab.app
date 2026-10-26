@@ -7,7 +7,7 @@ import {
   topicos,
   respostas,
 } from "@/lib/db/schema";
-import { and, eq, sql, inArray } from "drizzle-orm";
+import { and, eq, sql } from "drizzle-orm";
 import { DISCIPLINAS_ESTATICAS } from "@/lib/disciplinas-estaticas";
 
 export type ResumoMateria = {
@@ -19,59 +19,108 @@ export type ResumoMateria = {
   peso: number;
   blocosPublicados: number;
   blocosEmRevisao: number;
-  questoesClassificadas: number; // questões FGV atribuídas a essa disciplina
+  questoesClassificadas: number;
   respostasUsuario: number;
   acertosUsuario: number;
 };
 
+/**
+ * Monta o resumo por disciplina com 4 queries pequenas em paralelo
+ * (mais simples e robusto que subqueries SQL inline).
+ */
 export async function resumoMaterias(userId: string): Promise<ResumoMateria[]> {
-  // Contagens agregadas por disciplina em UMA só query
-  const rows = await db
-    .select({
-      disciplinaSlug: disciplinas.slug,
-      disciplinaId: disciplinas.id,
-      blocosPublicados: sql<number>`
-        (SELECT COUNT(*) FROM ${blocos}
-         INNER JOIN ${topicos} AS t2 ON ${blocos.topicoId} = t2.id
-         WHERE t2.disciplina_id = ${disciplinas.id}
-           AND ${blocos.status} = 'publicado')
-      `.mapWith(Number),
-      blocosEmRevisao: sql<number>`
-        (SELECT COUNT(*) FROM ${blocos}
-         INNER JOIN ${topicos} AS t3 ON ${blocos.topicoId} = t3.id
-         WHERE t3.disciplina_id = ${disciplinas.id}
-           AND ${blocos.status} = 'em_revisao')
-      `.mapWith(Number),
-      questoesClassificadas: sql<number>`
-        (SELECT COUNT(*) FROM ${questoes}
-         INNER JOIN ${topicos} AS t4 ON ${questoes.topicoClassificadoId} = t4.id
-         WHERE t4.disciplina_id = ${disciplinas.id})
-      `.mapWith(Number),
-    })
-    .from(disciplinas);
+  const [blocosRows, questoesRows, respUsuario] = await Promise.all([
+    // 1) contagem de blocos por disciplina e por status
+    db
+      .select({
+        disciplinaSlug: disciplinas.slug,
+        status: blocos.status,
+        total: sql<number>`COUNT(*)`.mapWith(Number),
+      })
+      .from(blocos)
+      .innerJoin(topicos, eq(blocos.topicoId, topicos.id))
+      .innerJoin(disciplinas, eq(topicos.disciplinaId, disciplinas.id))
+      .groupBy(disciplinas.slug, blocos.status),
 
-  const idPorSlug = new Map(rows.map((r) => [r.disciplinaSlug, r.disciplinaId]));
+    // 2) contagem de questões classificadas por disciplina
+    db
+      .select({
+        disciplinaSlug: disciplinas.slug,
+        total: sql<number>`COUNT(*)`.mapWith(Number),
+      })
+      .from(questoes)
+      .innerJoin(topicos, eq(questoes.topicoClassificadoId, topicos.id))
+      .innerJoin(disciplinas, eq(topicos.disciplinaId, disciplinas.id))
+      .groupBy(disciplinas.slug),
 
-  // Progresso do usuário por disciplina (via respostas)
-  const respUsuario = await db
-    .select({
-      disciplinaSlug: disciplinas.slug,
-      total: sql<number>`COUNT(*)`.mapWith(Number),
-      acertos: sql<number>`COUNT(*) FILTER (WHERE ${respostas.acertou} = TRUE)`.mapWith(Number),
-    })
-    .from(respostas)
-    .innerJoin(questoes, eq(respostas.questaoId, questoes.id))
-    .innerJoin(topicos, eq(questoes.topicoClassificadoId, topicos.id))
-    .innerJoin(disciplinas, eq(topicos.disciplinaId, disciplinas.id))
-    .where(eq(respostas.userId, userId))
-    .groupBy(disciplinas.slug);
+    // 3) respostas do usuário por disciplina (acertos vs total)
+    db
+      .select({
+        disciplinaSlug: disciplinas.slug,
+        total: sql<number>`COUNT(*)`.mapWith(Number),
+        acertos: sql<number>`COUNT(*) FILTER (WHERE ${respostas.acertou} = TRUE)`.mapWith(Number),
+      })
+      .from(respostas)
+      .innerJoin(questoes, eq(respostas.questaoId, questoes.id))
+      .innerJoin(topicos, eq(questoes.topicoClassificadoId, topicos.id))
+      .innerJoin(disciplinas, eq(topicos.disciplinaId, disciplinas.id))
+      .where(eq(respostas.userId, userId))
+      .groupBy(disciplinas.slug),
+  ]);
 
-  const respPorSlug = new Map(respUsuario.map((r) => [r.disciplinaSlug, r]));
+  // Agrega em memória por disciplina
+  const porSlug = new Map<
+    string,
+    { publicados: number; emRevisao: number; classif: number; respostas: number; acertos: number }
+  >();
 
-  // Monta na ordem estática (que é a ordem didática/pedagógica desejada)
+  for (const r of blocosRows) {
+    const atual = porSlug.get(r.disciplinaSlug) ?? {
+      publicados: 0,
+      emRevisao: 0,
+      classif: 0,
+      respostas: 0,
+      acertos: 0,
+    };
+    if (r.status === "publicado") atual.publicados += r.total;
+    if (r.status === "em_revisao") atual.emRevisao += r.total;
+    porSlug.set(r.disciplinaSlug, atual);
+  }
+
+  for (const r of questoesRows) {
+    const atual = porSlug.get(r.disciplinaSlug) ?? {
+      publicados: 0,
+      emRevisao: 0,
+      classif: 0,
+      respostas: 0,
+      acertos: 0,
+    };
+    atual.classif = r.total;
+    porSlug.set(r.disciplinaSlug, atual);
+  }
+
+  for (const r of respUsuario) {
+    const atual = porSlug.get(r.disciplinaSlug) ?? {
+      publicados: 0,
+      emRevisao: 0,
+      classif: 0,
+      respostas: 0,
+      acertos: 0,
+    };
+    atual.respostas = r.total;
+    atual.acertos = r.acertos;
+    porSlug.set(r.disciplinaSlug, atual);
+  }
+
+  // Monta a lista final na ordem didática fixa das 20 disciplinas
   return DISCIPLINAS_ESTATICAS.map((d) => {
-    const r = rows.find((x) => x.disciplinaSlug === d.slug);
-    const u = respPorSlug.get(d.slug);
+    const s = porSlug.get(d.slug) ?? {
+      publicados: 0,
+      emRevisao: 0,
+      classif: 0,
+      respostas: 0,
+      acertos: 0,
+    };
     return {
       slug: d.slug,
       nome: d.nome,
@@ -79,11 +128,11 @@ export async function resumoMaterias(userId: string): Promise<ResumoMateria[]> {
       corHex: d.corHex,
       emoji: d.emoji,
       peso: d.peso,
-      blocosPublicados: r?.blocosPublicados ?? 0,
-      blocosEmRevisao: r?.blocosEmRevisao ?? 0,
-      questoesClassificadas: r?.questoesClassificadas ?? 0,
-      respostasUsuario: u?.total ?? 0,
-      acertosUsuario: u?.acertos ?? 0,
+      blocosPublicados: s.publicados,
+      blocosEmRevisao: s.emRevisao,
+      questoesClassificadas: s.classif,
+      respostasUsuario: s.respostas,
+      acertosUsuario: s.acertos,
     };
   });
 }
