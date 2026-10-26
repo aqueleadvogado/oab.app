@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { resumoMaterias } from "@/lib/materias/queries";
 import { Timer, ListChecks, BookOpen } from "lucide-react";
@@ -11,7 +12,8 @@ export default async function MateriasPage() {
   const {
     data: { user },
   } = await supabase.auth.getUser();
-  const materias = await resumoMaterias(user!.id);
+  if (!user) redirect("/login?next=/materias");
+  const materias = await resumoMaterias(user.id);
 
   return (
     <main className="max-w-5xl mx-auto px-6 py-10 w-full">
