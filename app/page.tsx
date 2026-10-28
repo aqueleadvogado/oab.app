@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className="mt-10 flex flex-wrap gap-3">
           <Button size="lg" asChild>
-            <Link href="/cadastro">Começar agora — R$ 47 por ano</Link>
+            <Link href="/assinar">Começar agora — R$ 97 por ano</Link>
           </Button>
           <Button size="lg" variant="secondary" asChild>
             <Link href="/design">Ver o método</Link>

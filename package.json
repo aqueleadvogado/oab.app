@@ -15,13 +15,15 @@
     "db:import-fgv": "node --env-file=.env.local --import tsx scripts/importar-provas-fgv.ts",
     "db:seed-topicos": "node --env-file=.env.local --import tsx scripts/seed-topicos.ts",
     "db:aplicar-classificacao": "node --env-file=.env.local --import tsx scripts/aplicar-classificacao.ts",
-    "db:importar-blocos": "node --env-file=.env.local --import tsx scripts/importar-blocos-didaticos.ts"
+    "db:importar-blocos": "node --env-file=.env.local --import tsx scripts/importar-blocos-didaticos.ts",
+    "db:seed-plano": "node --env-file=.env.local --import tsx scripts/seed-plano-anual.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
     "@supabase/supabase-js": "^2.118.0",
     "drizzle-orm": "^0.45.4",
     "lucide-react": "^1.61.0",
+    "mercadopago": "^3.6.1",
     "next": "16.4.3",
     "postgres": "^3.4.9",
     "react": "19.3.0",

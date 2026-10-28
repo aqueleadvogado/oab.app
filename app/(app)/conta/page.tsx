@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { db } from "@/lib/db";
@@ -8,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { FormBasico } from "@/components/perfil/form-basico";
 import { FormAcessibilidade } from "@/components/perfil/form-acessibilidade";
 import type { PrefsAcessibilidade } from "@/lib/perfil/actions";
+import { getAssinaturaAtiva } from "@/lib/pagamento";
 
 export const metadata = { title: "Minha conta" };
 export const instant = false;
@@ -29,6 +31,8 @@ export default async function ContaPage() {
   const prefs: PrefsAcessibilidade =
     (perfil?.prefsAcessibilidade as PrefsAcessibilidade) ?? {};
 
+  const assinaturaAtiva = await getAssinaturaAtiva(user.id);
+
   return (
     <main className="max-w-3xl mx-auto px-6 py-12 flex-1 w-full">
       <header className="mb-10">
@@ -43,6 +47,38 @@ export default async function ContaPage() {
       </header>
 
       <div className="space-y-8">
+        <Card>
+          <CardHeader>
+            <h2 className="text-xl">Assinatura</h2>
+          </CardHeader>
+          <CardBody>
+            {assinaturaAtiva && assinaturaAtiva.fim ? (
+              <>
+                <p className="text-sm">
+                  Status: <strong className="text-green-700">Ativa</strong>
+                </p>
+                <p className="text-sm text-muted mt-1">
+                  Vale até{" "}
+                  <strong>
+                    {new Date(assinaturaAtiva.fim).toLocaleDateString("pt-BR")}
+                  </strong>
+                  .
+                </p>
+              </>
+            ) : (
+              <>
+                <p className="text-sm text-muted mb-4">
+                  Você ainda não tem assinatura ativa. O acesso ao conteúdo é
+                  anual.
+                </p>
+                <Button asChild>
+                  <Link href="/assinar">Ver plano — R$ 97/ano</Link>
+                </Button>
+              </>
+            )}
+          </CardBody>
+        </Card>
+
         <Card>
           <CardHeader>
             <h2 className="text-xl">Perfil</h2>
