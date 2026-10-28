@@ -1,7 +1,8 @@
 import "server-only";
 import { db } from "@/lib/db";
-import { planos, assinaturas, pagamentos } from "@/lib/db/schema";
+import { planos, assinaturas, pagamentos, profiles } from "@/lib/db/schema";
 import { and, desc, eq, gt } from "drizzle-orm";
+import { enviarBoasVindasPagamento } from "./email";
 
 export async function getPlanoPorSlug(slug: string) {
   const [p] = await db
@@ -106,7 +107,7 @@ export async function processarWebhookPagamento(input: {
       },
     });
 
-  // Se aprovado, ativa a assinatura
+  // Se aprovado, ativa a assinatura e envia boas-vindas
   if (statusPagamento === "aprovado") {
     const [plano] = await db
       .select()
@@ -131,6 +132,22 @@ export async function processarWebhookPagamento(input: {
         atualizadoEm: new Date(),
       })
       .where(eq(assinaturas.id, input.assinaturaId));
+
+    // Enviar e-mail de boas-vindas (fire-and-forget — não bloqueia webhook)
+    const [perfil] = await db
+      .select({ nome: profiles.nome, email: profiles.email })
+      .from(profiles)
+      .where(eq(profiles.id, input.userId))
+      .limit(1);
+
+    if (perfil?.email) {
+      enviarBoasVindasPagamento({
+        email: perfil.email,
+        nome: perfil.nome,
+      }).catch((err) => {
+        console.error("[webhook] falha ao enviar boas-vindas (ignorando):", err);
+      });
+    }
   }
 
   return { statusPagamento };
