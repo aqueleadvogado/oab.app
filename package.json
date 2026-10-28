@@ -16,7 +16,8 @@
     "db:seed-topicos": "node --env-file=.env.local --import tsx scripts/seed-topicos.ts",
     "db:aplicar-classificacao": "node --env-file=.env.local --import tsx scripts/aplicar-classificacao.ts",
     "db:importar-blocos": "node --env-file=.env.local --import tsx scripts/importar-blocos-didaticos.ts",
-    "db:seed-plano": "node --env-file=.env.local --import tsx scripts/seed-plano-anual.ts"
+    "db:seed-plano": "node --env-file=.env.local --import tsx scripts/seed-plano-anual.ts",
+    "db:validar-migracao": "node --env-file=.env.local --import tsx scripts/validar-migracao-db.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
